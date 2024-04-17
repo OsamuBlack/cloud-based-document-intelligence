@@ -1,0 +1,3994 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T19:58:34Z",
+	"lastUpdatedDateTime": "2024-04-17T19:58:35Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "AL Karya Restaurant\nطريق المطار - الجسر الخامس\nدمشق\n0992020513\nمبيع طاولات\n12-10-2018 15:32\nرقم الفاتورة 112577 رقم الطاولة 203\n500\nمتبل\n1\n1000\nبابا غنوج\n2\n350\nكبيس\n1\n2800\nبطاطا مقلية\n4\n350\nمايونيز\n1\n2400\nتبولة\nمشاوي مشكلة 200 غ\n4\n16000\n8\n800\nعصير برتقال\nدايت سفن اب\n1\n1600\n800\nمياه بقين كبير\n4\n2\n200\nمحارم\n26800\n: المجموع الأولي\n1\n1340\nإنفاق إستهلاكي 5%\n67\nرسم إدارة محلية\n134\nرسم إعادة إعمار\nالمجموع ل.س: 28341",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.8964999914169312,
+				"width": 540,
+				"height": 960,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "AL",
+						"polygon": [
+							64,
+							164,
+							96,
+							163,
+							98,
+							191,
+							66,
+							191
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 0,
+							"length": 2
+						}
+					},
+					{
+						"content": "Karya",
+						"polygon": [
+							107,
+							162,
+							186,
+							161,
+							187,
+							189,
+							108,
+							191
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 3,
+							"length": 5
+						}
+					},
+					{
+						"content": "Restaurant",
+						"polygon": [
+							195,
+							161,
+							348,
+							160,
+							348,
+							184,
+							196,
+							189
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 9,
+							"length": 10
+						}
+					},
+					{
+						"content": "طريق",
+						"polygon": [
+							277,
+							187,
+							318,
+							186,
+							319,
+							211,
+							278,
+							213
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 20,
+							"length": 4
+						}
+					},
+					{
+						"content": "المطار",
+						"polygon": [
+							220,
+							189,
+							272,
+							187,
+							273,
+							213,
+							221,
+							216
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 25,
+							"length": 6
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							200,
+							189,
+							213,
+							189,
+							214,
+							216,
+							201,
+							216
+						],
+						"confidence": 0.952,
+						"span": {
+							"offset": 32,
+							"length": 1
+						}
+					},
+					{
+						"content": "الجسر",
+						"polygon": [
+							153,
+							191,
+							195,
+							189,
+							195,
+							216,
+							154,
+							218
+						],
+						"confidence": 0.954,
+						"span": {
+							"offset": 34,
+							"length": 5
+						}
+					},
+					{
+						"content": "الخامس",
+						"polygon": [
+							98,
+							193,
+							148,
+							191,
+							149,
+							218,
+							99,
+							219
+						],
+						"confidence": 0.924,
+						"span": {
+							"offset": 40,
+							"length": 6
+						}
+					},
+					{
+						"content": "دمشق",
+						"polygon": [
+							185,
+							216,
+							227,
+							216,
+							228,
+							239,
+							186,
+							240
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 47,
+							"length": 4
+						}
+					},
+					{
+						"content": "0992020513",
+						"polygon": [
+							137,
+							244,
+							269,
+							240,
+							271,
+							266,
+							138,
+							270
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 52,
+							"length": 10
+						}
+					},
+					{
+						"content": "مبيع",
+						"polygon": [
+							222,
+							271,
+							253,
+							272,
+							253,
+							295,
+							222,
+							296
+						],
+						"confidence": 0.915,
+						"span": {
+							"offset": 63,
+							"length": 4
+						}
+					},
+					{
+						"content": "طاولات",
+						"polygon": [
+							159,
+							272,
+							213,
+							271,
+							214,
+							296,
+							160,
+							297
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 68,
+							"length": 6
+						}
+					},
+					{
+						"content": "12-10-2018",
+						"polygon": [
+							113,
+							300,
+							229,
+							297,
+							230,
+							322,
+							114,
+							325
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 75,
+							"length": 10
+						}
+					},
+					{
+						"content": "15:32",
+						"polygon": [
+							244,
+							296,
+							302,
+							295,
+							302,
+							319,
+							244,
+							322
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 86,
+							"length": 5
+						}
+					},
+					{
+						"content": "رقم",
+						"polygon": [
+							338,
+							322,
+							367,
+							321,
+							367,
+							349,
+							339,
+							350
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 92,
+							"length": 3
+						}
+					},
+					{
+						"content": "الفاتورة",
+						"polygon": [
+							274,
+							323,
+							333,
+							322,
+							333,
+							350,
+							275,
+							351
+						],
+						"confidence": 0.786,
+						"span": {
+							"offset": 96,
+							"length": 8
+						}
+					},
+					{
+						"content": "112577",
+						"polygon": [
+							196,
+							325,
+							269,
+							323,
+							269,
+							351,
+							196,
+							353
+						],
+						"confidence": 0.836,
+						"span": {
+							"offset": 105,
+							"length": 6
+						}
+					},
+					{
+						"content": "رقم",
+						"polygon": [
+							145,
+							326,
+							175,
+							325,
+							176,
+							353,
+							145,
+							354
+						],
+						"confidence": 0.832,
+						"span": {
+							"offset": 112,
+							"length": 3
+						}
+					},
+					{
+						"content": "الطاولة",
+						"polygon": [
+							86,
+							327,
+							139,
+							326,
+							140,
+							354,
+							86,
+							354
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 116,
+							"length": 7
+						}
+					},
+					{
+						"content": "203",
+						"polygon": [
+							42,
+							327,
+							81,
+							327,
+							81,
+							355,
+							43,
+							355
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 124,
+							"length": 3
+						}
+					},
+					{
+						"content": "500",
+						"polygon": [
+							338,
+							377,
+							378,
+							377,
+							378,
+							400,
+							338,
+							400
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 128,
+							"length": 3
+						}
+					},
+					{
+						"content": "متبل",
+						"polygon": [
+							267,
+							379,
+							294,
+							379,
+							294,
+							401,
+							267,
+							402
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 132,
+							"length": 4
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							78,
+							384,
+							88,
+							384,
+							88,
+							404,
+							78,
+							404
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 137,
+							"length": 1
+						}
+					},
+					{
+						"content": "1000",
+						"polygon": [
+							328,
+							404,
+							377,
+							403,
+							377,
+							424,
+							328,
+							425
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 139,
+							"length": 4
+						}
+					},
+					{
+						"content": "بابا",
+						"polygon": [
+							271,
+							405,
+							293,
+							404,
+							295,
+							426,
+							272,
+							428
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 144,
+							"length": 4
+						}
+					},
+					{
+						"content": "غنوج",
+						"polygon": [
+							231,
+							407,
+							267,
+							405,
+							268,
+							428,
+							233,
+							430
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 149,
+							"length": 4
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							77,
+							405,
+							92,
+							405,
+							92,
+							431,
+							77,
+							431
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 154,
+							"length": 1
+						}
+					},
+					{
+						"content": "350",
+						"polygon": [
+							341,
+							428,
+							377,
+							427,
+							378,
+							448,
+							341,
+							449
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 156,
+							"length": 3
+						}
+					},
+					{
+						"content": "كبيس",
+						"polygon": [
+							266,
+							428,
+							294,
+							427,
+							295,
+							449,
+							267,
+							450
+						],
+						"confidence": 0.912,
+						"span": {
+							"offset": 160,
+							"length": 4
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							79,
+							432,
+							89,
+							432,
+							88,
+							452,
+							79,
+							452
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 165,
+							"length": 1
+						}
+					},
+					{
+						"content": "2800",
+						"polygon": [
+							329,
+							451,
+							377,
+							450,
+							377,
+							472,
+							329,
+							473
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 167,
+							"length": 4
+						}
+					},
+					{
+						"content": "بطاطا",
+						"polygon": [
+							249,
+							450,
+							299,
+							450,
+							298,
+							474,
+							249,
+							475
+						],
+						"confidence": 0.891,
+						"span": {
+							"offset": 172,
+							"length": 5
+						}
+					},
+					{
+						"content": "مقلية",
+						"polygon": [
+							211,
+							450,
+							244,
+							450,
+							244,
+							475,
+							211,
+							476
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 178,
+							"length": 5
+						}
+					},
+					{
+						"content": "4",
+						"polygon": [
+							77,
+							455,
+							89,
+							455,
+							89,
+							475,
+							77,
+							475
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 184,
+							"length": 1
+						}
+					},
+					{
+						"content": "350",
+						"polygon": [
+							341,
+							474,
+							377,
+							474,
+							378,
+							496,
+							341,
+							496
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 186,
+							"length": 3
+						}
+					},
+					{
+						"content": "مايونيز",
+						"polygon": [
+							248,
+							476,
+							295,
+							475,
+							296,
+							497,
+							248,
+							498
+						],
+						"confidence": 0.852,
+						"span": {
+							"offset": 190,
+							"length": 7
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							79,
+							479,
+							88,
+							479,
+							89,
+							499,
+							79,
+							499
+						],
+						"confidence": 0.921,
+						"span": {
+							"offset": 198,
+							"length": 1
+						}
+					},
+					{
+						"content": "2400",
+						"polygon": [
+							328,
+							498,
+							376,
+							497,
+							377,
+							517,
+							329,
+							518
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 200,
+							"length": 4
+						}
+					},
+					{
+						"content": "تبولة",
+						"polygon": [
+							259,
+							497,
+							299,
+							497,
+							299,
+							519,
+							260,
+							520
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 205,
+							"length": 5
+						}
+					},
+					{
+						"content": "مشاوي",
+						"polygon": [
+							244,
+							520,
+							301,
+							520,
+							301,
+							545,
+							245,
+							546
+						],
+						"confidence": 0.795,
+						"span": {
+							"offset": 211,
+							"length": 5
+						}
+					},
+					{
+						"content": "مشكلة",
+						"polygon": [
+							194,
+							520,
+							239,
+							520,
+							240,
+							546,
+							195,
+							547
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 217,
+							"length": 5
+						}
+					},
+					{
+						"content": "200",
+						"polygon": [
+							145,
+							522,
+							184,
+							521,
+							184,
+							548,
+							145,
+							549
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 223,
+							"length": 3
+						}
+					},
+					{
+						"content": "غ",
+						"polygon": [
+							130,
+							523,
+							139,
+							523,
+							140,
+							549,
+							131,
+							550
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 227,
+							"length": 1
+						}
+					},
+					{
+						"content": "4",
+						"polygon": [
+							78,
+							502,
+							89,
+							502,
+							88,
+							523,
+							77,
+							522
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 229,
+							"length": 1
+						}
+					},
+					{
+						"content": "16000",
+						"polygon": [
+							316,
+							521,
+							376,
+							520,
+							376,
+							542,
+							317,
+							542
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 231,
+							"length": 5
+						}
+					},
+					{
+						"content": "8",
+						"polygon": [
+							77,
+							526,
+							88,
+							526,
+							88,
+							547,
+							77,
+							547
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 237,
+							"length": 1
+						}
+					},
+					{
+						"content": "800",
+						"polygon": [
+							340,
+							544,
+							376,
+							544,
+							376,
+							564,
+							340,
+							564
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 239,
+							"length": 3
+						}
+					},
+					{
+						"content": "عصير",
+						"polygon": [
+							250,
+							546,
+							294,
+							546,
+							295,
+							569,
+							251,
+							569
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 243,
+							"length": 4
+						}
+					},
+					{
+						"content": "برتقال",
+						"polygon": [
+							195,
+							546,
+							241,
+							546,
+							241,
+							570,
+							195,
+							569
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 248,
+							"length": 6
+						}
+					},
+					{
+						"content": "دايت",
+						"polygon": [
+							267,
+							569,
+							298,
+							568,
+							298,
+							592,
+							267,
+							592
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 255,
+							"length": 4
+						}
+					},
+					{
+						"content": "سفن",
+						"polygon": [
+							228,
+							570,
+							260,
+							569,
+							260,
+							592,
+							229,
+							593
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 260,
+							"length": 3
+						}
+					},
+					{
+						"content": "اب",
+						"polygon": [
+							202,
+							571,
+							224,
+							570,
+							224,
+							594,
+							203,
+							594
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 264,
+							"length": 2
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							78,
+							550,
+							89,
+							550,
+							89,
+							572,
+							78,
+							572
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 267,
+							"length": 1
+						}
+					},
+					{
+						"content": "1600",
+						"polygon": [
+							330,
+							568,
+							378,
+							567,
+							378,
+							588,
+							330,
+							589
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 269,
+							"length": 4
+						}
+					},
+					{
+						"content": "800",
+						"polygon": [
+							342,
+							591,
+							379,
+							591,
+							379,
+							612,
+							342,
+							612
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 274,
+							"length": 3
+						}
+					},
+					{
+						"content": "مياه",
+						"polygon": [
+							269,
+							593,
+							300,
+							593,
+							300,
+							616,
+							269,
+							616
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 278,
+							"length": 4
+						}
+					},
+					{
+						"content": "بقين",
+						"polygon": [
+							238,
+							594,
+							265,
+							593,
+							265,
+							616,
+							238,
+							617
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 283,
+							"length": 4
+						}
+					},
+					{
+						"content": "كبير",
+						"polygon": [
+							202,
+							596,
+							231,
+							594,
+							232,
+							617,
+							202,
+							619
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 288,
+							"length": 4
+						}
+					},
+					{
+						"content": "4",
+						"polygon": [
+							77,
+							575,
+							88,
+							575,
+							88,
+							596,
+							77,
+							596
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 293,
+							"length": 1
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							77,
+							599,
+							89,
+							599,
+							89,
+							619,
+							77,
+							619
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 295,
+							"length": 1
+						}
+					},
+					{
+						"content": "200",
+						"polygon": [
+							344,
+							615,
+							380,
+							615,
+							380,
+							637,
+							344,
+							637
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 297,
+							"length": 3
+						}
+					},
+					{
+						"content": "محارم",
+						"polygon": [
+							250,
+							618,
+							299,
+							616,
+							300,
+							638,
+							251,
+							640
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 301,
+							"length": 5
+						}
+					},
+					{
+						"content": "26800",
+						"polygon": [
+							318,
+							641,
+							381,
+							640,
+							380,
+							662,
+							318,
+							663
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 307,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							220,
+							640,
+							228,
+							640,
+							228,
+							666,
+							220,
+							667
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 313,
+							"length": 1
+						}
+					},
+					{
+						"content": "المجموع",
+						"polygon": [
+							149,
+							643,
+							215,
+							640,
+							215,
+							667,
+							150,
+							670
+						],
+						"confidence": 0.827,
+						"span": {
+							"offset": 315,
+							"length": 7
+						}
+					},
+					{
+						"content": "الأولي",
+						"polygon": [
+							97,
+							645,
+							144,
+							643,
+							145,
+							670,
+							98,
+							672
+						],
+						"confidence": 0.694,
+						"span": {
+							"offset": 323,
+							"length": 6
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							78,
+							623,
+							89,
+							623,
+							89,
+							644,
+							78,
+							644
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 330,
+							"length": 1
+						}
+					},
+					{
+						"content": "1340",
+						"polygon": [
+							334,
+							664,
+							380,
+							664,
+							380,
+							685,
+							334,
+							685
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 332,
+							"length": 4
+						}
+					},
+					{
+						"content": "إنفاق",
+						"polygon": [
+							216,
+							666,
+							250,
+							664,
+							251,
+							691,
+							217,
+							691
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 337,
+							"length": 5
+						}
+					},
+					{
+						"content": "إستهلاكي",
+						"polygon": [
+							136,
+							669,
+							211,
+							666,
+							212,
+							692,
+							137,
+							694
+						],
+						"confidence": 0.523,
+						"span": {
+							"offset": 343,
+							"length": 8
+						}
+					},
+					{
+						"content": "5%",
+						"polygon": [
+							97,
+							670,
+							131,
+							669,
+							131,
+							694,
+							98,
+							695
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 352,
+							"length": 2
+						}
+					},
+					{
+						"content": "67",
+						"polygon": [
+							357,
+							688,
+							381,
+							688,
+							381,
+							709,
+							357,
+							709
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 355,
+							"length": 2
+						}
+					},
+					{
+						"content": "رسم",
+						"polygon": [
+							187,
+							693,
+							223,
+							692,
+							224,
+							717,
+							188,
+							718
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 358,
+							"length": 3
+						}
+					},
+					{
+						"content": "إدارة",
+						"polygon": [
+							143,
+							693,
+							182,
+							693,
+							183,
+							718,
+							144,
+							719
+						],
+						"confidence": 0.914,
+						"span": {
+							"offset": 362,
+							"length": 5
+						}
+					},
+					{
+						"content": "محلية",
+						"polygon": [
+							96,
+							693,
+							138,
+							693,
+							139,
+							719,
+							97,
+							720
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 368,
+							"length": 5
+						}
+					},
+					{
+						"content": "134",
+						"polygon": [
+							347,
+							712,
+							382,
+							712,
+							383,
+							733,
+							348,
+							734
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 374,
+							"length": 3
+						}
+					},
+					{
+						"content": "رسم",
+						"polygon": [
+							166,
+							719,
+							193,
+							718,
+							193,
+							739,
+							166,
+							740
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 378,
+							"length": 3
+						}
+					},
+					{
+						"content": "إعادة",
+						"polygon": [
+							133,
+							720,
+							162,
+							719,
+							162,
+							740,
+							134,
+							741
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 382,
+							"length": 5
+						}
+					},
+					{
+						"content": "إعمار",
+						"polygon": [
+							99,
+							721,
+							129,
+							720,
+							130,
+							741,
+							100,
+							742
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 388,
+							"length": 5
+						}
+					},
+					{
+						"content": "المجموع",
+						"polygon": [
+							254,
+							769,
+							337,
+							766,
+							339,
+							800,
+							255,
+							803
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 394,
+							"length": 7
+						}
+					},
+					{
+						"content": "ل.س:",
+						"polygon": [
+							190,
+							772,
+							248,
+							770,
+							249,
+							803,
+							190,
+							805
+						],
+						"confidence": 0.664,
+						"span": {
+							"offset": 402,
+							"length": 4
+						}
+					},
+					{
+						"content": "28341",
+						"polygon": [
+							86,
+							775,
+							170,
+							772,
+							170,
+							805,
+							86,
+							806
+						],
+						"confidence": 0.717,
+						"span": {
+							"offset": 407,
+							"length": 5
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "AL Karya Restaurant",
+						"polygon": [
+							61,
+							163,
+							348,
+							159,
+							349,
+							185,
+							61,
+							190
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "طريق المطار - الجسر الخامس",
+						"polygon": [
+							87,
+							193,
+							321,
+							186,
+							322,
+							211,
+							88,
+							219
+						],
+						"spans": [
+							{
+								"offset": 20,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "دمشق",
+						"polygon": [
+							180,
+							217,
+							227,
+							216,
+							228,
+							239,
+							180,
+							240
+						],
+						"spans": [
+							{
+								"offset": 47,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "0992020513",
+						"polygon": [
+							136,
+							244,
+							270,
+							240,
+							271,
+							265,
+							136,
+							269
+						],
+						"spans": [
+							{
+								"offset": 52,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "مبيع طاولات",
+						"polygon": [
+							155,
+							271,
+							253,
+							271,
+							253,
+							295,
+							155,
+							296
+						],
+						"spans": [
+							{
+								"offset": 63,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "12-10-2018 15:32",
+						"polygon": [
+							109,
+							299,
+							302,
+							294,
+							302,
+							319,
+							110,
+							325
+						],
+						"spans": [
+							{
+								"offset": 75,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "رقم الفاتورة 112577 رقم الطاولة 203",
+						"polygon": [
+							41,
+							327,
+							367,
+							321,
+							367,
+							348,
+							41,
+							355
+						],
+						"spans": [
+							{
+								"offset": 92,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": "500",
+						"polygon": [
+							337,
+							377,
+							379,
+							377,
+							379,
+							400,
+							337,
+							400
+						],
+						"spans": [
+							{
+								"offset": 128,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "متبل",
+						"polygon": [
+							262,
+							380,
+							294,
+							379,
+							295,
+							402,
+							263,
+							402
+						],
+						"spans": [
+							{
+								"offset": 132,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							76,
+							384,
+							88,
+							384,
+							89,
+							404,
+							77,
+							404
+						],
+						"spans": [
+							{
+								"offset": 137,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "1000",
+						"polygon": [
+							326,
+							404,
+							380,
+							403,
+							381,
+							424,
+							327,
+							425
+						],
+						"spans": [
+							{
+								"offset": 139,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "بابا غنوج",
+						"polygon": [
+							231,
+							407,
+							294,
+							404,
+							295,
+							426,
+							232,
+							430
+						],
+						"spans": [
+							{
+								"offset": 144,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							72,
+							405,
+							95,
+							405,
+							95,
+							431,
+							72,
+							431
+						],
+						"spans": [
+							{
+								"offset": 154,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "350",
+						"polygon": [
+							336,
+							428,
+							381,
+							427,
+							380,
+							448,
+							336,
+							449
+						],
+						"spans": [
+							{
+								"offset": 156,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "كبيس",
+						"polygon": [
+							252,
+							429,
+							296,
+							427,
+							297,
+							449,
+							253,
+							451
+						],
+						"spans": [
+							{
+								"offset": 160,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							77,
+							432,
+							90,
+							432,
+							90,
+							452,
+							77,
+							451
+						],
+						"spans": [
+							{
+								"offset": 165,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "2800",
+						"polygon": [
+							325,
+							451,
+							380,
+							450,
+							380,
+							472,
+							325,
+							473
+						],
+						"spans": [
+							{
+								"offset": 167,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "بطاطا مقلية",
+						"polygon": [
+							210,
+							450,
+							299,
+							450,
+							299,
+							474,
+							210,
+							475
+						],
+						"spans": [
+							{
+								"offset": 172,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "4",
+						"polygon": [
+							76,
+							455,
+							91,
+							455,
+							91,
+							475,
+							76,
+							475
+						],
+						"spans": [
+							{
+								"offset": 184,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "350",
+						"polygon": [
+							337,
+							475,
+							379,
+							474,
+							379,
+							496,
+							337,
+							496
+						],
+						"spans": [
+							{
+								"offset": 186,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "مايونيز",
+						"polygon": [
+							243,
+							477,
+							297,
+							475,
+							297,
+							497,
+							244,
+							497
+						],
+						"spans": [
+							{
+								"offset": 190,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							77,
+							480,
+							90,
+							479,
+							90,
+							499,
+							78,
+							499
+						],
+						"spans": [
+							{
+								"offset": 198,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "2400",
+						"polygon": [
+							325,
+							498,
+							380,
+							497,
+							380,
+							517,
+							325,
+							518
+						],
+						"spans": [
+							{
+								"offset": 200,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "تبولة",
+						"polygon": [
+							259,
+							497,
+							300,
+							497,
+							300,
+							519,
+							260,
+							520
+						],
+						"spans": [
+							{
+								"offset": 205,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "مشاوي مشكلة 200 غ",
+						"polygon": [
+							129,
+							521,
+							305,
+							519,
+							305,
+							545,
+							130,
+							549
+						],
+						"spans": [
+							{
+								"offset": 211,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "4",
+						"polygon": [
+							77,
+							502,
+							91,
+							502,
+							91,
+							523,
+							77,
+							522
+						],
+						"spans": [
+							{
+								"offset": 229,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "16000",
+						"polygon": [
+							313,
+							520,
+							380,
+							520,
+							380,
+							541,
+							313,
+							541
+						],
+						"spans": [
+							{
+								"offset": 231,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "8",
+						"polygon": [
+							76,
+							526,
+							91,
+							526,
+							90,
+							547,
+							76,
+							547
+						],
+						"spans": [
+							{
+								"offset": 237,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "800",
+						"polygon": [
+							339,
+							544,
+							379,
+							544,
+							380,
+							564,
+							340,
+							564
+						],
+						"spans": [
+							{
+								"offset": 239,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "عصير برتقال",
+						"polygon": [
+							189,
+							545,
+							296,
+							545,
+							296,
+							568,
+							189,
+							569
+						],
+						"spans": [
+							{
+								"offset": 243,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "دايت سفن اب",
+						"polygon": [
+							198,
+							570,
+							298,
+							568,
+							299,
+							591,
+							198,
+							594
+						],
+						"spans": [
+							{
+								"offset": 255,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							77,
+							551,
+							89,
+							550,
+							89,
+							572,
+							77,
+							571
+						],
+						"spans": [
+							{
+								"offset": 267,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "1600",
+						"polygon": [
+							328,
+							568,
+							380,
+							567,
+							380,
+							588,
+							329,
+							589
+						],
+						"spans": [
+							{
+								"offset": 269,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "800",
+						"polygon": [
+							340,
+							591,
+							380,
+							591,
+							381,
+							612,
+							341,
+							612
+						],
+						"spans": [
+							{
+								"offset": 274,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "مياه بقين كبير",
+						"polygon": [
+							199,
+							595,
+							299,
+							592,
+							300,
+							615,
+							200,
+							618
+						],
+						"spans": [
+							{
+								"offset": 278,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "4",
+						"polygon": [
+							76,
+							575,
+							91,
+							575,
+							91,
+							596,
+							77,
+							596
+						],
+						"spans": [
+							{
+								"offset": 293,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							75,
+							599,
+							92,
+							599,
+							92,
+							619,
+							76,
+							619
+						],
+						"spans": [
+							{
+								"offset": 295,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "200",
+						"polygon": [
+							341,
+							615,
+							382,
+							615,
+							383,
+							637,
+							341,
+							637
+						],
+						"spans": [
+							{
+								"offset": 297,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "محارم",
+						"polygon": [
+							249,
+							618,
+							301,
+							616,
+							301,
+							638,
+							249,
+							640
+						],
+						"spans": [
+							{
+								"offset": 301,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "26800",
+						"polygon": [
+							315,
+							640,
+							384,
+							639,
+							384,
+							661,
+							315,
+							663
+						],
+						"spans": [
+							{
+								"offset": 307,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": ": المجموع الأولي",
+						"polygon": [
+							96,
+							644,
+							228,
+							639,
+							229,
+							666,
+							97,
+							671
+						],
+						"spans": [
+							{
+								"offset": 313,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							76,
+							624,
+							89,
+							623,
+							89,
+							644,
+							77,
+							643
+						],
+						"spans": [
+							{
+								"offset": 330,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "1340",
+						"polygon": [
+							330,
+							665,
+							383,
+							664,
+							383,
+							685,
+							331,
+							685
+						],
+						"spans": [
+							{
+								"offset": 332,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "إنفاق إستهلاكي 5%",
+						"polygon": [
+							97,
+							669,
+							250,
+							664,
+							251,
+							690,
+							98,
+							695
+						],
+						"spans": [
+							{
+								"offset": 337,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "67",
+						"polygon": [
+							356,
+							688,
+							382,
+							688,
+							382,
+							709,
+							357,
+							709
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "رسم إدارة محلية",
+						"polygon": [
+							95,
+							693,
+							222,
+							691,
+							223,
+							717,
+							95,
+							719
+						],
+						"spans": [
+							{
+								"offset": 358,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "134",
+						"polygon": [
+							345,
+							713,
+							383,
+							712,
+							384,
+							734,
+							346,
+							734
+						],
+						"spans": [
+							{
+								"offset": 374,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "رسم إعادة إعمار",
+						"polygon": [
+							98,
+							720,
+							192,
+							717,
+							193,
+							738,
+							99,
+							741
+						],
+						"spans": [
+							{
+								"offset": 378,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "المجموع ل.س: 28341",
+						"polygon": [
+							84,
+							773,
+							338,
+							766,
+							339,
+							800,
+							85,
+							806
+						],
+						"spans": [
+							{
+								"offset": 394,
+								"length": 18
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 412
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 19
+					}
+				],
+				"locale": "id",
+				"confidence": 0.5
+			},
+			{
+				"spans": [
+					{
+						"offset": 20,
+						"length": 26
+					},
+					{
+						"offset": 63,
+						"length": 11
+					},
+					{
+						"offset": 92,
+						"length": 35
+					},
+					{
+						"offset": 132,
+						"length": 4
+					},
+					{
+						"offset": 160,
+						"length": 4
+					},
+					{
+						"offset": 172,
+						"length": 11
+					},
+					{
+						"offset": 190,
+						"length": 7
+					},
+					{
+						"offset": 205,
+						"length": 23
+					},
+					{
+						"offset": 243,
+						"length": 11
+					},
+					{
+						"offset": 278,
+						"length": 14
+					},
+					{
+						"offset": 313,
+						"length": 16
+					},
+					{
+						"offset": 337,
+						"length": 17
+					},
+					{
+						"offset": 358,
+						"length": 15
+					},
+					{
+						"offset": 378,
+						"length": 34
+					}
+				],
+				"locale": "ar",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 47,
+						"length": 4
+					},
+					{
+						"offset": 301,
+						"length": 5
+					}
+				],
+				"locale": "ar",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 144,
+						"length": 9
+					},
+					{
+						"offset": 255,
+						"length": 11
+					}
+				],
+				"locale": "ar",
+				"confidence": 0.99
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							540,
+							0,
+							540,
+							960,
+							0,
+							960
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "متبل",
+										"content": "متبل",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													267,
+													379,
+													294,
+													379,
+													294,
+													401,
+													267,
+													402
+												]
+											}
+										],
+										"confidence": 0.975,
+										"spans": [
+											{
+												"offset": 132,
+												"length": 4
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													78,
+													384,
+													88,
+													384,
+													88,
+													404,
+													78,
+													404
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 137,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "500",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													338,
+													377,
+													378,
+													377,
+													378,
+													400,
+													338,
+													400
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 128,
+												"length": 3
+											}
+										],
+										"valueNumber": 500
+									}
+								},
+								"content": "500\nمتبل\n1",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											78,
+											377,
+											378,
+											377,
+											378,
+											404,
+											78,
+											404
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 128,
+										"length": 10
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "بابا غنوج",
+										"content": "بابا غنوج",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													231,
+													407,
+													294,
+													403,
+													295,
+													427,
+													232,
+													430
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 144,
+												"length": 9
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													77,
+													405,
+													92,
+													405,
+													92,
+													431,
+													77,
+													431
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 154,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1000",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													328,
+													404,
+													377,
+													403,
+													377,
+													424,
+													328,
+													425
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 139,
+												"length": 4
+											}
+										],
+										"valueNumber": 1000
+									}
+								},
+								"content": "1000\nبابا غنوج\n2",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											76,
+											405,
+											377,
+											399,
+											377,
+											427,
+											77,
+											433
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 139,
+										"length": 16
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "كبيس",
+										"content": "كبيس",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													266,
+													428,
+													294,
+													427,
+													295,
+													449,
+													267,
+													450
+												]
+											}
+										],
+										"confidence": 0.974,
+										"spans": [
+											{
+												"offset": 160,
+												"length": 4
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													79,
+													432,
+													89,
+													432,
+													88,
+													452,
+													79,
+													452
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 165,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "350",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													341,
+													428,
+													377,
+													427,
+													378,
+													448,
+													341,
+													449
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 156,
+												"length": 3
+											}
+										],
+										"valueNumber": 350
+									}
+								},
+								"content": "350\nكبيس\n1",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											78,
+											432,
+											377,
+											424,
+											378,
+											448,
+											79,
+											456
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 156,
+										"length": 10
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "بطاطا مقلية",
+										"content": "بطاطا مقلية",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													211,
+													450,
+													299,
+													449,
+													299,
+													475,
+													211,
+													476
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 172,
+												"length": 11
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 4,
+										"content": "4",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													77,
+													455,
+													89,
+													455,
+													89,
+													475,
+													77,
+													475
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 184,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2800",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													329,
+													451,
+													377,
+													450,
+													377,
+													472,
+													329,
+													473
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 167,
+												"length": 4
+											}
+										],
+										"valueNumber": 2800
+									}
+								},
+								"content": "2800\nبطاطا مقلية\n4",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											77,
+											451,
+											377,
+											448,
+											377,
+											474,
+											77,
+											477
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 167,
+										"length": 18
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "مايونيز",
+										"content": "مايونيز",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													248,
+													476,
+													295,
+													475,
+													296,
+													497,
+													248,
+													498
+												]
+											}
+										],
+										"confidence": 0.974,
+										"spans": [
+											{
+												"offset": 190,
+												"length": 7
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													79,
+													479,
+													88,
+													479,
+													89,
+													499,
+													79,
+													499
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 198,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "350",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													341,
+													474,
+													377,
+													474,
+													378,
+													496,
+													341,
+													496
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 186,
+												"length": 3
+											}
+										],
+										"valueNumber": 350
+									}
+								},
+								"content": "350\nمايونيز\n1",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											79,
+											474,
+											378,
+											474,
+											378,
+											499,
+											79,
+											499
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 186,
+										"length": 13
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "تبولة",
+										"content": "تبولة",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													259,
+													497,
+													299,
+													497,
+													299,
+													519,
+													260,
+													520
+												]
+											}
+										],
+										"confidence": 0.974,
+										"spans": [
+											{
+												"offset": 205,
+												"length": 5
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 4,
+										"content": "4",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													78,
+													502,
+													89,
+													502,
+													88,
+													523,
+													77,
+													522
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 229,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2400",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													328,
+													498,
+													376,
+													497,
+													377,
+													517,
+													329,
+													518
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 200,
+												"length": 4
+											}
+										],
+										"valueNumber": 2400
+									}
+								},
+								"content": "2400\nتبولة\n4",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											77,
+											499,
+											377,
+											496,
+											377,
+											519,
+											77,
+											523
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 200,
+										"length": 10
+									},
+									{
+										"offset": 229,
+										"length": 1
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "مشاوي مشكلة 200 غ",
+										"content": "مشاوي مشكلة 200 غ",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													130,
+													521,
+													301,
+													519,
+													301,
+													548,
+													130,
+													550
+												]
+											}
+										],
+										"confidence": 0.976,
+										"spans": [
+											{
+												"offset": 211,
+												"length": 17
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 8,
+										"content": "8",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													77,
+													526,
+													88,
+													526,
+													88,
+													547,
+													77,
+													547
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 237,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "16000",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													316,
+													521,
+													376,
+													520,
+													376,
+													542,
+													317,
+													542
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 231,
+												"length": 5
+											}
+										],
+										"valueNumber": 16000
+									}
+								},
+								"content": "مشاوي مشكلة 200 غ\n16000\n8",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											77,
+											521,
+											376,
+											518,
+											376,
+											548,
+											77,
+											550
+										]
+									}
+								],
+								"confidence": 0.97,
+								"spans": [
+									{
+										"offset": 211,
+										"length": 17
+									},
+									{
+										"offset": 231,
+										"length": 7
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "عصير برتقال",
+										"content": "عصير برتقال",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													195,
+													545,
+													295,
+													546,
+													295,
+													571,
+													195,
+													569
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 243,
+												"length": 11
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													78,
+													550,
+													89,
+													550,
+													89,
+													572,
+													78,
+													572
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 267,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "800",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													340,
+													544,
+													376,
+													544,
+													376,
+													564,
+													340,
+													564
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 239,
+												"length": 3
+											}
+										],
+										"valueNumber": 800
+									}
+								},
+								"content": "800\nعصير برتقال\n1",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											78,
+											544,
+											376,
+											544,
+											376,
+											572,
+											78,
+											572
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 239,
+										"length": 15
+									},
+									{
+										"offset": 267,
+										"length": 1
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "دايت سفن اب",
+										"content": "دايت سفن اب",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													202,
+													570,
+													298,
+													568,
+													299,
+													592,
+													203,
+													594
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 255,
+												"length": 11
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 4,
+										"content": "4",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													77,
+													575,
+													88,
+													575,
+													88,
+													596,
+													77,
+													596
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 293,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1600",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													330,
+													568,
+													378,
+													567,
+													378,
+													588,
+													330,
+													589
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 269,
+												"length": 4
+											}
+										],
+										"valueNumber": 1600
+									}
+								},
+								"content": "دايت سفن اب\n1600\n4",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											77,
+											573,
+											378,
+											566,
+											378,
+											591,
+											77,
+											597
+										]
+									}
+								],
+								"confidence": 0.972,
+								"spans": [
+									{
+										"offset": 255,
+										"length": 11
+									},
+									{
+										"offset": 269,
+										"length": 4
+									},
+									{
+										"offset": 293,
+										"length": 1
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "مياه بقين كبير",
+										"content": "مياه بقين كبير",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													201,
+													595,
+													300,
+													591,
+													301,
+													616,
+													202,
+													620
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 278,
+												"length": 14
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													77,
+													599,
+													89,
+													599,
+													89,
+													619,
+													77,
+													619
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 295,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "800",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													342,
+													591,
+													379,
+													591,
+													379,
+													612,
+													342,
+													612
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 274,
+												"length": 3
+											}
+										],
+										"valueNumber": 800
+									}
+								},
+								"content": "800\nمياه بقين كبير\n2",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											77,
+											591,
+											379,
+											591,
+											379,
+											619,
+											77,
+											619
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 274,
+										"length": 18
+									},
+									{
+										"offset": 295,
+										"length": 1
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "محارم",
+										"content": "محارم",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													250,
+													618,
+													299,
+													616,
+													300,
+													638,
+													251,
+													640
+												]
+											}
+										],
+										"confidence": 0.974,
+										"spans": [
+											{
+												"offset": 301,
+												"length": 5
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													78,
+													623,
+													89,
+													623,
+													89,
+													644,
+													78,
+													644
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 330,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "200",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													344,
+													615,
+													380,
+													615,
+													380,
+													637,
+													344,
+													637
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 297,
+												"length": 3
+											}
+										],
+										"valueNumber": 200
+									}
+								},
+								"content": "200\nمحارم\n1",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											78,
+											615,
+											380,
+											615,
+											380,
+											644,
+											78,
+											644
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 297,
+										"length": 9
+									},
+									{
+										"offset": 330,
+										"length": 1
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "طريق المطار - الجسر الخامس\nدمشق",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									98,
+									192,
+									318,
+									185,
+									320,
+									236,
+									99,
+									243
+								]
+							}
+						],
+						"confidence": 0.978,
+						"spans": [
+							{
+								"offset": 20,
+								"length": 31
+							}
+						],
+						"valueAddress": {
+							"road": "طريق المطار الجسر الخامس",
+							"city": "دمشق",
+							"streetAddress": "طريق المطار الجسر الخامس"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "AL Karya Restaurant",
+						"content": "AL Karya Restaurant",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									64,
+									163,
+									348,
+									157,
+									349,
+									186,
+									65,
+									192
+								]
+							}
+						],
+						"confidence": 0.968,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 19
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+20992020513",
+						"content": "0992020513",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									137,
+									244,
+									269,
+									240,
+									271,
+									266,
+									138,
+									270
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 52,
+								"length": 10
+							}
+						]
+					},
+					"Subtotal": {
+						"type": "number",
+						"content": "26800",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									318,
+									641,
+									381,
+									640,
+									380,
+									662,
+									318,
+									663
+								]
+							}
+						],
+						"confidence": 0.973,
+						"spans": [
+							{
+								"offset": 307,
+								"length": 5
+							}
+						],
+						"valueNumber": 26800
+					},
+					"Total": {
+						"type": "number",
+						"content": "ل.س: 28341",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									85,
+									774,
+									248,
+									770,
+									249,
+									804,
+									86,
+									807
+								]
+							}
+						],
+						"confidence": 0.818,
+						"spans": [
+							{
+								"offset": 402,
+								"length": 10
+							}
+						],
+						"valueNumber": 0.28341
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2018-10-12",
+						"content": "12-10-2018",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									113,
+									300,
+									229,
+									297,
+									230,
+									322,
+									114,
+									325
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 75,
+								"length": 10
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "15:32:00",
+						"content": "15:32",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									244,
+									296,
+									302,
+									295,
+									302,
+									319,
+									244,
+									322
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 86,
+								"length": 5
+							}
+						]
+					}
+				},
+				"confidence": 0.989,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 412
+					}
+				]
+			}
+		]
+	}
+}

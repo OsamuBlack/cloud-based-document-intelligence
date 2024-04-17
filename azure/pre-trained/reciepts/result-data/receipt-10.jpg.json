@@ -1,0 +1,6199 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:17:53Z",
+	"lastUpdatedDateTime": "2024-04-17T20:17:56Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "SPAR\nTel : 036-4481240\nemail : bergspar@telkomsa.net\nVAT No : 4450102696\nNLA REG NO: KZN 032577\nR\nLAZENBY WORCESTER SAUCE 125ML\n17.99 A\nMILKY BAR CHOC\n80GR\n16.99 A\nSMOKED VIENNAS\n500GR\n33.99 A\nPEALED PEACHES\n400G\n82.99 A\nMEDITERRANEAN MIX\n1KG\n44.99 *\nSPAR COOKING OIL\n375ML\n14.99 *\nF/L ENGLISH CUCUMB\n1'S\n12.99 *\nNESTLE AERO\n85GR\n20.99 A\nCADBURY DAIRY MI\n80GR\n16.99\nGRAPES MIXED TUB\nTUB\n24.99 *\nTASTIC RICE\n500GR\n11.99 *\nBLACK CAT SMOOTH\n270GR\n27.99 A\nCARRIER BAG 24L\n1'S\n0.75 A\nBANANAS LOOSE\n17KG\n0.596kg @\n15.99 R\n/kg\n9.53 *\nTOTAL\nFOR 14 ITEMS\n338.16\nTENDERED Nedbank\n338.16\nTAX INVOICE\nVAT rate\nexcl\nTAX\nincl.\n0.00%\n119.48\n0.00\n119.48 *\n15.00%\n190.16\n28.52\n218.68 A\nSLIP / TILL / CASHIER / DATE /\nTIME\n3780\n005\n101\n23.02.21\n16:17\nCASHIER NAME: SWAZI\nPlease Retain Slip\nThank You For Shopping With Us! : )\nFollow us on Facebook: Spar Bergville",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.9710000157356262,
+				"width": 900,
+				"height": 1200,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "SPAR",
+						"polygon": [
+							283,
+							273,
+							404,
+							273,
+							404,
+							302,
+							283,
+							303
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 0,
+							"length": 4
+						}
+					},
+					{
+						"content": "Tel",
+						"polygon": [
+							273,
+							327,
+							300,
+							326,
+							300,
+							347,
+							272,
+							348
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 5,
+							"length": 3
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							305,
+							326,
+							316,
+							326,
+							316,
+							347,
+							304,
+							347
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 9,
+							"length": 1
+						}
+					},
+					{
+						"content": "036-4481240",
+						"polygon": [
+							320,
+							326,
+							412,
+							323,
+							412,
+							345,
+							320,
+							347
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 11,
+							"length": 11
+						}
+					},
+					{
+						"content": "email",
+						"polygon": [
+							224,
+							349,
+							267,
+							348,
+							268,
+							367,
+							224,
+							366
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 23,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							272,
+							348,
+							284,
+							348,
+							284,
+							367,
+							273,
+							367
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 29,
+							"length": 1
+						}
+					},
+					{
+						"content": "bergspar@telkomsa.net",
+						"polygon": [
+							287,
+							347,
+							457,
+							341,
+							458,
+							359,
+							288,
+							367
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 31,
+							"length": 21
+						}
+					},
+					{
+						"content": "VAT",
+						"polygon": [
+							264,
+							369,
+							292,
+							368,
+							292,
+							386,
+							265,
+							386
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 53,
+							"length": 3
+						}
+					},
+					{
+						"content": "No",
+						"polygon": [
+							296,
+							368,
+							315,
+							368,
+							316,
+							385,
+							297,
+							386
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 57,
+							"length": 2
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							322,
+							367,
+							332,
+							367,
+							333,
+							385,
+							323,
+							385
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 60,
+							"length": 1
+						}
+					},
+					{
+						"content": "4450102696",
+						"polygon": [
+							339,
+							367,
+							419,
+							364,
+							420,
+							383,
+							340,
+							385
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 62,
+							"length": 10
+						}
+					},
+					{
+						"content": "NLA",
+						"polygon": [
+							174,
+							389,
+							200,
+							389,
+							201,
+							406,
+							174,
+							405
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 73,
+							"length": 3
+						}
+					},
+					{
+						"content": "REG",
+						"polygon": [
+							206,
+							389,
+							234,
+							388,
+							234,
+							406,
+							206,
+							406
+						],
+						"confidence": 0.925,
+						"span": {
+							"offset": 77,
+							"length": 3
+						}
+					},
+					{
+						"content": "NO:",
+						"polygon": [
+							240,
+							388,
+							268,
+							388,
+							268,
+							406,
+							241,
+							406
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 81,
+							"length": 3
+						}
+					},
+					{
+						"content": "KZN",
+						"polygon": [
+							273,
+							388,
+							299,
+							388,
+							299,
+							406,
+							273,
+							406
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 85,
+							"length": 3
+						}
+					},
+					{
+						"content": "032577",
+						"polygon": [
+							306,
+							388,
+							355,
+							387,
+							355,
+							405,
+							306,
+							406
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 89,
+							"length": 6
+						}
+					},
+					{
+						"content": "R",
+						"polygon": [
+							468,
+							421,
+							476,
+							421,
+							476,
+							436,
+							468,
+							436
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 96,
+							"length": 1
+						}
+					},
+					{
+						"content": "LAZENBY",
+						"polygon": [
+							177,
+							451,
+							235,
+							450,
+							236,
+							467,
+							178,
+							467
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 98,
+							"length": 7
+						}
+					},
+					{
+						"content": "WORCESTER",
+						"polygon": [
+							242,
+							450,
+							317,
+							449,
+							317,
+							466,
+							242,
+							467
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 106,
+							"length": 9
+						}
+					},
+					{
+						"content": "SAUCE",
+						"polygon": [
+							325,
+							449,
+							366,
+							448,
+							366,
+							465,
+							325,
+							466
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 116,
+							"length": 5
+						}
+					},
+					{
+						"content": "125ML",
+						"polygon": [
+							375,
+							448,
+							413,
+							447,
+							414,
+							464,
+							376,
+							465
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 122,
+							"length": 5
+						}
+					},
+					{
+						"content": "17.99",
+						"polygon": [
+							462,
+							442,
+							501,
+							440,
+							502,
+							456,
+							463,
+							457
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 128,
+							"length": 5
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							509,
+							440,
+							518,
+							439,
+							519,
+							456,
+							510,
+							456
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 134,
+							"length": 1
+						}
+					},
+					{
+						"content": "MILKY",
+						"polygon": [
+							177,
+							473,
+							220,
+							472,
+							221,
+							488,
+							178,
+							489
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 136,
+							"length": 5
+						}
+					},
+					{
+						"content": "BAR",
+						"polygon": [
+							226,
+							472,
+							252,
+							472,
+							252,
+							488,
+							227,
+							488
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 142,
+							"length": 3
+						}
+					},
+					{
+						"content": "CHOC",
+						"polygon": [
+							260,
+							472,
+							293,
+							471,
+							293,
+							488,
+							261,
+							488
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 146,
+							"length": 4
+						}
+					},
+					{
+						"content": "80GR",
+						"polygon": [
+							374,
+							469,
+							405,
+							468,
+							406,
+							483,
+							375,
+							484
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 151,
+							"length": 4
+						}
+					},
+					{
+						"content": "16.99",
+						"polygon": [
+							462,
+							463,
+							501,
+							461,
+							502,
+							477,
+							464,
+							478
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 156,
+							"length": 5
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							510,
+							461,
+							518,
+							460,
+							519,
+							477,
+							511,
+							477
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 162,
+							"length": 1
+						}
+					},
+					{
+						"content": "SMOKED",
+						"polygon": [
+							178,
+							493,
+							228,
+							492,
+							228,
+							509,
+							179,
+							510
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 164,
+							"length": 6
+						}
+					},
+					{
+						"content": "VIENNAS",
+						"polygon": [
+							237,
+							492,
+							296,
+							491,
+							296,
+							508,
+							237,
+							509
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 171,
+							"length": 7
+						}
+					},
+					{
+						"content": "500GR",
+						"polygon": [
+							374,
+							488,
+							415,
+							487,
+							415,
+							502,
+							375,
+							504
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 179,
+							"length": 5
+						}
+					},
+					{
+						"content": "33.99",
+						"polygon": [
+							463,
+							483,
+							502,
+							481,
+							503,
+							497,
+							464,
+							499
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 185,
+							"length": 5
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							511,
+							480,
+							519,
+							480,
+							520,
+							496,
+							512,
+							497
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 191,
+							"length": 1
+						}
+					},
+					{
+						"content": "PEALED",
+						"polygon": [
+							179,
+							513,
+							228,
+							513,
+							229,
+							528,
+							180,
+							530
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 193,
+							"length": 6
+						}
+					},
+					{
+						"content": "PEACHES",
+						"polygon": [
+							237,
+							513,
+							296,
+							511,
+							296,
+							527,
+							237,
+							528
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 200,
+							"length": 7
+						}
+					},
+					{
+						"content": "400G",
+						"polygon": [
+							377,
+							508,
+							408,
+							508,
+							408,
+							523,
+							377,
+							523
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 208,
+							"length": 4
+						}
+					},
+					{
+						"content": "82.99",
+						"polygon": [
+							462,
+							503,
+							503,
+							501,
+							504,
+							517,
+							464,
+							519
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 213,
+							"length": 5
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							512,
+							501,
+							520,
+							501,
+							521,
+							517,
+							512,
+							517
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 219,
+							"length": 1
+						}
+					},
+					{
+						"content": "MEDITERRANEAN",
+						"polygon": [
+							180,
+							534,
+							287,
+							531,
+							288,
+							548,
+							181,
+							549
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 221,
+							"length": 13
+						}
+					},
+					{
+						"content": "MIX",
+						"polygon": [
+							295,
+							531,
+							321,
+							531,
+							322,
+							547,
+							295,
+							548
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 235,
+							"length": 3
+						}
+					},
+					{
+						"content": "1KG",
+						"polygon": [
+							378,
+							528,
+							401,
+							528,
+							401,
+							543,
+							378,
+							543
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 239,
+							"length": 3
+						}
+					},
+					{
+						"content": "44.99",
+						"polygon": [
+							464,
+							523,
+							504,
+							521,
+							505,
+							537,
+							465,
+							539
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 243,
+							"length": 5
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							513,
+							521,
+							522,
+							521,
+							522,
+							536,
+							514,
+							537
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 249,
+							"length": 1
+						}
+					},
+					{
+						"content": "SPAR",
+						"polygon": [
+							181,
+							553,
+							212,
+							553,
+							213,
+							569,
+							182,
+							570
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 251,
+							"length": 4
+						}
+					},
+					{
+						"content": "COOKING",
+						"polygon": [
+							221,
+							553,
+							280,
+							552,
+							280,
+							567,
+							221,
+							569
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 256,
+							"length": 7
+						}
+					},
+					{
+						"content": "OIL",
+						"polygon": [
+							287,
+							551,
+							312,
+							551,
+							313,
+							567,
+							288,
+							567
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 264,
+							"length": 3
+						}
+					},
+					{
+						"content": "375ML",
+						"polygon": [
+							377,
+							547,
+							416,
+							546,
+							416,
+							561,
+							378,
+							563
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 268,
+							"length": 5
+						}
+					},
+					{
+						"content": "14.99",
+						"polygon": [
+							466,
+							543,
+							506,
+							542,
+							506,
+							557,
+							467,
+							559
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 274,
+							"length": 5
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							515,
+							542,
+							523,
+							542,
+							523,
+							556,
+							515,
+							556
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 280,
+							"length": 1
+						}
+					},
+					{
+						"content": "F/L",
+						"polygon": [
+							182,
+							573,
+							206,
+							573,
+							206,
+							590,
+							183,
+							591
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 282,
+							"length": 3
+						}
+					},
+					{
+						"content": "ENGLISH",
+						"polygon": [
+							214,
+							572,
+							271,
+							571,
+							272,
+							588,
+							215,
+							590
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 286,
+							"length": 7
+						}
+					},
+					{
+						"content": "CUCUMB",
+						"polygon": [
+							279,
+							571,
+							329,
+							570,
+							329,
+							586,
+							280,
+							587
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 294,
+							"length": 6
+						}
+					},
+					{
+						"content": "1'S",
+						"polygon": [
+							379,
+							567,
+							401,
+							567,
+							401,
+							582,
+							379,
+							583
+						],
+						"confidence": 0.883,
+						"span": {
+							"offset": 301,
+							"length": 3
+						}
+					},
+					{
+						"content": "12.99",
+						"polygon": [
+							466,
+							563,
+							506,
+							562,
+							506,
+							577,
+							467,
+							579
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 305,
+							"length": 5
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							515,
+							562,
+							524,
+							562,
+							524,
+							576,
+							515,
+							577
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 311,
+							"length": 1
+						}
+					},
+					{
+						"content": "NESTLE",
+						"polygon": [
+							183,
+							593,
+							231,
+							592,
+							232,
+							609,
+							183,
+							609
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 313,
+							"length": 6
+						}
+					},
+					{
+						"content": "AERO",
+						"polygon": [
+							240,
+							592,
+							273,
+							592,
+							274,
+							608,
+							241,
+							608
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 320,
+							"length": 4
+						}
+					},
+					{
+						"content": "85GR",
+						"polygon": [
+							378,
+							586,
+							409,
+							586,
+							409,
+							601,
+							378,
+							602
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 325,
+							"length": 4
+						}
+					},
+					{
+						"content": "20.99",
+						"polygon": [
+							465,
+							583,
+							507,
+							582,
+							507,
+							598,
+							466,
+							599
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 330,
+							"length": 5
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							514,
+							582,
+							523,
+							581,
+							523,
+							598,
+							515,
+							598
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 336,
+							"length": 1
+						}
+					},
+					{
+						"content": "CADBURY",
+						"polygon": [
+							182,
+							613,
+							241,
+							612,
+							241,
+							628,
+							182,
+							629
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 338,
+							"length": 7
+						}
+					},
+					{
+						"content": "DAIRY",
+						"polygon": [
+							247,
+							612,
+							290,
+							610,
+							290,
+							627,
+							247,
+							628
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 346,
+							"length": 5
+						}
+					},
+					{
+						"content": "MI",
+						"polygon": [
+							296,
+							610,
+							312,
+							610,
+							313,
+							626,
+							297,
+							627
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 352,
+							"length": 2
+						}
+					},
+					{
+						"content": "80GR",
+						"polygon": [
+							379,
+							607,
+							411,
+							607,
+							411,
+							622,
+							379,
+							622
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 355,
+							"length": 4
+						}
+					},
+					{
+						"content": "16.99",
+						"polygon": [
+							466,
+							600,
+							509,
+							598,
+							510,
+							619,
+							467,
+							621
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 360,
+							"length": 5
+						}
+					},
+					{
+						"content": "GRAPES",
+						"polygon": [
+							182,
+							633,
+							232,
+							632,
+							232,
+							648,
+							183,
+							649
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 366,
+							"length": 6
+						}
+					},
+					{
+						"content": "MIXED",
+						"polygon": [
+							238,
+							632,
+							280,
+							631,
+							280,
+							647,
+							239,
+							648
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 373,
+							"length": 5
+						}
+					},
+					{
+						"content": "TUB",
+						"polygon": [
+							290,
+							631,
+							313,
+							630,
+							314,
+							645,
+							291,
+							646
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 379,
+							"length": 3
+						}
+					},
+					{
+						"content": "TUB",
+						"polygon": [
+							379,
+							626,
+							402,
+							626,
+							402,
+							641,
+							380,
+							642
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 383,
+							"length": 3
+						}
+					},
+					{
+						"content": "24.99",
+						"polygon": [
+							467,
+							624,
+							508,
+							623,
+							508,
+							639,
+							468,
+							640
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 387,
+							"length": 5
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							517,
+							622,
+							526,
+							622,
+							526,
+							638,
+							518,
+							638
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 393,
+							"length": 1
+						}
+					},
+					{
+						"content": "TASTIC",
+						"polygon": [
+							182,
+							655,
+							231,
+							653,
+							232,
+							669,
+							183,
+							670
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 395,
+							"length": 6
+						}
+					},
+					{
+						"content": "RICE",
+						"polygon": [
+							238,
+							653,
+							273,
+							652,
+							274,
+							668,
+							239,
+							669
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 402,
+							"length": 4
+						}
+					},
+					{
+						"content": "500GR",
+						"polygon": [
+							379,
+							644,
+							419,
+							644,
+							419,
+							666,
+							379,
+							666
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 407,
+							"length": 5
+						}
+					},
+					{
+						"content": "11.99",
+						"polygon": [
+							470,
+							645,
+							509,
+							644,
+							509,
+							660,
+							470,
+							661
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 413,
+							"length": 5
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							519,
+							644,
+							527,
+							644,
+							527,
+							659,
+							519,
+							659
+						],
+						"confidence": 0.954,
+						"span": {
+							"offset": 419,
+							"length": 1
+						}
+					},
+					{
+						"content": "BLACK",
+						"polygon": [
+							181,
+							674,
+							222,
+							673,
+							223,
+							690,
+							182,
+							691
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 421,
+							"length": 5
+						}
+					},
+					{
+						"content": "CAT",
+						"polygon": [
+							231,
+							673,
+							257,
+							672,
+							258,
+							689,
+							231,
+							690
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 427,
+							"length": 3
+						}
+					},
+					{
+						"content": "SMOOTH",
+						"polygon": [
+							265,
+							672,
+							313,
+							671,
+							314,
+							687,
+							266,
+							689
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 431,
+							"length": 6
+						}
+					},
+					{
+						"content": "270GR",
+						"polygon": [
+							380,
+							667,
+							418,
+							667,
+							419,
+							683,
+							380,
+							683
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 438,
+							"length": 5
+						}
+					},
+					{
+						"content": "27.99",
+						"polygon": [
+							469,
+							665,
+							510,
+							665,
+							511,
+							681,
+							470,
+							682
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 444,
+							"length": 5
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							518,
+							665,
+							527,
+							664,
+							528,
+							681,
+							519,
+							681
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 450,
+							"length": 1
+						}
+					},
+					{
+						"content": "CARRIER",
+						"polygon": [
+							180,
+							695,
+							239,
+							694,
+							239,
+							710,
+							181,
+							711
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 452,
+							"length": 7
+						}
+					},
+					{
+						"content": "BAG",
+						"polygon": [
+							247,
+							693,
+							273,
+							693,
+							273,
+							709,
+							248,
+							709
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 460,
+							"length": 3
+						}
+					},
+					{
+						"content": "24L",
+						"polygon": [
+							281,
+							692,
+							304,
+							692,
+							304,
+							708,
+							282,
+							709
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 464,
+							"length": 3
+						}
+					},
+					{
+						"content": "1'S",
+						"polygon": [
+							380,
+							688,
+							403,
+							688,
+							403,
+							704,
+							380,
+							704
+						],
+						"confidence": 0.782,
+						"span": {
+							"offset": 468,
+							"length": 3
+						}
+					},
+					{
+						"content": "0.75",
+						"polygon": [
+							477,
+							686,
+							510,
+							686,
+							511,
+							702,
+							478,
+							702
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 472,
+							"length": 4
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							519,
+							685,
+							528,
+							685,
+							528,
+							702,
+							519,
+							702
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 477,
+							"length": 1
+						}
+					},
+					{
+						"content": "BANANAS",
+						"polygon": [
+							180,
+							716,
+							240,
+							714,
+							240,
+							730,
+							181,
+							732
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 479,
+							"length": 7
+						}
+					},
+					{
+						"content": "LOOSE",
+						"polygon": [
+							247,
+							714,
+							288,
+							712,
+							288,
+							729,
+							248,
+							730
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 487,
+							"length": 5
+						}
+					},
+					{
+						"content": "17KG",
+						"polygon": [
+							379,
+							706,
+							411,
+							706,
+							411,
+							727,
+							379,
+							726
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 493,
+							"length": 4
+						}
+					},
+					{
+						"content": "0.596kg",
+						"polygon": [
+							189,
+							735,
+							248,
+							734,
+							248,
+							752,
+							190,
+							752
+						],
+						"confidence": 0.869,
+						"span": {
+							"offset": 498,
+							"length": 7
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							254,
+							734,
+							264,
+							734,
+							264,
+							751,
+							255,
+							752
+						],
+						"confidence": 0.965,
+						"span": {
+							"offset": 506,
+							"length": 1
+						}
+					},
+					{
+						"content": "15.99",
+						"polygon": [
+							297,
+							732,
+							338,
+							732,
+							338,
+							749,
+							298,
+							749
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 508,
+							"length": 5
+						}
+					},
+					{
+						"content": "R",
+						"polygon": [
+							344,
+							731,
+							353,
+							731,
+							354,
+							749,
+							345,
+							749
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 514,
+							"length": 1
+						}
+					},
+					{
+						"content": "/kg",
+						"polygon": [
+							379,
+							728,
+							405,
+							729,
+							405,
+							751,
+							378,
+							750
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 516,
+							"length": 3
+						}
+					},
+					{
+						"content": "9.53",
+						"polygon": [
+							479,
+							729,
+							513,
+							728,
+							514,
+							744,
+							480,
+							744
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 520,
+							"length": 4
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							522,
+							728,
+							530,
+							728,
+							531,
+							744,
+							523,
+							744
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 525,
+							"length": 1
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							181,
+							755,
+							222,
+							755,
+							222,
+							772,
+							181,
+							772
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 527,
+							"length": 5
+						}
+					},
+					{
+						"content": "FOR",
+						"polygon": [
+							264,
+							754,
+							287,
+							754,
+							288,
+							771,
+							264,
+							771
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 533,
+							"length": 3
+						}
+					},
+					{
+						"content": "14",
+						"polygon": [
+							297,
+							753,
+							313,
+							753,
+							314,
+							770,
+							298,
+							770
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 537,
+							"length": 2
+						}
+					},
+					{
+						"content": "ITEMS",
+						"polygon": [
+							321,
+							753,
+							363,
+							751,
+							364,
+							769,
+							322,
+							770
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 540,
+							"length": 5
+						}
+					},
+					{
+						"content": "338.16",
+						"polygon": [
+							463,
+							750,
+							513,
+							749,
+							514,
+							765,
+							464,
+							766
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 546,
+							"length": 6
+						}
+					},
+					{
+						"content": "TENDERED",
+						"polygon": [
+							180,
+							777,
+							246,
+							776,
+							247,
+							793,
+							180,
+							794
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 553,
+							"length": 8
+						}
+					},
+					{
+						"content": "Nedbank",
+						"polygon": [
+							254,
+							775,
+							311,
+							773,
+							312,
+							791,
+							255,
+							793
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 562,
+							"length": 7
+						}
+					},
+					{
+						"content": "338.16",
+						"polygon": [
+							464,
+							771,
+							514,
+							770,
+							515,
+							787,
+							464,
+							787
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 570,
+							"length": 6
+						}
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							313,
+							817,
+							337,
+							816,
+							337,
+							834,
+							313,
+							834
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 577,
+							"length": 3
+						}
+					},
+					{
+						"content": "INVOICE",
+						"polygon": [
+							346,
+							816,
+							406,
+							815,
+							406,
+							833,
+							347,
+							834
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 581,
+							"length": 7
+						}
+					},
+					{
+						"content": "VAT",
+						"polygon": [
+							178,
+							841,
+							204,
+							841,
+							204,
+							858,
+							178,
+							858
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 589,
+							"length": 3
+						}
+					},
+					{
+						"content": "rate",
+						"polygon": [
+							210,
+							840,
+							244,
+							840,
+							245,
+							857,
+							211,
+							858
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 593,
+							"length": 4
+						}
+					},
+					{
+						"content": "excl",
+						"polygon": [
+							286,
+							839,
+							323,
+							838,
+							323,
+							855,
+							286,
+							856
+						],
+						"confidence": 0.679,
+						"span": {
+							"offset": 598,
+							"length": 4
+						}
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							372,
+							837,
+							397,
+							837,
+							397,
+							854,
+							372,
+							854
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 603,
+							"length": 3
+						}
+					},
+					{
+						"content": "incl.",
+						"polygon": [
+							484,
+							833,
+							524,
+							833,
+							524,
+							855,
+							484,
+							855
+						],
+						"confidence": 0.845,
+						"span": {
+							"offset": 607,
+							"length": 5
+						}
+					},
+					{
+						"content": "0.00%",
+						"polygon": [
+							184,
+							862,
+							226,
+							862,
+							226,
+							880,
+							184,
+							879
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 613,
+							"length": 5
+						}
+					},
+					{
+						"content": "119.48",
+						"polygon": [
+							270,
+							860,
+							321,
+							860,
+							321,
+							878,
+							270,
+							878
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 619,
+							"length": 6
+						}
+					},
+					{
+						"content": "0.00",
+						"polygon": [
+							370,
+							859,
+							404,
+							859,
+							404,
+							877,
+							370,
+							877
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 626,
+							"length": 4
+						}
+					},
+					{
+						"content": "119.48",
+						"polygon": [
+							467,
+							858,
+							517,
+							858,
+							518,
+							875,
+							467,
+							875
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 631,
+							"length": 6
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							526,
+							858,
+							534,
+							858,
+							535,
+							875,
+							527,
+							875
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 638,
+							"length": 1
+						}
+					},
+					{
+						"content": "15.00%",
+						"polygon": [
+							177,
+							884,
+							227,
+							884,
+							227,
+							901,
+							177,
+							901
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 640,
+							"length": 6
+						}
+					},
+					{
+						"content": "190.16",
+						"polygon": [
+							270,
+							884,
+							320,
+							883,
+							320,
+							901,
+							270,
+							900
+						],
+						"confidence": 0.877,
+						"span": {
+							"offset": 647,
+							"length": 6
+						}
+					},
+					{
+						"content": "28.52",
+						"polygon": [
+							363,
+							881,
+							404,
+							881,
+							404,
+							898,
+							363,
+							897
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 654,
+							"length": 5
+						}
+					},
+					{
+						"content": "218.68",
+						"polygon": [
+							467,
+							881,
+							518,
+							880,
+							518,
+							897,
+							467,
+							898
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 660,
+							"length": 6
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							527,
+							880,
+							535,
+							879,
+							535,
+							897,
+							527,
+							897
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 667,
+							"length": 1
+						}
+					},
+					{
+						"content": "SLIP",
+						"polygon": [
+							174,
+							927,
+							208,
+							927,
+							208,
+							950,
+							174,
+							950
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 669,
+							"length": 4
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							215,
+							927,
+							227,
+							927,
+							227,
+							949,
+							215,
+							950
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 674,
+							"length": 1
+						}
+					},
+					{
+						"content": "TILL",
+						"polygon": [
+							241,
+							926,
+							278,
+							926,
+							278,
+							949,
+							241,
+							949
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 676,
+							"length": 4
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							293,
+							925,
+							304,
+							925,
+							305,
+							948,
+							293,
+							948
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 681,
+							"length": 1
+						}
+					},
+					{
+						"content": "CASHIER",
+						"polygon": [
+							309,
+							925,
+							372,
+							924,
+							372,
+							946,
+							309,
+							948
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 683,
+							"length": 7
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							379,
+							924,
+							391,
+							923,
+							391,
+							946,
+							380,
+							946
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 691,
+							"length": 1
+						}
+					},
+					{
+						"content": "DATE",
+						"polygon": [
+							404,
+							923,
+							442,
+							922,
+							443,
+							944,
+							405,
+							945
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 693,
+							"length": 4
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							457,
+							922,
+							470,
+							922,
+							471,
+							943,
+							457,
+							943
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 698,
+							"length": 1
+						}
+					},
+					{
+						"content": "TIME",
+						"polygon": [
+							484,
+							921,
+							517,
+							920,
+							518,
+							938,
+							485,
+							939
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 700,
+							"length": 4
+						}
+					},
+					{
+						"content": "3780",
+						"polygon": [
+							181,
+							951,
+							216,
+							951,
+							216,
+							968,
+							181,
+							969
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 705,
+							"length": 4
+						}
+					},
+					{
+						"content": "005",
+						"polygon": [
+							257,
+							948,
+							286,
+							948,
+							286,
+							969,
+							257,
+							969
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 710,
+							"length": 3
+						}
+					},
+					{
+						"content": "101",
+						"polygon": [
+							347,
+							945,
+							374,
+							945,
+							374,
+							966,
+							347,
+							966
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 714,
+							"length": 3
+						}
+					},
+					{
+						"content": "23.02.21",
+						"polygon": [
+							398,
+							947,
+							468,
+							944,
+							468,
+							963,
+							399,
+							965
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 718,
+							"length": 8
+						}
+					},
+					{
+						"content": "16:17",
+						"polygon": [
+							485,
+							943,
+							528,
+							942,
+							528,
+							960,
+							486,
+							961
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 727,
+							"length": 5
+						}
+					},
+					{
+						"content": "CASHIER",
+						"polygon": [
+							172,
+							974,
+							233,
+							972,
+							233,
+							991,
+							172,
+							992
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 733,
+							"length": 7
+						}
+					},
+					{
+						"content": "NAME:",
+						"polygon": [
+							240,
+							972,
+							287,
+							971,
+							288,
+							990,
+							240,
+							991
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 741,
+							"length": 5
+						}
+					},
+					{
+						"content": "SWAZI",
+						"polygon": [
+							294,
+							971,
+							339,
+							969,
+							339,
+							989,
+							294,
+							990
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 747,
+							"length": 5
+						}
+					},
+					{
+						"content": "Please",
+						"polygon": [
+							275,
+							992,
+							330,
+							990,
+							330,
+							1012,
+							275,
+							1013
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 753,
+							"length": 6
+						}
+					},
+					{
+						"content": "Retain",
+						"polygon": [
+							336,
+							990,
+							391,
+							989,
+							391,
+							1011,
+							336,
+							1011
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 760,
+							"length": 6
+						}
+					},
+					{
+						"content": "Slip",
+						"polygon": [
+							398,
+							989,
+							433,
+							988,
+							433,
+							1010,
+							398,
+							1010
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 767,
+							"length": 4
+						}
+					},
+					{
+						"content": "Thank",
+						"polygon": [
+							209,
+							1015,
+							251,
+							1015,
+							252,
+							1034,
+							209,
+							1034
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 772,
+							"length": 5
+						}
+					},
+					{
+						"content": "You",
+						"polygon": [
+							259,
+							1015,
+							286,
+							1014,
+							286,
+							1034,
+							260,
+							1034
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 778,
+							"length": 3
+						}
+					},
+					{
+						"content": "For",
+						"polygon": [
+							294,
+							1014,
+							323,
+							1013,
+							323,
+							1034,
+							294,
+							1034
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 782,
+							"length": 3
+						}
+					},
+					{
+						"content": "Shopping",
+						"polygon": [
+							330,
+							1013,
+							402,
+							1012,
+							402,
+							1032,
+							330,
+							1034
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 786,
+							"length": 8
+						}
+					},
+					{
+						"content": "With",
+						"polygon": [
+							407,
+							1012,
+							444,
+							1010,
+							444,
+							1031,
+							407,
+							1032
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 795,
+							"length": 4
+						}
+					},
+					{
+						"content": "Us!",
+						"polygon": [
+							451,
+							1010,
+							482,
+							1009,
+							482,
+							1030,
+							451,
+							1031
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 800,
+							"length": 3
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							488,
+							1009,
+							494,
+							1009,
+							494,
+							1030,
+							488,
+							1030
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 804,
+							"length": 1
+						}
+					},
+					{
+						"content": ")",
+						"polygon": [
+							498,
+							1009,
+							505,
+							1009,
+							505,
+							1030,
+							498,
+							1030
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 806,
+							"length": 1
+						}
+					},
+					{
+						"content": "Follow",
+						"polygon": [
+							195,
+							1056,
+							245,
+							1056,
+							245,
+							1075,
+							195,
+							1075
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 808,
+							"length": 6
+						}
+					},
+					{
+						"content": "us",
+						"polygon": [
+							252,
+							1056,
+							271,
+							1056,
+							272,
+							1075,
+							252,
+							1075
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 815,
+							"length": 2
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							278,
+							1056,
+							296,
+							1056,
+							296,
+							1075,
+							278,
+							1075
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 818,
+							"length": 2
+						}
+					},
+					{
+						"content": "Facebook:",
+						"polygon": [
+							304,
+							1056,
+							386,
+							1055,
+							386,
+							1073,
+							305,
+							1075
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 821,
+							"length": 9
+						}
+					},
+					{
+						"content": "Spar",
+						"polygon": [
+							392,
+							1055,
+							429,
+							1054,
+							429,
+							1072,
+							392,
+							1073
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 831,
+							"length": 4
+						}
+					},
+					{
+						"content": "Bergville",
+						"polygon": [
+							435,
+							1054,
+							515,
+							1050,
+							516,
+							1069,
+							435,
+							1072
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 836,
+							"length": 9
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "SPAR",
+						"polygon": [
+							277,
+							272,
+							414,
+							272,
+							414,
+							302,
+							277,
+							302
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Tel : 036-4481240",
+						"polygon": [
+							271,
+							326,
+							412,
+							323,
+							413,
+							344,
+							271,
+							348
+						],
+						"spans": [
+							{
+								"offset": 5,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "email : bergspar@telkomsa.net",
+						"polygon": [
+							224,
+							348,
+							458,
+							340,
+							458,
+							361,
+							224,
+							367
+						],
+						"spans": [
+							{
+								"offset": 23,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "VAT No : 4450102696",
+						"polygon": [
+							263,
+							368,
+							419,
+							364,
+							420,
+							382,
+							264,
+							386
+						],
+						"spans": [
+							{
+								"offset": 53,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "NLA REG NO: KZN 032577",
+						"polygon": [
+							173,
+							388,
+							355,
+							387,
+							355,
+							405,
+							174,
+							406
+						],
+						"spans": [
+							{
+								"offset": 73,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "R",
+						"polygon": [
+							466,
+							421,
+							478,
+							421,
+							478,
+							436,
+							466,
+							436
+						],
+						"spans": [
+							{
+								"offset": 96,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "LAZENBY WORCESTER SAUCE 125ML",
+						"polygon": [
+							177,
+							450,
+							413,
+							446,
+							414,
+							464,
+							177,
+							467
+						],
+						"spans": [
+							{
+								"offset": 98,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "17.99 A",
+						"polygon": [
+							461,
+							440,
+							518,
+							439,
+							519,
+							455,
+							462,
+							457
+						],
+						"spans": [
+							{
+								"offset": 128,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "MILKY BAR CHOC",
+						"polygon": [
+							177,
+							472,
+							294,
+							471,
+							294,
+							487,
+							177,
+							488
+						],
+						"spans": [
+							{
+								"offset": 136,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "80GR",
+						"polygon": [
+							374,
+							469,
+							406,
+							468,
+							406,
+							483,
+							375,
+							484
+						],
+						"spans": [
+							{
+								"offset": 151,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "16.99 A",
+						"polygon": [
+							461,
+							462,
+							519,
+							460,
+							520,
+							476,
+							462,
+							478
+						],
+						"spans": [
+							{
+								"offset": 156,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "SMOKED VIENNAS",
+						"polygon": [
+							178,
+							492,
+							296,
+							491,
+							296,
+							507,
+							178,
+							509
+						],
+						"spans": [
+							{
+								"offset": 164,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "500GR",
+						"polygon": [
+							374,
+							488,
+							416,
+							487,
+							416,
+							502,
+							376,
+							504
+						],
+						"spans": [
+							{
+								"offset": 179,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "33.99 A",
+						"polygon": [
+							462,
+							482,
+							520,
+							479,
+							521,
+							496,
+							463,
+							498
+						],
+						"spans": [
+							{
+								"offset": 185,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "PEALED PEACHES",
+						"polygon": [
+							178,
+							513,
+							296,
+							511,
+							296,
+							527,
+							179,
+							529
+						],
+						"spans": [
+							{
+								"offset": 193,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "400G",
+						"polygon": [
+							376,
+							508,
+							408,
+							508,
+							408,
+							523,
+							376,
+							523
+						],
+						"spans": [
+							{
+								"offset": 208,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "82.99 A",
+						"polygon": [
+							462,
+							502,
+							520,
+							500,
+							521,
+							516,
+							462,
+							518
+						],
+						"spans": [
+							{
+								"offset": 213,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "MEDITERRANEAN MIX",
+						"polygon": [
+							179,
+							532,
+							321,
+							531,
+							321,
+							547,
+							180,
+							549
+						],
+						"spans": [
+							{
+								"offset": 221,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "1KG",
+						"polygon": [
+							377,
+							528,
+							400,
+							528,
+							401,
+							543,
+							378,
+							543
+						],
+						"spans": [
+							{
+								"offset": 239,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "44.99 *",
+						"polygon": [
+							464,
+							522,
+							521,
+							520,
+							522,
+							536,
+							465,
+							538
+						],
+						"spans": [
+							{
+								"offset": 243,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "SPAR COOKING OIL",
+						"polygon": [
+							181,
+							553,
+							313,
+							550,
+							313,
+							566,
+							181,
+							569
+						],
+						"spans": [
+							{
+								"offset": 251,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "375ML",
+						"polygon": [
+							376,
+							548,
+							416,
+							546,
+							417,
+							562,
+							377,
+							563
+						],
+						"spans": [
+							{
+								"offset": 268,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "14.99 *",
+						"polygon": [
+							466,
+							543,
+							522,
+							541,
+							523,
+							556,
+							466,
+							558
+						],
+						"spans": [
+							{
+								"offset": 274,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "F/L ENGLISH CUCUMB",
+						"polygon": [
+							181,
+							573,
+							329,
+							569,
+							329,
+							586,
+							182,
+							590
+						],
+						"spans": [
+							{
+								"offset": 282,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "1'S",
+						"polygon": [
+							379,
+							568,
+							401,
+							567,
+							402,
+							582,
+							379,
+							583
+						],
+						"spans": [
+							{
+								"offset": 301,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "12.99 *",
+						"polygon": [
+							466,
+							563,
+							524,
+							561,
+							524,
+							576,
+							466,
+							578
+						],
+						"spans": [
+							{
+								"offset": 305,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "NESTLE AERO",
+						"polygon": [
+							182,
+							592,
+							273,
+							591,
+							274,
+							607,
+							182,
+							609
+						],
+						"spans": [
+							{
+								"offset": 313,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "85GR",
+						"polygon": [
+							378,
+							587,
+							409,
+							586,
+							409,
+							602,
+							378,
+							602
+						],
+						"spans": [
+							{
+								"offset": 325,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "20.99 A",
+						"polygon": [
+							465,
+							582,
+							524,
+							581,
+							525,
+							597,
+							465,
+							598
+						],
+						"spans": [
+							{
+								"offset": 330,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CADBURY DAIRY MI",
+						"polygon": [
+							181,
+							613,
+							312,
+							609,
+							313,
+							626,
+							182,
+							629
+						],
+						"spans": [
+							{
+								"offset": 338,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "80GR",
+						"polygon": [
+							377,
+							608,
+							412,
+							607,
+							412,
+							622,
+							378,
+							622
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "16.99",
+						"polygon": [
+							466,
+							600,
+							514,
+							598,
+							514,
+							619,
+							466,
+							621
+						],
+						"spans": [
+							{
+								"offset": 360,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "GRAPES MIXED TUB",
+						"polygon": [
+							181,
+							633,
+							314,
+							629,
+							314,
+							645,
+							182,
+							649
+						],
+						"spans": [
+							{
+								"offset": 366,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "TUB",
+						"polygon": [
+							379,
+							627,
+							402,
+							626,
+							403,
+							642,
+							380,
+							642
+						],
+						"spans": [
+							{
+								"offset": 383,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "24.99 *",
+						"polygon": [
+							466,
+							623,
+							525,
+							622,
+							526,
+							637,
+							467,
+							639
+						],
+						"spans": [
+							{
+								"offset": 387,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "TASTIC RICE",
+						"polygon": [
+							181,
+							653,
+							274,
+							652,
+							275,
+							668,
+							182,
+							670
+						],
+						"spans": [
+							{
+								"offset": 395,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "500GR",
+						"polygon": [
+							380,
+							644,
+							419,
+							644,
+							419,
+							666,
+							379,
+							666
+						],
+						"spans": [
+							{
+								"offset": 407,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "11.99 *",
+						"polygon": [
+							469,
+							645,
+							527,
+							644,
+							527,
+							659,
+							469,
+							660
+						],
+						"spans": [
+							{
+								"offset": 413,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "BLACK CAT SMOOTH",
+						"polygon": [
+							181,
+							674,
+							315,
+							670,
+							315,
+							687,
+							181,
+							691
+						],
+						"spans": [
+							{
+								"offset": 421,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "270GR",
+						"polygon": [
+							378,
+							668,
+							419,
+							667,
+							419,
+							683,
+							379,
+							683
+						],
+						"spans": [
+							{
+								"offset": 438,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "27.99 A",
+						"polygon": [
+							468,
+							665,
+							527,
+							664,
+							528,
+							680,
+							468,
+							681
+						],
+						"spans": [
+							{
+								"offset": 444,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CARRIER BAG 24L",
+						"polygon": [
+							180,
+							694,
+							304,
+							691,
+							304,
+							708,
+							180,
+							711
+						],
+						"spans": [
+							{
+								"offset": 452,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "1'S",
+						"polygon": [
+							380,
+							688,
+							404,
+							688,
+							404,
+							703,
+							380,
+							704
+						],
+						"spans": [
+							{
+								"offset": 468,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "0.75 A",
+						"polygon": [
+							477,
+							685,
+							528,
+							685,
+							528,
+							701,
+							477,
+							702
+						],
+						"spans": [
+							{
+								"offset": 472,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "BANANAS LOOSE",
+						"polygon": [
+							179,
+							715,
+							288,
+							712,
+							288,
+							729,
+							180,
+							732
+						],
+						"spans": [
+							{
+								"offset": 479,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "17KG",
+						"polygon": [
+							380,
+							706,
+							412,
+							707,
+							412,
+							727,
+							379,
+							727
+						],
+						"spans": [
+							{
+								"offset": 493,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "0.596kg @",
+						"polygon": [
+							188,
+							734,
+							264,
+							734,
+							264,
+							751,
+							189,
+							752
+						],
+						"spans": [
+							{
+								"offset": 498,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "15.99 R",
+						"polygon": [
+							296,
+							731,
+							356,
+							731,
+							356,
+							748,
+							296,
+							748
+						],
+						"spans": [
+							{
+								"offset": 508,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "/kg",
+						"polygon": [
+							377,
+							728,
+							406,
+							729,
+							406,
+							751,
+							376,
+							750
+						],
+						"spans": [
+							{
+								"offset": 516,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "9.53 *",
+						"polygon": [
+							479,
+							728,
+							530,
+							727,
+							530,
+							743,
+							479,
+							744
+						],
+						"spans": [
+							{
+								"offset": 520,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							180,
+							756,
+							223,
+							755,
+							223,
+							772,
+							180,
+							772
+						],
+						"spans": [
+							{
+								"offset": 527,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "FOR 14 ITEMS",
+						"polygon": [
+							263,
+							753,
+							363,
+							751,
+							363,
+							769,
+							263,
+							771
+						],
+						"spans": [
+							{
+								"offset": 533,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "338.16",
+						"polygon": [
+							462,
+							749,
+							514,
+							748,
+							514,
+							765,
+							462,
+							765
+						],
+						"spans": [
+							{
+								"offset": 546,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "TENDERED Nedbank",
+						"polygon": [
+							179,
+							776,
+							311,
+							773,
+							312,
+							791,
+							179,
+							794
+						],
+						"spans": [
+							{
+								"offset": 553,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "338.16",
+						"polygon": [
+							462,
+							770,
+							514,
+							770,
+							514,
+							786,
+							462,
+							786
+						],
+						"spans": [
+							{
+								"offset": 570,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "TAX INVOICE",
+						"polygon": [
+							311,
+							816,
+							405,
+							815,
+							406,
+							832,
+							312,
+							833
+						],
+						"spans": [
+							{
+								"offset": 577,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "VAT rate",
+						"polygon": [
+							178,
+							841,
+							245,
+							839,
+							245,
+							856,
+							178,
+							858
+						],
+						"spans": [
+							{
+								"offset": 589,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "excl",
+						"polygon": [
+							286,
+							839,
+							325,
+							838,
+							325,
+							855,
+							287,
+							856
+						],
+						"spans": [
+							{
+								"offset": 598,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							371,
+							837,
+							397,
+							837,
+							398,
+							854,
+							372,
+							854
+						],
+						"spans": [
+							{
+								"offset": 603,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "incl.",
+						"polygon": [
+							484,
+							833,
+							523,
+							833,
+							524,
+							855,
+							484,
+							855
+						],
+						"spans": [
+							{
+								"offset": 607,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "0.00%",
+						"polygon": [
+							183,
+							862,
+							227,
+							862,
+							227,
+							880,
+							183,
+							879
+						],
+						"spans": [
+							{
+								"offset": 613,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "119.48",
+						"polygon": [
+							269,
+							860,
+							321,
+							860,
+							321,
+							878,
+							270,
+							878
+						],
+						"spans": [
+							{
+								"offset": 619,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "0.00",
+						"polygon": [
+							370,
+							860,
+							404,
+							859,
+							404,
+							877,
+							371,
+							876
+						],
+						"spans": [
+							{
+								"offset": 626,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "119.48 *",
+						"polygon": [
+							466,
+							858,
+							535,
+							857,
+							535,
+							874,
+							466,
+							875
+						],
+						"spans": [
+							{
+								"offset": 631,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "15.00%",
+						"polygon": [
+							177,
+							884,
+							227,
+							884,
+							227,
+							901,
+							177,
+							901
+						],
+						"spans": [
+							{
+								"offset": 640,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "190.16",
+						"polygon": [
+							269,
+							883,
+							320,
+							883,
+							320,
+							900,
+							269,
+							900
+						],
+						"spans": [
+							{
+								"offset": 647,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "28.52",
+						"polygon": [
+							362,
+							881,
+							405,
+							882,
+							405,
+							898,
+							362,
+							898
+						],
+						"spans": [
+							{
+								"offset": 654,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "218.68 A",
+						"polygon": [
+							465,
+							880,
+							535,
+							879,
+							535,
+							896,
+							466,
+							897
+						],
+						"spans": [
+							{
+								"offset": 660,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "SLIP / TILL / CASHIER / DATE /",
+						"polygon": [
+							174,
+							927,
+							481,
+							921,
+							482,
+							943,
+							174,
+							950
+						],
+						"spans": [
+							{
+								"offset": 669,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "TIME",
+						"polygon": [
+							482,
+							922,
+							518,
+							920,
+							519,
+							938,
+							483,
+							939
+						],
+						"spans": [
+							{
+								"offset": 700,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "3780",
+						"polygon": [
+							180,
+							952,
+							216,
+							951,
+							216,
+							969,
+							181,
+							969
+						],
+						"spans": [
+							{
+								"offset": 705,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "005",
+						"polygon": [
+							257,
+							948,
+							288,
+							948,
+							289,
+							969,
+							256,
+							969
+						],
+						"spans": [
+							{
+								"offset": 710,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "101",
+						"polygon": [
+							346,
+							945,
+							373,
+							945,
+							374,
+							966,
+							346,
+							966
+						],
+						"spans": [
+							{
+								"offset": 714,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "23.02.21",
+						"polygon": [
+							398,
+							946,
+							468,
+							943,
+							469,
+							962,
+							398,
+							964
+						],
+						"spans": [
+							{
+								"offset": 718,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "16:17",
+						"polygon": [
+							485,
+							943,
+							528,
+							942,
+							529,
+							960,
+							486,
+							961
+						],
+						"spans": [
+							{
+								"offset": 727,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "CASHIER NAME: SWAZI",
+						"polygon": [
+							172,
+							973,
+							339,
+							969,
+							339,
+							988,
+							172,
+							992
+						],
+						"spans": [
+							{
+								"offset": 733,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Please Retain Slip",
+						"polygon": [
+							275,
+							991,
+							433,
+							988,
+							434,
+							1010,
+							275,
+							1013
+						],
+						"spans": [
+							{
+								"offset": 753,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "Thank You For Shopping With Us! : )",
+						"polygon": [
+							209,
+							1014,
+							504,
+							1008,
+							504,
+							1030,
+							209,
+							1034
+						],
+						"spans": [
+							{
+								"offset": 772,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": "Follow us on Facebook: Spar Bergville",
+						"polygon": [
+							194,
+							1056,
+							515,
+							1050,
+							516,
+							1070,
+							194,
+							1075
+						],
+						"spans": [
+							{
+								"offset": 808,
+								"length": 37
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 845
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 4
+					}
+				],
+				"locale": "da",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 5,
+						"length": 17
+					}
+				],
+				"locale": "bn",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 23,
+						"length": 29
+					}
+				],
+				"locale": "id",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 53,
+						"length": 19
+					}
+				],
+				"locale": "ty",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 73,
+						"length": 22
+					}
+				],
+				"locale": "vi",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 96,
+						"length": 1
+					},
+					{
+						"offset": 508,
+						"length": 7
+					}
+				],
+				"locale": "en",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 98,
+						"length": 29
+					},
+					{
+						"offset": 301,
+						"length": 3
+					},
+					{
+						"offset": 338,
+						"length": 16
+					},
+					{
+						"offset": 395,
+						"length": 11
+					},
+					{
+						"offset": 468,
+						"length": 3
+					},
+					{
+						"offset": 589,
+						"length": 8
+					}
+				],
+				"locale": "en",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 128,
+						"length": 7
+					},
+					{
+						"offset": 156,
+						"length": 22
+					},
+					{
+						"offset": 185,
+						"length": 22
+					},
+					{
+						"offset": 213,
+						"length": 25
+					},
+					{
+						"offset": 251,
+						"length": 16
+					},
+					{
+						"offset": 282,
+						"length": 18
+					},
+					{
+						"offset": 330,
+						"length": 7
+					},
+					{
+						"offset": 366,
+						"length": 16
+					},
+					{
+						"offset": 421,
+						"length": 16
+					},
+					{
+						"offset": 444,
+						"length": 23
+					},
+					{
+						"offset": 472,
+						"length": 20
+					},
+					{
+						"offset": 533,
+						"length": 12
+					},
+					{
+						"offset": 660,
+						"length": 8
+					},
+					{
+						"offset": 700,
+						"length": 4
+					},
+					{
+						"offset": 753,
+						"length": 92
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 136,
+						"length": 14
+					}
+				],
+				"locale": "cs",
+				"confidence": 0.7
+			},
+			{
+				"spans": [
+					{
+						"offset": 151,
+						"length": 4
+					},
+					{
+						"offset": 179,
+						"length": 5
+					},
+					{
+						"offset": 325,
+						"length": 4
+					},
+					{
+						"offset": 355,
+						"length": 4
+					},
+					{
+						"offset": 407,
+						"length": 5
+					},
+					{
+						"offset": 438,
+						"length": 5
+					}
+				],
+				"locale": "es",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 208,
+						"length": 4
+					},
+					{
+						"offset": 268,
+						"length": 5
+					}
+				],
+				"locale": "en",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 239,
+						"length": 3
+					},
+					{
+						"offset": 313,
+						"length": 11
+					},
+					{
+						"offset": 493,
+						"length": 14
+					},
+					{
+						"offset": 516,
+						"length": 3
+					}
+				],
+				"locale": "en",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 383,
+						"length": 3
+					}
+				],
+				"locale": "en",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 527,
+						"length": 5
+					},
+					{
+						"offset": 577,
+						"length": 11
+					},
+					{
+						"offset": 603,
+						"length": 3
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 553,
+						"length": 16
+					},
+					{
+						"offset": 669,
+						"length": 30
+					}
+				],
+				"locale": "en",
+				"confidence": 0.9
+			},
+			{
+				"spans": [
+					{
+						"offset": 598,
+						"length": 4
+					},
+					{
+						"offset": 607,
+						"length": 5
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 733,
+						"length": 19
+					}
+				],
+				"locale": "bn",
+				"confidence": 0.6
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							900,
+							0,
+							900,
+							1200,
+							0,
+							1200
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "LAZENBY WORCESTER SAUCE 125ML",
+										"content": "LAZENBY WORCESTER SAUCE 125ML",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													177,
+													450,
+													414,
+													447,
+													414,
+													465,
+													177,
+													468
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 98,
+												"length": 29
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "17.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													462,
+													442,
+													501,
+													440,
+													502,
+													456,
+													463,
+													457
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 128,
+												"length": 5
+											}
+										],
+										"valueNumber": 17.99
+									}
+								},
+								"content": "LAZENBY WORCESTER SAUCE 125ML\n17.99 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											177,
+											447,
+											519,
+											439,
+											519,
+											462,
+											177,
+											470
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 98,
+										"length": 37
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "MILKY BAR CHOC\n80GR",
+										"content": "MILKY BAR CHOC\n80GR",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													177,
+													472,
+													406,
+													468,
+													406,
+													486,
+													177,
+													490
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 136,
+												"length": 19
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "16.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													462,
+													463,
+													501,
+													461,
+													502,
+													477,
+													464,
+													478
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 156,
+												"length": 5
+											}
+										],
+										"valueNumber": 16.99
+									}
+								},
+								"content": "MILKY BAR CHOC\n80GR\n16.99 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											177,
+											468,
+											519,
+											460,
+											519,
+											483,
+											177,
+											491
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 136,
+										"length": 27
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "SMOKED VIENNAS\n500GR",
+										"content": "SMOKED VIENNAS\n500GR",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													178,
+													492,
+													415,
+													487,
+													415,
+													506,
+													178,
+													510
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 164,
+												"length": 20
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "33.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													463,
+													483,
+													502,
+													481,
+													503,
+													497,
+													464,
+													499
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 185,
+												"length": 5
+											}
+										],
+										"valueNumber": 33.99
+									}
+								},
+								"content": "SMOKED VIENNAS\n500GR\n33.99 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											178,
+											492,
+											519,
+											480,
+											520,
+											500,
+											179,
+											512
+										]
+									}
+								],
+								"confidence": 0.981,
+								"spans": [
+									{
+										"offset": 164,
+										"length": 28
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "PEALED PEACHES",
+										"content": "PEALED PEACHES",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													179,
+													513,
+													296,
+													511,
+													296,
+													528,
+													179,
+													530
+												]
+											}
+										],
+										"confidence": 0.979,
+										"spans": [
+											{
+												"offset": 193,
+												"length": 14
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "82.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													462,
+													503,
+													503,
+													501,
+													504,
+													517,
+													464,
+													519
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 213,
+												"length": 5
+											}
+										],
+										"valueNumber": 82.99
+									}
+								},
+								"content": "PEALED PEACHES\n400G\n82.99 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											179,
+											508,
+											521,
+											501,
+											521,
+											523,
+											179,
+											530
+										]
+									}
+								],
+								"confidence": 0.981,
+								"spans": [
+									{
+										"offset": 193,
+										"length": 27
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "MEDITERRANEAN MIX\n1KG",
+										"content": "MEDITERRANEAN MIX\n1KG",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													180,
+													532,
+													401,
+													528,
+													401,
+													546,
+													180,
+													550
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 221,
+												"length": 21
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "44.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													464,
+													523,
+													504,
+													521,
+													505,
+													537,
+													465,
+													539
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 243,
+												"length": 5
+											}
+										],
+										"valueNumber": 44.99
+									}
+								},
+								"content": "MEDITERRANEAN MIX\n1KG\n44.99 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											180,
+											527,
+											522,
+											521,
+											522,
+											544,
+											180,
+											550
+										]
+									}
+								],
+								"confidence": 0.981,
+								"spans": [
+									{
+										"offset": 221,
+										"length": 29
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "SPAR COOKING OIL\n375ML",
+										"content": "SPAR COOKING OIL\n375ML",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													181,
+													550,
+													416,
+													546,
+													416,
+													566,
+													181,
+													570
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 251,
+												"length": 22
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "14.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													466,
+													543,
+													506,
+													542,
+													506,
+													557,
+													467,
+													559
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 274,
+												"length": 5
+											}
+										],
+										"valueNumber": 14.99
+									}
+								},
+								"content": "SPAR COOKING OIL\n375ML\n14.99 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											181,
+											547,
+											523,
+											542,
+											523,
+											564,
+											181,
+											570
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 251,
+										"length": 30
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "F/L ENGLISH CUCUMB\n1'S",
+										"content": "F/L ENGLISH CUCUMB\n1'S",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													182,
+													571,
+													401,
+													567,
+													401,
+													586,
+													182,
+													591
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 282,
+												"length": 22
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "12.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													466,
+													563,
+													506,
+													562,
+													506,
+													577,
+													467,
+													579
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 305,
+												"length": 5
+											}
+										],
+										"valueNumber": 12.99
+									}
+								},
+								"content": "F/L ENGLISH CUCUMB\n1'S\n12.99 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											182,
+											569,
+											524,
+											562,
+											524,
+											583,
+											182,
+											591
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 282,
+										"length": 30
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "NESTLE AERO",
+										"content": "NESTLE AERO",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													183,
+													592,
+													274,
+													592,
+													274,
+													609,
+													183,
+													609
+												]
+											}
+										],
+										"confidence": 0.979,
+										"spans": [
+											{
+												"offset": 313,
+												"length": 11
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "20.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													465,
+													583,
+													507,
+													582,
+													507,
+													598,
+													466,
+													599
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 330,
+												"length": 5
+											}
+										],
+										"valueNumber": 20.99
+									}
+								},
+								"content": "NESTLE AERO\n85GR\n20.99 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											183,
+											586,
+											523,
+											581,
+											523,
+											604,
+											183,
+											610
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 313,
+										"length": 24
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "CADBURY DAIRY MI\n80GR",
+										"content": "CADBURY DAIRY MI\n80GR",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													182,
+													610,
+													411,
+													606,
+													411,
+													625,
+													182,
+													629
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 338,
+												"length": 21
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "16.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													466,
+													600,
+													509,
+													598,
+													510,
+													619,
+													467,
+													621
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 360,
+												"length": 5
+											}
+										],
+										"valueNumber": 16.99
+									}
+								},
+								"content": "CADBURY DAIRY MI\n80GR\n16.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											181,
+											608,
+											509,
+											598,
+											510,
+											620,
+											182,
+											631
+										]
+									}
+								],
+								"confidence": 0.98,
+								"spans": [
+									{
+										"offset": 338,
+										"length": 27
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "GRAPES MIXED TUB\nTUB",
+										"content": "GRAPES MIXED TUB\nTUB",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													182,
+													630,
+													402,
+													625,
+													402,
+													644,
+													182,
+													649
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 366,
+												"length": 20
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "24.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													467,
+													624,
+													508,
+													623,
+													508,
+													639,
+													468,
+													640
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 387,
+												"length": 5
+											}
+										],
+										"valueNumber": 24.99
+									}
+								},
+								"content": "GRAPES MIXED TUB\nTUB\n24.99 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											182,
+											629,
+											526,
+											622,
+											526,
+											642,
+											182,
+											649
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 366,
+										"length": 28
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "TASTIC RICE\n500GR",
+										"content": "TASTIC RICE\n500GR",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													182,
+													650,
+													419,
+													643,
+													420,
+													666,
+													183,
+													673
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 395,
+												"length": 17
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "11.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													470,
+													645,
+													509,
+													644,
+													509,
+													660,
+													470,
+													661
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 413,
+												"length": 5
+											}
+										],
+										"valueNumber": 11.99
+									}
+								},
+								"content": "TASTIC RICE\n500GR\n11.99 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											182,
+											649,
+											527,
+											640,
+											527,
+											663,
+											182,
+											672
+										]
+									}
+								],
+								"confidence": 0.98,
+								"spans": [
+									{
+										"offset": 395,
+										"length": 25
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BLACK CAT SMOOTH\n270GR",
+										"content": "BLACK CAT SMOOTH\n270GR",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													181,
+													672,
+													419,
+													666,
+													419,
+													685,
+													181,
+													691
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 421,
+												"length": 22
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "27.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													469,
+													665,
+													510,
+													665,
+													511,
+													681,
+													470,
+													682
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 444,
+												"length": 5
+											}
+										],
+										"valueNumber": 27.99
+									}
+								},
+								"content": "BLACK CAT SMOOTH\n270GR\n27.99 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											181,
+											672,
+											528,
+											663,
+											528,
+											683,
+											181,
+											691
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 421,
+										"length": 30
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "CARRIER BAG 24L\n1'S",
+										"content": "CARRIER BAG 24L\n1'S",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													180,
+													688,
+													403,
+													688,
+													403,
+													711,
+													180,
+													711
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 452,
+												"length": 19
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "0.75",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													477,
+													686,
+													510,
+													686,
+													511,
+													702,
+													478,
+													702
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 472,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.75
+									}
+								},
+								"content": "CARRIER BAG 24L\n1'S\n0.75 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											180,
+											685,
+											528,
+											685,
+											528,
+											711,
+											180,
+											711
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 452,
+										"length": 26
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BANANAS LOOSE\n17KG",
+										"content": "BANANAS LOOSE\n17KG",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													180,
+													713,
+													411,
+													705,
+													412,
+													727,
+													181,
+													735
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 479,
+												"length": 18
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "15.99 R\n/kg",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													297,
+													728,
+													405,
+													728,
+													405,
+													751,
+													297,
+													751
+												]
+											}
+										],
+										"confidence": 0.982,
+										"spans": [
+											{
+												"offset": 508,
+												"length": 11
+											}
+										],
+										"valueNumber": 15.99
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 0.596,
+										"content": "0.596kg",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													189,
+													735,
+													248,
+													734,
+													248,
+													752,
+													190,
+													752
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 498,
+												"length": 7
+											}
+										]
+									},
+									"QuantityUnit": {
+										"type": "string",
+										"valueString": "kg",
+										"content": "0.596kg",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													189,
+													735,
+													248,
+													734,
+													248,
+													752,
+													190,
+													752
+												]
+											}
+										],
+										"confidence": 0.995,
+										"spans": [
+											{
+												"offset": 498,
+												"length": 7
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "9.53",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													479,
+													729,
+													513,
+													728,
+													514,
+													744,
+													480,
+													744
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 520,
+												"length": 4
+											}
+										],
+										"valueNumber": 9.53
+									}
+								},
+								"content": "BANANAS LOOSE\n17KG\n0.596kg @\n15.99 R\n/kg\n9.53 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											180,
+											706,
+											531,
+											706,
+											531,
+											752,
+											180,
+											752
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 479,
+										"length": 47
+									}
+								]
+							}
+						]
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "SPAR",
+						"content": "SPAR",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									283,
+									273,
+									404,
+									273,
+									404,
+									302,
+									283,
+									303
+								]
+							}
+						],
+						"confidence": 0.983,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 4
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+61364481240",
+						"content": "036-4481240",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									320,
+									326,
+									412,
+									323,
+									412,
+									345,
+									320,
+									347
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 11,
+								"length": 11
+							}
+						]
+					},
+					"TaxDetails": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Amount": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 0,
+											"currencyCode": "AUD"
+										},
+										"content": "0.00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													370,
+													859,
+													404,
+													859,
+													404,
+													877,
+													370,
+													877
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 626,
+												"length": 4
+											}
+										]
+									}
+								},
+								"content": "0.00%\n119.48\n0.00\n119.48 *",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											184,
+											858,
+											535,
+											858,
+											535,
+											880,
+											184,
+											880
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 613,
+										"length": 26
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Amount": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 28.52,
+											"currencyCode": "AUD"
+										},
+										"content": "28.52",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													363,
+													881,
+													404,
+													881,
+													404,
+													898,
+													363,
+													897
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 654,
+												"length": 5
+											}
+										]
+									}
+								},
+								"content": "15.00%\n190.16\n28.52\n218.68 A",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											177,
+											879,
+											535,
+											879,
+											535,
+											901,
+											177,
+											901
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 640,
+										"length": 28
+									}
+								]
+							}
+						]
+					},
+					"Total": {
+						"type": "number",
+						"content": "338.16",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									463,
+									750,
+									513,
+									749,
+									514,
+									765,
+									464,
+									766
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 546,
+								"length": 6
+							}
+						],
+						"valueNumber": 338.16
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2021-02-23",
+						"content": "23.02.21",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									398,
+									947,
+									468,
+									944,
+									468,
+									963,
+									399,
+									965
+								]
+							}
+						],
+						"confidence": 0.988,
+						"spans": [
+							{
+								"offset": 718,
+								"length": 8
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "16:17:00",
+						"content": "16:17",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									485,
+									943,
+									528,
+									942,
+									528,
+									960,
+									486,
+									961
+								]
+							}
+						],
+						"confidence": 0.988,
+						"spans": [
+							{
+								"offset": 727,
+								"length": 5
+							}
+						]
+					}
+				},
+				"confidence": 0.988,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 845
+					}
+				]
+			}
+		]
+	}
+}

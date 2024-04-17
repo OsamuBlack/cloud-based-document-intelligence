@@ -1,0 +1,3887 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:14:58Z",
+	"lastUpdatedDateTime": "2024-04-17T20:15:01Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Give us feedback @ survey.walmart.com\nThank you! ID #: 7QDRJJ99F3X\nWalmart\n863-676-9425 Mgr:EURIEL\n2000 STATE ROAD 60 E\nLAKE WALES FL 33898\nST# 00859 OP# 009026 TE# 26 TR# 02422\nGRILL COVER 471288396027\n14.97 X\nFIBER CHOICE 036926600094\n12.94 N\nCELERY HEART 003338365301 F\n000000004023KF\n2.48 N\nRED GRAPE\n2.51 lb @\n1 lb /1.44\nSUBTOTAL\n3.61 N\nTAX 1\n7.000 %\n34.00\nTOTAL\n1.05\nSHOPPING CARD TEND\n35.05\n35.05\n6 190\nCHANGE DUE\n0.00\nSHOP.CARD REDEMPTION\n35.05\nACCOUNT\n********** 0246\nBeg Bal\nTran Amt\nEnd Bal\n157.29\n35.05\n122.24\n# ITEMS SOLD 4\nTC# 6949 6652 6669 8007 1705\nLow Prices You Can Trust. Every Day.\n10/16/21\n11:22:45",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 1.5470290184020996,
+				"width": 736,
+				"height": 981,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Give",
+						"polygon": [
+							214,
+							276,
+							250,
+							275,
+							249,
+							292,
+							214,
+							293
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 0,
+							"length": 4
+						}
+					},
+					{
+						"content": "us",
+						"polygon": [
+							258,
+							275,
+							277,
+							276,
+							276,
+							292,
+							258,
+							292
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 5,
+							"length": 2
+						}
+					},
+					{
+						"content": "feedback",
+						"polygon": [
+							286,
+							276,
+							352,
+							278,
+							352,
+							294,
+							286,
+							292
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 8,
+							"length": 8
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							362,
+							279,
+							371,
+							279,
+							370,
+							295,
+							361,
+							295
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 17,
+							"length": 1
+						}
+					},
+					{
+						"content": "survey.walmart.com",
+						"polygon": [
+							380,
+							280,
+							527,
+							297,
+							525,
+							311,
+							379,
+							296
+						],
+						"confidence": 0.919,
+						"span": {
+							"offset": 19,
+							"length": 18
+						}
+					},
+					{
+						"content": "Thank",
+						"polygon": [
+							214,
+							291,
+							256,
+							292,
+							256,
+							309,
+							214,
+							307
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 38,
+							"length": 5
+						}
+					},
+					{
+						"content": "you!",
+						"polygon": [
+							266,
+							292,
+							302,
+							293,
+							302,
+							310,
+							266,
+							309
+						],
+						"confidence": 0.922,
+						"span": {
+							"offset": 44,
+							"length": 4
+						}
+					},
+					{
+						"content": "ID",
+						"polygon": [
+							310,
+							293,
+							326,
+							293,
+							326,
+							310,
+							309,
+							310
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 49,
+							"length": 2
+						}
+					},
+					{
+						"content": "#:",
+						"polygon": [
+							334,
+							293,
+							352,
+							294,
+							351,
+							311,
+							334,
+							310
+						],
+						"confidence": 0.92,
+						"span": {
+							"offset": 52,
+							"length": 2
+						}
+					},
+					{
+						"content": "7QDRJJ99F3X",
+						"polygon": [
+							355,
+							294,
+							447,
+							296,
+							446,
+							312,
+							354,
+							311
+						],
+						"confidence": 0.924,
+						"span": {
+							"offset": 55,
+							"length": 11
+						}
+					},
+					{
+						"content": "Walmart",
+						"polygon": [
+							304,
+							315,
+							423,
+							318,
+							422,
+							343,
+							304,
+							343
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 67,
+							"length": 7
+						}
+					},
+					{
+						"content": "863-676-9425",
+						"polygon": [
+							272,
+							351,
+							377,
+							348,
+							376,
+							367,
+							273,
+							370
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 75,
+							"length": 12
+						}
+					},
+					{
+						"content": "Mgr:EURIEL",
+						"polygon": [
+							384,
+							348,
+							468,
+							359,
+							466,
+							376,
+							383,
+							367
+						],
+						"confidence": 0.903,
+						"span": {
+							"offset": 88,
+							"length": 10
+						}
+					},
+					{
+						"content": "2000",
+						"polygon": [
+							290,
+							367,
+							324,
+							365,
+							325,
+							383,
+							291,
+							385
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 99,
+							"length": 4
+						}
+					},
+					{
+						"content": "STATE",
+						"polygon": [
+							330,
+							364,
+							375,
+							364,
+							375,
+							383,
+							331,
+							383
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 104,
+							"length": 5
+						}
+					},
+					{
+						"content": "ROAD",
+						"polygon": [
+							382,
+							365,
+							418,
+							367,
+							418,
+							386,
+							382,
+							383
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 110,
+							"length": 4
+						}
+					},
+					{
+						"content": "60",
+						"polygon": [
+							426,
+							368,
+							442,
+							370,
+							442,
+							389,
+							425,
+							387
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 115,
+							"length": 2
+						}
+					},
+					{
+						"content": "E",
+						"polygon": [
+							450,
+							371,
+							459,
+							373,
+							459,
+							392,
+							449,
+							390
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 118,
+							"length": 1
+						}
+					},
+					{
+						"content": "LAKE",
+						"polygon": [
+							288,
+							384,
+							322,
+							381,
+							322,
+							399,
+							289,
+							401
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 120,
+							"length": 4
+						}
+					},
+					{
+						"content": "WALES",
+						"polygon": [
+							329,
+							380,
+							375,
+							380,
+							375,
+							399,
+							329,
+							399
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 125,
+							"length": 5
+						}
+					},
+					{
+						"content": "FL",
+						"polygon": [
+							382,
+							380,
+							401,
+							382,
+							401,
+							401,
+							382,
+							399
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 131,
+							"length": 2
+						}
+					},
+					{
+						"content": "33898",
+						"polygon": [
+							409,
+							383,
+							451,
+							389,
+							451,
+							406,
+							409,
+							401
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 134,
+							"length": 5
+						}
+					},
+					{
+						"content": "ST#",
+						"polygon": [
+							207,
+							399,
+							234,
+							398,
+							234,
+							416,
+							207,
+							416
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 140,
+							"length": 3
+						}
+					},
+					{
+						"content": "00859",
+						"polygon": [
+							243,
+							398,
+							289,
+							397,
+							289,
+							415,
+							243,
+							416
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 144,
+							"length": 5
+						}
+					},
+					{
+						"content": "OP#",
+						"polygon": [
+							297,
+							397,
+							322,
+							398,
+							322,
+							416,
+							297,
+							415
+						],
+						"confidence": 0.746,
+						"span": {
+							"offset": 150,
+							"length": 3
+						}
+					},
+					{
+						"content": "009026",
+						"polygon": [
+							328,
+							398,
+							383,
+							400,
+							382,
+							417,
+							328,
+							416
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 154,
+							"length": 6
+						}
+					},
+					{
+						"content": "TE#",
+						"polygon": [
+							392,
+							400,
+							416,
+							401,
+							415,
+							419,
+							391,
+							418
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 161,
+							"length": 3
+						}
+					},
+					{
+						"content": "26",
+						"polygon": [
+							425,
+							402,
+							441,
+							403,
+							440,
+							420,
+							424,
+							420
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 165,
+							"length": 2
+						}
+					},
+					{
+						"content": "TR#",
+						"polygon": [
+							452,
+							404,
+							477,
+							406,
+							476,
+							423,
+							451,
+							421
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 168,
+							"length": 3
+						}
+					},
+					{
+						"content": "02422",
+						"polygon": [
+							486,
+							407,
+							531,
+							411,
+							530,
+							428,
+							485,
+							424
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 172,
+							"length": 5
+						}
+					},
+					{
+						"content": "GRILL",
+						"polygon": [
+							205,
+							416,
+							251,
+							415,
+							250,
+							433,
+							205,
+							433
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 178,
+							"length": 5
+						}
+					},
+					{
+						"content": "COVER",
+						"polygon": [
+							261,
+							415,
+							305,
+							415,
+							304,
+							433,
+							261,
+							433
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 184,
+							"length": 5
+						}
+					},
+					{
+						"content": "471288396027",
+						"polygon": [
+							320,
+							415,
+							422,
+							418,
+							422,
+							435,
+							319,
+							433
+						],
+						"confidence": 0.971,
+						"span": {
+							"offset": 190,
+							"length": 12
+						}
+					},
+					{
+						"content": "14.97",
+						"polygon": [
+							479,
+							423,
+							522,
+							427,
+							521,
+							443,
+							479,
+							439
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 203,
+							"length": 5
+						}
+					},
+					{
+						"content": "X",
+						"polygon": [
+							529,
+							428,
+							538,
+							429,
+							538,
+							445,
+							528,
+							444
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 209,
+							"length": 1
+						}
+					},
+					{
+						"content": "FIBER",
+						"polygon": [
+							204,
+							434,
+							250,
+							432,
+							250,
+							450,
+							205,
+							451
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 211,
+							"length": 5
+						}
+					},
+					{
+						"content": "CHOICE",
+						"polygon": [
+							260,
+							432,
+							311,
+							432,
+							312,
+							450,
+							260,
+							450
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 217,
+							"length": 6
+						}
+					},
+					{
+						"content": "036926600094",
+						"polygon": [
+							320,
+							432,
+							423,
+							435,
+							422,
+							452,
+							320,
+							450
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 224,
+							"length": 12
+						}
+					},
+					{
+						"content": "12.94",
+						"polygon": [
+							479,
+							441,
+							520,
+							444,
+							519,
+							460,
+							478,
+							456
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 237,
+							"length": 5
+						}
+					},
+					{
+						"content": "N",
+						"polygon": [
+							528,
+							445,
+							536,
+							446,
+							535,
+							462,
+							527,
+							461
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 243,
+							"length": 1
+						}
+					},
+					{
+						"content": "CELERY",
+						"polygon": [
+							203,
+							451,
+							260,
+							449,
+							260,
+							467,
+							203,
+							468
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 245,
+							"length": 6
+						}
+					},
+					{
+						"content": "HEART",
+						"polygon": [
+							267,
+							449,
+							313,
+							449,
+							313,
+							467,
+							267,
+							467
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 252,
+							"length": 5
+						}
+					},
+					{
+						"content": "003338365301",
+						"polygon": [
+							319,
+							449,
+							424,
+							451,
+							424,
+							469,
+							319,
+							467
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 258,
+							"length": 12
+						}
+					},
+					{
+						"content": "F",
+						"polygon": [
+							430,
+							451,
+							440,
+							452,
+							440,
+							470,
+							430,
+							469
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 271,
+							"length": 1
+						}
+					},
+					{
+						"content": "000000004023KF",
+						"polygon": [
+							320,
+							466,
+							440,
+							470,
+							440,
+							488,
+							321,
+							484
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 273,
+							"length": 14
+						}
+					},
+					{
+						"content": "2.48",
+						"polygon": [
+							487,
+							459,
+							520,
+							462,
+							518,
+							477,
+							485,
+							474
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 288,
+							"length": 4
+						}
+					},
+					{
+						"content": "N",
+						"polygon": [
+							528,
+							462,
+							536,
+							463,
+							534,
+							479,
+							526,
+							478
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 293,
+							"length": 1
+						}
+					},
+					{
+						"content": "RED",
+						"polygon": [
+							202,
+							468,
+							230,
+							468,
+							230,
+							484,
+							203,
+							483
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 295,
+							"length": 3
+						}
+					},
+					{
+						"content": "GRAPE",
+						"polygon": [
+							241,
+							469,
+							286,
+							470,
+							286,
+							486,
+							241,
+							484
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 299,
+							"length": 5
+						}
+					},
+					{
+						"content": "2.51",
+						"polygon": [
+							222,
+							487,
+							259,
+							487,
+							260,
+							503,
+							222,
+							502
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 305,
+							"length": 4
+						}
+					},
+					{
+						"content": "lb",
+						"polygon": [
+							269,
+							487,
+							285,
+							487,
+							286,
+							503,
+							270,
+							503
+						],
+						"confidence": 0.528,
+						"span": {
+							"offset": 310,
+							"length": 2
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							302,
+							487,
+							312,
+							487,
+							312,
+							503,
+							303,
+							503
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 313,
+							"length": 1
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							331,
+							485,
+							340,
+							485,
+							341,
+							502,
+							332,
+							502
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 315,
+							"length": 1
+						}
+					},
+					{
+						"content": "lb",
+						"polygon": [
+							345,
+							485,
+							360,
+							485,
+							360,
+							502,
+							345,
+							502
+						],
+						"confidence": 0.546,
+						"span": {
+							"offset": 317,
+							"length": 2
+						}
+					},
+					{
+						"content": "/1.44",
+						"polygon": [
+							369,
+							485,
+							413,
+							488,
+							413,
+							505,
+							368,
+							503
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 320,
+							"length": 5
+						}
+					},
+					{
+						"content": "SUBTOTAL",
+						"polygon": [
+							360,
+							502,
+							430,
+							506,
+							429,
+							522,
+							359,
+							518
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 326,
+							"length": 8
+						}
+					},
+					{
+						"content": "3.61",
+						"polygon": [
+							484,
+							493,
+							520,
+							496,
+							519,
+							512,
+							483,
+							509
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 335,
+							"length": 4
+						}
+					},
+					{
+						"content": "N",
+						"polygon": [
+							526,
+							497,
+							535,
+							497,
+							534,
+							513,
+							526,
+							512
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 340,
+							"length": 1
+						}
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							286,
+							521,
+							312,
+							521,
+							312,
+							537,
+							286,
+							536
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 342,
+							"length": 3
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							323,
+							521,
+							330,
+							521,
+							330,
+							537,
+							323,
+							537
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 346,
+							"length": 1
+						}
+					},
+					{
+						"content": "7.000",
+						"polygon": [
+							357,
+							520,
+							395,
+							522,
+							394,
+							538,
+							357,
+							536
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 348,
+							"length": 5
+						}
+					},
+					{
+						"content": "%",
+						"polygon": [
+							406,
+							523,
+							413,
+							524,
+							412,
+							540,
+							405,
+							539
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 354,
+							"length": 1
+						}
+					},
+					{
+						"content": "34.00",
+						"polygon": [
+							475,
+							511,
+							519,
+							513,
+							518,
+							529,
+							474,
+							526
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 356,
+							"length": 5
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							388,
+							538,
+							430,
+							541,
+							428,
+							558,
+							386,
+							554
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 362,
+							"length": 5
+						}
+					},
+					{
+						"content": "1.05",
+						"polygon": [
+							484,
+							530,
+							520,
+							530,
+							519,
+							545,
+							483,
+							544
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 368,
+							"length": 4
+						}
+					},
+					{
+						"content": "SHOPPING",
+						"polygon": [
+							272,
+							556,
+							347,
+							556,
+							346,
+							573,
+							272,
+							572
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 373,
+							"length": 8
+						}
+					},
+					{
+						"content": "CARD",
+						"polygon": [
+							356,
+							556,
+							387,
+							557,
+							387,
+							574,
+							355,
+							573
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 382,
+							"length": 4
+						}
+					},
+					{
+						"content": "TEND",
+						"polygon": [
+							398,
+							557,
+							430,
+							558,
+							430,
+							575,
+							397,
+							574
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 387,
+							"length": 4
+						}
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							475,
+							546,
+							520,
+							547,
+							520,
+							563,
+							475,
+							561
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 392,
+							"length": 5
+						}
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							476,
+							564,
+							520,
+							565,
+							520,
+							581,
+							476,
+							579
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 398,
+							"length": 5
+						}
+					},
+					{
+						"content": "6",
+						"polygon": [
+							227,
+							572,
+							236,
+							572,
+							236,
+							589,
+							227,
+							589
+						],
+						"confidence": 0.559,
+						"span": {
+							"offset": 404,
+							"length": 1
+						}
+					},
+					{
+						"content": "190",
+						"polygon": [
+							241,
+							572,
+							265,
+							572,
+							266,
+							588,
+							241,
+							589
+						],
+						"confidence": 0.868,
+						"span": {
+							"offset": 406,
+							"length": 3
+						}
+					},
+					{
+						"content": "CHANGE",
+						"polygon": [
+							347,
+							574,
+							395,
+							576,
+							395,
+							593,
+							347,
+							592
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 410,
+							"length": 6
+						}
+					},
+					{
+						"content": "DUE",
+						"polygon": [
+							404,
+							576,
+							432,
+							577,
+							431,
+							594,
+							404,
+							593
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 417,
+							"length": 3
+						}
+					},
+					{
+						"content": "0.00",
+						"polygon": [
+							486,
+							582,
+							523,
+							582,
+							523,
+							599,
+							486,
+							598
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 421,
+							"length": 4
+						}
+					},
+					{
+						"content": "SHOP.CARD",
+						"polygon": [
+							194,
+							592,
+							277,
+							593,
+							277,
+							610,
+							194,
+							609
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 426,
+							"length": 9
+						}
+					},
+					{
+						"content": "REDEMPTION",
+						"polygon": [
+							288,
+							593,
+							381,
+							595,
+							381,
+							612,
+							288,
+							611
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 436,
+							"length": 10
+						}
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							450,
+							599,
+							497,
+							600,
+							496,
+							616,
+							449,
+							615
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 447,
+							"length": 5
+						}
+					},
+					{
+						"content": "ACCOUNT",
+						"polygon": [
+							193,
+							612,
+							260,
+							612,
+							260,
+							629,
+							193,
+							628
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 453,
+							"length": 7
+						}
+					},
+					{
+						"content": "**********",
+						"polygon": [
+							290,
+							614,
+							377,
+							613,
+							377,
+							630,
+							291,
+							628
+						],
+						"confidence": 0.635,
+						"span": {
+							"offset": 461,
+							"length": 10
+						}
+					},
+					{
+						"content": "0246",
+						"polygon": [
+							380,
+							613,
+							413,
+							614,
+							413,
+							631,
+							380,
+							630
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 472,
+							"length": 4
+						}
+					},
+					{
+						"content": "Beg",
+						"polygon": [
+							191,
+							631,
+							219,
+							631,
+							219,
+							649,
+							191,
+							648
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 477,
+							"length": 3
+						}
+					},
+					{
+						"content": "Bal",
+						"polygon": [
+							228,
+							631,
+							256,
+							632,
+							256,
+							649,
+							228,
+							649
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 481,
+							"length": 3
+						}
+					},
+					{
+						"content": "Tran",
+						"polygon": [
+							308,
+							632,
+							343,
+							632,
+							343,
+							649,
+							308,
+							648
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 485,
+							"length": 4
+						}
+					},
+					{
+						"content": "Amt",
+						"polygon": [
+							355,
+							632,
+							381,
+							632,
+							381,
+							650,
+							355,
+							649
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 490,
+							"length": 3
+						}
+					},
+					{
+						"content": "End",
+						"polygon": [
+							413,
+							634,
+							441,
+							635,
+							440,
+							653,
+							413,
+							652
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 494,
+							"length": 3
+						}
+					},
+					{
+						"content": "Bal",
+						"polygon": [
+							450,
+							636,
+							477,
+							638,
+							476,
+							655,
+							449,
+							654
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 498,
+							"length": 3
+						}
+					},
+					{
+						"content": "157.29",
+						"polygon": [
+							191,
+							650,
+							247,
+							651,
+							247,
+							668,
+							191,
+							667
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 502,
+							"length": 6
+						}
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							307,
+							650,
+							354,
+							651,
+							354,
+							668,
+							307,
+							667
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 509,
+							"length": 5
+						}
+					},
+					{
+						"content": "122.24",
+						"polygon": [
+							416,
+							654,
+							470,
+							657,
+							470,
+							675,
+							416,
+							672
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 515,
+							"length": 6
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							305,
+							670,
+							316,
+							670,
+							316,
+							689,
+							305,
+							689
+						],
+						"confidence": 0.954,
+						"span": {
+							"offset": 522,
+							"length": 1
+						}
+					},
+					{
+						"content": "ITEMS",
+						"polygon": [
+							326,
+							670,
+							374,
+							672,
+							374,
+							690,
+							325,
+							689
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 524,
+							"length": 5
+						}
+					},
+					{
+						"content": "SOLD",
+						"polygon": [
+							382,
+							672,
+							416,
+							673,
+							415,
+							692,
+							381,
+							690
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 530,
+							"length": 4
+						}
+					},
+					{
+						"content": "4",
+						"polygon": [
+							425,
+							674,
+							435,
+							674,
+							434,
+							692,
+							424,
+							692
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 535,
+							"length": 1
+						}
+					},
+					{
+						"content": "TC#",
+						"polygon": [
+							236,
+							690,
+							264,
+							690,
+							264,
+							708,
+							237,
+							707
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 537,
+							"length": 3
+						}
+					},
+					{
+						"content": "6949",
+						"polygon": [
+							275,
+							690,
+							315,
+							690,
+							315,
+							709,
+							275,
+							708
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 541,
+							"length": 4
+						}
+					},
+					{
+						"content": "6652",
+						"polygon": [
+							323,
+							691,
+							365,
+							692,
+							365,
+							710,
+							323,
+							709
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 546,
+							"length": 4
+						}
+					},
+					{
+						"content": "6669",
+						"polygon": [
+							372,
+							692,
+							409,
+							693,
+							408,
+							712,
+							372,
+							711
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 551,
+							"length": 4
+						}
+					},
+					{
+						"content": "8007",
+						"polygon": [
+							416,
+							693,
+							458,
+							695,
+							457,
+							714,
+							415,
+							712
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 556,
+							"length": 4
+						}
+					},
+					{
+						"content": "1705",
+						"polygon": [
+							465,
+							696,
+							502,
+							698,
+							502,
+							716,
+							464,
+							715
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 561,
+							"length": 4
+						}
+					},
+					{
+						"content": "Low",
+						"polygon": [
+							186,
+							785,
+							216,
+							784,
+							216,
+							804,
+							187,
+							804
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 566,
+							"length": 3
+						}
+					},
+					{
+						"content": "Prices",
+						"polygon": [
+							227,
+							784,
+							287,
+							785,
+							287,
+							804,
+							227,
+							804
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 570,
+							"length": 6
+						}
+					},
+					{
+						"content": "You",
+						"polygon": [
+							296,
+							785,
+							326,
+							786,
+							326,
+							806,
+							296,
+							805
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 577,
+							"length": 3
+						}
+					},
+					{
+						"content": "Can",
+						"polygon": [
+							336,
+							786,
+							365,
+							787,
+							365,
+							807,
+							336,
+							806
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 581,
+							"length": 3
+						}
+					},
+					{
+						"content": "Trust.",
+						"polygon": [
+							377,
+							788,
+							433,
+							790,
+							433,
+							811,
+							377,
+							808
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 585,
+							"length": 6
+						}
+					},
+					{
+						"content": "Every",
+						"polygon": [
+							441,
+							791,
+							494,
+							794,
+							494,
+							815,
+							440,
+							811
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 592,
+							"length": 5
+						}
+					},
+					{
+						"content": "Day.",
+						"polygon": [
+							503,
+							795,
+							540,
+							798,
+							539,
+							819,
+							503,
+							816
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 598,
+							"length": 4
+						}
+					},
+					{
+						"content": "10/16/21",
+						"polygon": [
+							262,
+							806,
+							342,
+							807,
+							342,
+							826,
+							262,
+							824
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 603,
+							"length": 8
+						}
+					},
+					{
+						"content": "11:22:45",
+						"polygon": [
+							392,
+							807,
+							468,
+							815,
+							467,
+							833,
+							390,
+							826
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 612,
+							"length": 8
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Give us feedback @ survey.walmart.com",
+						"polygon": [
+							213,
+							275,
+							530,
+							289,
+							529,
+							312,
+							213,
+							292
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "Thank you! ID #: 7QDRJJ99F3X",
+						"polygon": [
+							213,
+							290,
+							447,
+							295,
+							447,
+							312,
+							213,
+							307
+						],
+						"spans": [
+							{
+								"offset": 38,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Walmart",
+						"polygon": [
+							304,
+							314,
+							422,
+							315,
+							422,
+							344,
+							304,
+							342
+						],
+						"spans": [
+							{
+								"offset": 67,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "863-676-9425 Mgr:EURIEL",
+						"polygon": [
+							272,
+							346,
+							472,
+							351,
+							471,
+							377,
+							272,
+							369
+						],
+						"spans": [
+							{
+								"offset": 75,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "2000 STATE ROAD 60 E",
+						"polygon": [
+							289,
+							363,
+							460,
+							367,
+							460,
+							391,
+							289,
+							384
+						],
+						"spans": [
+							{
+								"offset": 99,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "LAKE WALES FL 33898",
+						"polygon": [
+							287,
+							379,
+							452,
+							382,
+							452,
+							405,
+							287,
+							400
+						],
+						"spans": [
+							{
+								"offset": 120,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "ST# 00859 OP# 009026 TE# 26 TR# 02422",
+						"polygon": [
+							206,
+							397,
+							532,
+							405,
+							531,
+							427,
+							205,
+							415
+						],
+						"spans": [
+							{
+								"offset": 140,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "GRILL COVER 471288396027",
+						"polygon": [
+							205,
+							414,
+							422,
+							416,
+							422,
+							435,
+							204,
+							432
+						],
+						"spans": [
+							{
+								"offset": 178,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "14.97 X",
+						"polygon": [
+							478,
+							423,
+							539,
+							429,
+							537,
+							444,
+							477,
+							438
+						],
+						"spans": [
+							{
+								"offset": 203,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "FIBER CHOICE 036926600094",
+						"polygon": [
+							204,
+							431,
+							423,
+							432,
+							423,
+							451,
+							204,
+							450
+						],
+						"spans": [
+							{
+								"offset": 211,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "12.94 N",
+						"polygon": [
+							478,
+							440,
+							539,
+							445,
+							537,
+							461,
+							477,
+							455
+						],
+						"spans": [
+							{
+								"offset": 237,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CELERY HEART 003338365301 F",
+						"polygon": [
+							203,
+							449,
+							442,
+							449,
+							442,
+							469,
+							203,
+							468
+						],
+						"spans": [
+							{
+								"offset": 245,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "000000004023KF",
+						"polygon": [
+							320,
+							465,
+							441,
+							469,
+							440,
+							487,
+							320,
+							483
+						],
+						"spans": [
+							{
+								"offset": 273,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "2.48 N",
+						"polygon": [
+							483,
+							459,
+							538,
+							463,
+							537,
+							478,
+							482,
+							474
+						],
+						"spans": [
+							{
+								"offset": 288,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "RED GRAPE",
+						"polygon": [
+							202,
+							467,
+							289,
+							469,
+							288,
+							485,
+							202,
+							483
+						],
+						"spans": [
+							{
+								"offset": 295,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "2.51 lb @",
+						"polygon": [
+							221,
+							486,
+							314,
+							487,
+							314,
+							503,
+							221,
+							502
+						],
+						"spans": [
+							{
+								"offset": 305,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1 lb /1.44",
+						"polygon": [
+							330,
+							484,
+							414,
+							486,
+							413,
+							504,
+							330,
+							501
+						],
+						"spans": [
+							{
+								"offset": 315,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "SUBTOTAL",
+						"polygon": [
+							359,
+							501,
+							432,
+							505,
+							431,
+							522,
+							359,
+							518
+						],
+						"spans": [
+							{
+								"offset": 326,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "3.61 N",
+						"polygon": [
+							483,
+							493,
+							539,
+							497,
+							538,
+							513,
+							481,
+							508
+						],
+						"spans": [
+							{
+								"offset": 335,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "TAX 1",
+						"polygon": [
+							285,
+							521,
+							330,
+							521,
+							330,
+							537,
+							285,
+							536
+						],
+						"spans": [
+							{
+								"offset": 342,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "7.000 %",
+						"polygon": [
+							355,
+							519,
+							413,
+							523,
+							412,
+							539,
+							355,
+							535
+						],
+						"spans": [
+							{
+								"offset": 348,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "34.00",
+						"polygon": [
+							473,
+							510,
+							520,
+							512,
+							519,
+							529,
+							472,
+							526
+						],
+						"spans": [
+							{
+								"offset": 356,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							387,
+							538,
+							431,
+							541,
+							430,
+							558,
+							386,
+							553
+						],
+						"spans": [
+							{
+								"offset": 362,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "1.05",
+						"polygon": [
+							483,
+							530,
+							520,
+							530,
+							520,
+							545,
+							483,
+							543
+						],
+						"spans": [
+							{
+								"offset": 368,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "SHOPPING CARD TEND",
+						"polygon": [
+							271,
+							555,
+							431,
+							557,
+							431,
+							575,
+							271,
+							572
+						],
+						"spans": [
+							{
+								"offset": 373,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							474,
+							546,
+							523,
+							547,
+							522,
+							563,
+							474,
+							561
+						],
+						"spans": [
+							{
+								"offset": 392,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							475,
+							563,
+							523,
+							565,
+							522,
+							581,
+							475,
+							578
+						],
+						"spans": [
+							{
+								"offset": 398,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "6 190",
+						"polygon": [
+							227,
+							572,
+							266,
+							572,
+							265,
+							588,
+							227,
+							589
+						],
+						"spans": [
+							{
+								"offset": 404,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "CHANGE DUE",
+						"polygon": [
+							346,
+							574,
+							433,
+							576,
+							432,
+							594,
+							346,
+							591
+						],
+						"spans": [
+							{
+								"offset": 410,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "0.00",
+						"polygon": [
+							486,
+							582,
+							525,
+							582,
+							524,
+							599,
+							486,
+							597
+						],
+						"spans": [
+							{
+								"offset": 421,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "SHOP.CARD REDEMPTION",
+						"polygon": [
+							193,
+							591,
+							382,
+							594,
+							381,
+							611,
+							193,
+							608
+						],
+						"spans": [
+							{
+								"offset": 426,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							449,
+							599,
+							497,
+							600,
+							497,
+							616,
+							449,
+							615
+						],
+						"spans": [
+							{
+								"offset": 447,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "ACCOUNT",
+						"polygon": [
+							192,
+							611,
+							262,
+							611,
+							262,
+							628,
+							192,
+							628
+						],
+						"spans": [
+							{
+								"offset": 453,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "********** 0246",
+						"polygon": [
+							290,
+							613,
+							416,
+							613,
+							416,
+							630,
+							290,
+							629
+						],
+						"spans": [
+							{
+								"offset": 461,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Beg Bal",
+						"polygon": [
+							190,
+							631,
+							255,
+							631,
+							255,
+							649,
+							190,
+							648
+						],
+						"spans": [
+							{
+								"offset": 477,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Tran Amt",
+						"polygon": [
+							306,
+							631,
+							381,
+							632,
+							380,
+							649,
+							306,
+							647
+						],
+						"spans": [
+							{
+								"offset": 485,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "End Bal",
+						"polygon": [
+							413,
+							634,
+							477,
+							637,
+							476,
+							655,
+							413,
+							651
+						],
+						"spans": [
+							{
+								"offset": 494,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "157.29",
+						"polygon": [
+							189,
+							650,
+							248,
+							651,
+							247,
+							667,
+							189,
+							666
+						],
+						"spans": [
+							{
+								"offset": 502,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "35.05",
+						"polygon": [
+							306,
+							650,
+							356,
+							651,
+							356,
+							668,
+							306,
+							667
+						],
+						"spans": [
+							{
+								"offset": 509,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "122.24",
+						"polygon": [
+							413,
+							653,
+							474,
+							657,
+							473,
+							674,
+							413,
+							671
+						],
+						"spans": [
+							{
+								"offset": 515,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "# ITEMS SOLD 4",
+						"polygon": [
+							305,
+							669,
+							438,
+							673,
+							438,
+							692,
+							305,
+							688
+						],
+						"spans": [
+							{
+								"offset": 522,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "TC# 6949 6652 6669 8007 1705",
+						"polygon": [
+							235,
+							690,
+							502,
+							695,
+							501,
+							716,
+							235,
+							707
+						],
+						"spans": [
+							{
+								"offset": 537,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Low Prices You Can Trust. Every Day.",
+						"polygon": [
+							186,
+							784,
+							540,
+							794,
+							539,
+							818,
+							186,
+							804
+						],
+						"spans": [
+							{
+								"offset": 566,
+								"length": 36
+							}
+						]
+					},
+					{
+						"content": "10/16/21",
+						"polygon": [
+							261,
+							805,
+							342,
+							806,
+							342,
+							825,
+							261,
+							824
+						],
+						"spans": [
+							{
+								"offset": 603,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "11:22:45",
+						"polygon": [
+							390,
+							807,
+							469,
+							814,
+							467,
+							833,
+							389,
+							825
+						],
+						"spans": [
+							{
+								"offset": 612,
+								"length": 8
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 620
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 66
+					},
+					{
+						"offset": 120,
+						"length": 19
+					},
+					{
+						"offset": 178,
+						"length": 24
+					},
+					{
+						"offset": 211,
+						"length": 25
+					},
+					{
+						"offset": 245,
+						"length": 27
+					},
+					{
+						"offset": 373,
+						"length": 18
+					},
+					{
+						"offset": 522,
+						"length": 14
+					},
+					{
+						"offset": 566,
+						"length": 36
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 67,
+						"length": 7
+					},
+					{
+						"offset": 326,
+						"length": 8
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 75,
+						"length": 23
+					}
+				],
+				"locale": "nl",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 99,
+						"length": 20
+					},
+					{
+						"offset": 203,
+						"length": 7
+					},
+					{
+						"offset": 426,
+						"length": 20
+					},
+					{
+						"offset": 453,
+						"length": 7
+					}
+				],
+				"locale": "en",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 140,
+						"length": 37
+					}
+				],
+				"locale": "nl",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 237,
+						"length": 7
+					},
+					{
+						"offset": 288,
+						"length": 6
+					},
+					{
+						"offset": 335,
+						"length": 6
+					}
+				],
+				"locale": "en",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 273,
+						"length": 14
+					}
+				],
+				"locale": "ps",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 295,
+						"length": 9
+					}
+				],
+				"locale": "en",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 305,
+						"length": 20
+					}
+				],
+				"locale": "en",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 342,
+						"length": 5
+					},
+					{
+						"offset": 362,
+						"length": 5
+					},
+					{
+						"offset": 410,
+						"length": 10
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 477,
+						"length": 7
+					},
+					{
+						"offset": 494,
+						"length": 7
+					}
+				],
+				"locale": "fr",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 537,
+						"length": 28
+					}
+				],
+				"locale": "vi",
+				"confidence": 1
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							736,
+							0,
+							736,
+							981,
+							0,
+							981
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "GRILL COVER",
+										"content": "GRILL COVER",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													205,
+													415,
+													305,
+													415,
+													305,
+													433,
+													205,
+													433
+												]
+											}
+										],
+										"confidence": 0.972,
+										"spans": [
+											{
+												"offset": 178,
+												"length": 11
+											}
+										]
+									},
+									"ProductCode": {
+										"type": "string",
+										"valueString": "471288396027",
+										"content": "471288396027",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													320,
+													415,
+													422,
+													418,
+													422,
+													435,
+													319,
+													433
+												]
+											}
+										],
+										"confidence": 0.977,
+										"spans": [
+											{
+												"offset": 190,
+												"length": 12
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "14.97",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													479,
+													423,
+													522,
+													427,
+													521,
+													443,
+													479,
+													439
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 203,
+												"length": 5
+											}
+										],
+										"valueNumber": 14.97
+									}
+								},
+								"content": "GRILL COVER 471288396027\n14.97 X",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											205,
+											412,
+											539,
+											420,
+											538,
+											445,
+											204,
+											437
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 178,
+										"length": 32
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "FIBER CHOICE",
+										"content": "FIBER CHOICE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													204,
+													432,
+													312,
+													432,
+													312,
+													451,
+													204,
+													451
+												]
+											}
+										],
+										"confidence": 0.972,
+										"spans": [
+											{
+												"offset": 211,
+												"length": 12
+											}
+										]
+									},
+									"ProductCode": {
+										"type": "string",
+										"valueString": "036926600094",
+										"content": "036926600094",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													320,
+													432,
+													423,
+													435,
+													422,
+													452,
+													320,
+													450
+												]
+											}
+										],
+										"confidence": 0.977,
+										"spans": [
+											{
+												"offset": 224,
+												"length": 12
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "12.94",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													479,
+													441,
+													520,
+													444,
+													519,
+													460,
+													478,
+													456
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 237,
+												"length": 5
+											}
+										],
+										"valueNumber": 12.94
+									}
+								},
+								"content": "FIBER CHOICE 036926600094\n12.94 N",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											204,
+											429,
+											536,
+											437,
+											536,
+											462,
+											204,
+											454
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 211,
+										"length": 33
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "CELERY HEART",
+										"content": "CELERY HEART",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													203,
+													449,
+													313,
+													449,
+													313,
+													468,
+													203,
+													468
+												]
+											}
+										],
+										"confidence": 0.972,
+										"spans": [
+											{
+												"offset": 245,
+												"length": 12
+											}
+										]
+									},
+									"ProductCode": {
+										"type": "string",
+										"valueString": "003338365301",
+										"content": "003338365301",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													319,
+													449,
+													424,
+													451,
+													424,
+													469,
+													319,
+													467
+												]
+											}
+										],
+										"confidence": 0.977,
+										"spans": [
+											{
+												"offset": 258,
+												"length": 12
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.48",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													487,
+													459,
+													520,
+													462,
+													518,
+													477,
+													485,
+													474
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 288,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.48
+									}
+								},
+								"content": "CELERY HEART 003338365301 F\n2.48 N",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											205,
+											431,
+											536,
+											461,
+											533,
+											498,
+											201,
+											468
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 245,
+										"length": 27
+									},
+									{
+										"offset": 288,
+										"length": 6
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "RED GRAPE",
+										"content": "RED GRAPE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													202,
+													467,
+													287,
+													470,
+													286,
+													486,
+													201,
+													483
+												]
+											}
+										],
+										"confidence": 0.972,
+										"spans": [
+											{
+												"offset": 295,
+												"length": 9
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "1 lb /1.44",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													331,
+													485,
+													413,
+													485,
+													413,
+													505,
+													331,
+													505
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 315,
+												"length": 10
+											}
+										],
+										"valueNumber": 1
+									},
+									"ProductCode": {
+										"type": "string",
+										"valueString": "000000004023KF",
+										"content": "000000004023KF",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													320,
+													466,
+													440,
+													470,
+													440,
+													488,
+													321,
+													484
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 273,
+												"length": 14
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2.51,
+										"content": "2.51",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													222,
+													487,
+													259,
+													487,
+													260,
+													503,
+													222,
+													502
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 305,
+												"length": 4
+											}
+										]
+									},
+									"QuantityUnit": {
+										"type": "string",
+										"valueString": "lb",
+										"content": "lb",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													269,
+													487,
+													285,
+													487,
+													286,
+													503,
+													270,
+													503
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 310,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.61",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													484,
+													493,
+													520,
+													496,
+													519,
+													512,
+													483,
+													509
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 335,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.61
+									}
+								},
+								"content": "000000004023KF\nRED GRAPE\n2.51 lb @\n1 lb /1.44\n3.61 N",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											202,
+											464,
+											535,
+											470,
+											535,
+											513,
+											201,
+											507
+										]
+									}
+								],
+								"confidence": 0.962,
+								"spans": [
+									{
+										"offset": 273,
+										"length": 14
+									},
+									{
+										"offset": 295,
+										"length": 30
+									},
+									{
+										"offset": 335,
+										"length": 6
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "2000 STATE ROAD 60 E\nLAKE WALES FL 33898",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									290,
+									358,
+									461,
+									370,
+									458,
+									413,
+									287,
+									401
+								]
+							}
+						],
+						"confidence": 0.984,
+						"spans": [
+							{
+								"offset": 99,
+								"length": 40
+							}
+						],
+						"valueAddress": {
+							"houseNumber": "2000",
+							"road": "STATE ROAD 60 E",
+							"postalCode": "33898",
+							"city": "LAKE WALES",
+							"state": "FL",
+							"streetAddress": "2000 STATE ROAD 60 E"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "Walmart",
+						"content": "Walmart",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									304,
+									315,
+									423,
+									318,
+									422,
+									343,
+									304,
+									343
+								]
+							}
+						],
+						"confidence": 0.978,
+						"spans": [
+							{
+								"offset": 67,
+								"length": 7
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+18636769425",
+						"content": "863-676-9425",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									272,
+									351,
+									377,
+									348,
+									376,
+									367,
+									273,
+									370
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 75,
+								"length": 12
+							}
+						]
+					},
+					"Subtotal": {
+						"type": "number",
+						"content": "34.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									475,
+									511,
+									519,
+									513,
+									518,
+									529,
+									474,
+									526
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 356,
+								"length": 5
+							}
+						],
+						"valueNumber": 34
+					},
+					"TaxDetails": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Amount": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 1.05,
+											"currencyCode": "USD"
+										},
+										"content": "1.05",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													484,
+													530,
+													520,
+													530,
+													519,
+													545,
+													483,
+													544
+												]
+											}
+										],
+										"confidence": 0.977,
+										"spans": [
+											{
+												"offset": 368,
+												"length": 4
+											}
+										]
+									}
+								},
+								"content": "TAX 1\n7.000 %\n1.05",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											286,
+											519,
+											520,
+											523,
+											520,
+											545,
+											286,
+											541
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 342,
+										"length": 13
+									},
+									{
+										"offset": 368,
+										"length": 4
+									}
+								]
+							}
+						]
+					},
+					"Total": {
+						"type": "number",
+						"content": "35.05",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									475,
+									546,
+									520,
+									547,
+									520,
+									563,
+									475,
+									561
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 392,
+								"length": 5
+							}
+						],
+						"valueNumber": 35.05
+					},
+					"TotalTax": {
+						"type": "number",
+						"content": "1.05",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									484,
+									530,
+									520,
+									530,
+									519,
+									545,
+									483,
+									544
+								]
+							}
+						],
+						"confidence": 0.977,
+						"spans": [
+							{
+								"offset": 368,
+								"length": 4
+							}
+						],
+						"valueNumber": 1.05
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2021-10-16",
+						"content": "10/16/21",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									262,
+									806,
+									342,
+									807,
+									342,
+									826,
+									262,
+									824
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 603,
+								"length": 8
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "11:22:45",
+						"content": "11:22:45",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									392,
+									807,
+									468,
+									815,
+									467,
+									833,
+									390,
+									826
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 612,
+								"length": 8
+							}
+						]
+					}
+				},
+				"confidence": 0.989,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 620
+					}
+				]
+			}
+		]
+	}
+}

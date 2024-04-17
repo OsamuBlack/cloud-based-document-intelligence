@@ -1,0 +1,1640 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:14:30Z",
+	"lastUpdatedDateTime": "2024-04-17T20:14:34Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Contoso\nContoso\n123 Main Street\nRedmond, WA 98052\n987-654-3210\n6/10/2019 13:59\nSales Associate: Paul\n1 Cappuccino\n$2.20\n1 BACON & EGGS\nSunny-side-up\n$9.5\nSub-Total\n$ 11.70\nTax\n$ 1.17\nTip\n$ 1.63\nTotal\n$14.50",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0.7344002723693848,
+				"width": 307,
+				"height": 478,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Contoso",
+						"polygon": [
+							74,
+							90,
+							108,
+							99,
+							105,
+							109,
+							71,
+							100
+						],
+						"confidence": 0.912,
+						"span": {
+							"offset": 0,
+							"length": 7
+						}
+					},
+					{
+						"content": "Contoso",
+						"polygon": [
+							125,
+							80,
+							196,
+							74,
+							198,
+							89,
+							128,
+							96
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 8,
+							"length": 7
+						}
+					},
+					{
+						"content": "123",
+						"polygon": [
+							73,
+							106,
+							86,
+							109,
+							83,
+							121,
+							70,
+							118
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 16,
+							"length": 3
+						}
+					},
+					{
+						"content": "Main",
+						"polygon": [
+							89,
+							110,
+							109,
+							114,
+							107,
+							126,
+							86,
+							122
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 20,
+							"length": 4
+						}
+					},
+					{
+						"content": "Street",
+						"polygon": [
+							112,
+							115,
+							138,
+							120,
+							135,
+							133,
+							109,
+							127
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 25,
+							"length": 6
+						}
+					},
+					{
+						"content": "Redmond,",
+						"polygon": [
+							71,
+							124,
+							112,
+							131,
+							110,
+							143,
+							69,
+							136
+						],
+						"confidence": 0.925,
+						"span": {
+							"offset": 32,
+							"length": 8
+						}
+					},
+					{
+						"content": "WA",
+						"polygon": [
+							114,
+							131,
+							128,
+							133,
+							126,
+							146,
+							112,
+							144
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 41,
+							"length": 2
+						}
+					},
+					{
+						"content": "98052",
+						"polygon": [
+							130,
+							133,
+							157,
+							135,
+							155,
+							148,
+							128,
+							146
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 44,
+							"length": 5
+						}
+					},
+					{
+						"content": "987-654-3210",
+						"polygon": [
+							69,
+							158,
+							130,
+							167,
+							128,
+							178,
+							67,
+							170
+						],
+						"confidence": 0.971,
+						"span": {
+							"offset": 50,
+							"length": 12
+						}
+					},
+					{
+						"content": "6/10/2019",
+						"polygon": [
+							66,
+							195,
+							108,
+							198,
+							107,
+							212,
+							66,
+							209
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 63,
+							"length": 9
+						}
+					},
+					{
+						"content": "13:59",
+						"polygon": [
+							111,
+							198,
+							134,
+							200,
+							133,
+							214,
+							110,
+							212
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 73,
+							"length": 5
+						}
+					},
+					{
+						"content": "Sales",
+						"polygon": [
+							66,
+							214,
+							91,
+							215,
+							90,
+							228,
+							65,
+							226
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 79,
+							"length": 5
+						}
+					},
+					{
+						"content": "Associate:",
+						"polygon": [
+							93,
+							215,
+							138,
+							217,
+							137,
+							231,
+							93,
+							228
+						],
+						"confidence": 0.883,
+						"span": {
+							"offset": 85,
+							"length": 10
+						}
+					},
+					{
+						"content": "Paul",
+						"polygon": [
+							140,
+							217,
+							162,
+							218,
+							162,
+							232,
+							140,
+							231
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 96,
+							"length": 4
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							64,
+							251,
+							72,
+							252,
+							71,
+							266,
+							63,
+							266
+						],
+						"confidence": 0.864,
+						"span": {
+							"offset": 101,
+							"length": 1
+						}
+					},
+					{
+						"content": "Cappuccino",
+						"polygon": [
+							75,
+							252,
+							130,
+							254,
+							130,
+							269,
+							74,
+							267
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 103,
+							"length": 10
+						}
+					},
+					{
+						"content": "$2.20",
+						"polygon": [
+							202,
+							251,
+							227,
+							250,
+							228,
+							263,
+							202,
+							264
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 114,
+							"length": 5
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							61,
+							292,
+							68,
+							292,
+							68,
+							305,
+							61,
+							305
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 120,
+							"length": 1
+						}
+					},
+					{
+						"content": "BACON",
+						"polygon": [
+							74,
+							292,
+							105,
+							292,
+							105,
+							306,
+							74,
+							306
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 122,
+							"length": 5
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							108,
+							292,
+							115,
+							292,
+							115,
+							306,
+							108,
+							306
+						],
+						"confidence": 0.876,
+						"span": {
+							"offset": 128,
+							"length": 1
+						}
+					},
+					{
+						"content": "EGGS",
+						"polygon": [
+							118,
+							292,
+							143,
+							292,
+							144,
+							306,
+							118,
+							306
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 130,
+							"length": 4
+						}
+					},
+					{
+						"content": "Sunny-side-up",
+						"polygon": [
+							80,
+							313,
+							144,
+							314,
+							144,
+							328,
+							80,
+							328
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 135,
+							"length": 13
+						}
+					},
+					{
+						"content": "$9.5",
+						"polygon": [
+							206,
+							309,
+							227,
+							309,
+							227,
+							325,
+							206,
+							325
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 149,
+							"length": 4
+						}
+					},
+					{
+						"content": "Sub-Total",
+						"polygon": [
+							96,
+							355,
+							147,
+							354,
+							147,
+							370,
+							96,
+							370
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 154,
+							"length": 9
+						}
+					},
+					{
+						"content": "$",
+						"polygon": [
+							198,
+							352,
+							204,
+							352,
+							204,
+							369,
+							198,
+							369
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 164,
+							"length": 1
+						}
+					},
+					{
+						"content": "11.70",
+						"polygon": [
+							207,
+							352,
+							232,
+							352,
+							232,
+							369,
+							207,
+							369
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 166,
+							"length": 5
+						}
+					},
+					{
+						"content": "Tax",
+						"polygon": [
+							96,
+							377,
+							113,
+							377,
+							113,
+							391,
+							96,
+							391
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 172,
+							"length": 3
+						}
+					},
+					{
+						"content": "$",
+						"polygon": [
+							204,
+							374,
+							212,
+							374,
+							212,
+							391,
+							204,
+							391
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 176,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.17",
+						"polygon": [
+							215,
+							374,
+							233,
+							374,
+							233,
+							391,
+							215,
+							391
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 178,
+							"length": 4
+						}
+					},
+					{
+						"content": "Tip",
+						"polygon": [
+							95,
+							397,
+							109,
+							397,
+							108,
+							416,
+							95,
+							415
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 183,
+							"length": 3
+						}
+					},
+					{
+						"content": "$",
+						"polygon": [
+							187,
+							393,
+							194,
+							393,
+							193,
+							411,
+							187,
+							410
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 187,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.63",
+						"polygon": [
+							197,
+							393,
+							225,
+							393,
+							225,
+							411,
+							197,
+							411
+						],
+						"confidence": 0.612,
+						"span": {
+							"offset": 189,
+							"length": 4
+						}
+					},
+					{
+						"content": "Total",
+						"polygon": [
+							94,
+							421,
+							122,
+							420,
+							123,
+							435,
+							95,
+							437
+						],
+						"confidence": 0.749,
+						"span": {
+							"offset": 194,
+							"length": 5
+						}
+					},
+					{
+						"content": "$14.50",
+						"polygon": [
+							190,
+							417,
+							245,
+							419,
+							244,
+							438,
+							189,
+							436
+						],
+						"confidence": 0.719,
+						"span": {
+							"offset": 200,
+							"length": 6
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Contoso",
+						"polygon": [
+							73,
+							89,
+							108,
+							98,
+							105,
+							109,
+							70,
+							99
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Contoso",
+						"polygon": [
+							124,
+							80,
+							198,
+							73,
+							200,
+							89,
+							126,
+							96
+						],
+						"spans": [
+							{
+								"offset": 8,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "123 Main Street",
+						"polygon": [
+							72,
+							105,
+							137,
+							120,
+							134,
+							132,
+							69,
+							117
+						],
+						"spans": [
+							{
+								"offset": 16,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Redmond, WA 98052",
+						"polygon": [
+							70,
+							123,
+							157,
+							135,
+							155,
+							149,
+							69,
+							137
+						],
+						"spans": [
+							{
+								"offset": 32,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "987-654-3210",
+						"polygon": [
+							68,
+							158,
+							129,
+							166,
+							128,
+							178,
+							67,
+							170
+						],
+						"spans": [
+							{
+								"offset": 50,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "6/10/2019 13:59",
+						"polygon": [
+							66,
+							194,
+							134,
+							199,
+							133,
+							213,
+							65,
+							208
+						],
+						"spans": [
+							{
+								"offset": 63,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Sales Associate: Paul",
+						"polygon": [
+							65,
+							213,
+							162,
+							218,
+							162,
+							231,
+							64,
+							226
+						],
+						"spans": [
+							{
+								"offset": 79,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "1 Cappuccino",
+						"polygon": [
+							63,
+							251,
+							130,
+							253,
+							130,
+							269,
+							62,
+							266
+						],
+						"spans": [
+							{
+								"offset": 101,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "$2.20",
+						"polygon": [
+							200,
+							251,
+							227,
+							250,
+							228,
+							263,
+							201,
+							264
+						],
+						"spans": [
+							{
+								"offset": 114,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "1 BACON & EGGS",
+						"polygon": [
+							61,
+							291,
+							143,
+							292,
+							143,
+							306,
+							61,
+							305
+						],
+						"spans": [
+							{
+								"offset": 120,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Sunny-side-up",
+						"polygon": [
+							79,
+							313,
+							144,
+							313,
+							144,
+							328,
+							79,
+							327
+						],
+						"spans": [
+							{
+								"offset": 135,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "$9.5",
+						"polygon": [
+							205,
+							309,
+							228,
+							309,
+							228,
+							325,
+							206,
+							325
+						],
+						"spans": [
+							{
+								"offset": 149,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Sub-Total",
+						"polygon": [
+							95,
+							354,
+							147,
+							353,
+							148,
+							369,
+							95,
+							370
+						],
+						"spans": [
+							{
+								"offset": 154,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "$ 11.70",
+						"polygon": [
+							197,
+							352,
+							233,
+							352,
+							233,
+							369,
+							198,
+							369
+						],
+						"spans": [
+							{
+								"offset": 164,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Tax",
+						"polygon": [
+							95,
+							377,
+							113,
+							377,
+							113,
+							391,
+							95,
+							391
+						],
+						"spans": [
+							{
+								"offset": 172,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "$ 1.17",
+						"polygon": [
+							204,
+							374,
+							234,
+							374,
+							234,
+							391,
+							204,
+							391
+						],
+						"spans": [
+							{
+								"offset": 176,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Tip",
+						"polygon": [
+							95,
+							397,
+							110,
+							397,
+							110,
+							416,
+							95,
+							415
+						],
+						"spans": [
+							{
+								"offset": 183,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "$ 1.63",
+						"polygon": [
+							188,
+							393,
+							227,
+							394,
+							226,
+							411,
+							187,
+							411
+						],
+						"spans": [
+							{
+								"offset": 187,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Total",
+						"polygon": [
+							94,
+							422,
+							122,
+							420,
+							123,
+							436,
+							94,
+							437
+						],
+						"spans": [
+							{
+								"offset": 194,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "$14.50",
+						"polygon": [
+							189,
+							417,
+							245,
+							419,
+							244,
+							438,
+							189,
+							436
+						],
+						"spans": [
+							{
+								"offset": 200,
+								"length": 6
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 206
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 187,
+						"length": 6
+					},
+					{
+						"offset": 200,
+						"length": 6
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 15
+					}
+				],
+				"locale": "en",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 16,
+						"length": 15
+					},
+					{
+						"offset": 79,
+						"length": 21
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 32,
+						"length": 17
+					}
+				],
+				"locale": "yua",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 101,
+						"length": 12
+					}
+				],
+				"locale": "en",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 120,
+						"length": 14
+					}
+				],
+				"locale": "it",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 135,
+						"length": 13
+					}
+				],
+				"locale": "no",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 154,
+						"length": 9
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 172,
+						"length": 3
+					},
+					{
+						"offset": 194,
+						"length": 5
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 183,
+						"length": 3
+					}
+				],
+				"locale": "en",
+				"confidence": 0.7
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							307,
+							0,
+							307,
+							478,
+							0,
+							478
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Cappuccino",
+										"content": "Cappuccino",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													75,
+													252,
+													130,
+													254,
+													130,
+													269,
+													74,
+													267
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 103,
+												"length": 10
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													64,
+													251,
+													72,
+													252,
+													71,
+													266,
+													63,
+													266
+												]
+											}
+										],
+										"confidence": 0.991,
+										"spans": [
+											{
+												"offset": 101,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "$2.20",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													202,
+													251,
+													227,
+													250,
+													228,
+													263,
+													202,
+													264
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 114,
+												"length": 5
+											}
+										],
+										"valueNumber": 2.2
+									}
+								},
+								"content": "1 Cappuccino\n$2.20",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											64,
+											244,
+											228,
+											250,
+											228,
+											273,
+											63,
+											267
+										]
+									}
+								],
+								"confidence": 0.977,
+								"spans": [
+									{
+										"offset": 101,
+										"length": 18
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BACON & EGGS",
+										"content": "BACON & EGGS",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													74,
+													292,
+													144,
+													292,
+													144,
+													306,
+													74,
+													306
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 122,
+												"length": 12
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													61,
+													292,
+													68,
+													292,
+													68,
+													305,
+													61,
+													305
+												]
+											}
+										],
+										"confidence": 0.992,
+										"spans": [
+											{
+												"offset": 120,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "$9.5",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													206,
+													309,
+													227,
+													309,
+													227,
+													325,
+													206,
+													325
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 149,
+												"length": 4
+											}
+										],
+										"valueNumber": 9.5
+									}
+								},
+								"content": "1 BACON & EGGS\nSunny-side-up\n$9.5",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											61,
+											292,
+											227,
+											292,
+											227,
+											328,
+											61,
+											328
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 120,
+										"length": 33
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "123 Main Street\nRedmond, WA 98052",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									72,
+									106,
+									160,
+									123,
+									154,
+									153,
+									67,
+									136
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 16,
+								"length": 33
+							}
+						],
+						"valueAddress": {
+							"houseNumber": "123",
+							"road": "Main Street",
+							"postalCode": "98052",
+							"city": "Redmond",
+							"state": "WA",
+							"streetAddress": "123 Main Street"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "Contoso",
+						"content": "Contoso",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									74,
+									90,
+									108,
+									99,
+									105,
+									109,
+									71,
+									100
+								]
+							}
+						],
+						"confidence": 0.961,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+19876543210",
+						"content": "987-654-3210",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									69,
+									158,
+									130,
+									167,
+									128,
+									178,
+									67,
+									170
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 50,
+								"length": 12
+							}
+						]
+					},
+					"Subtotal": {
+						"type": "number",
+						"content": "$ 11.70",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									198,
+									352,
+									232,
+									352,
+									232,
+									369,
+									198,
+									369
+								]
+							}
+						],
+						"confidence": 0.979,
+						"spans": [
+							{
+								"offset": 164,
+								"length": 7
+							}
+						],
+						"valueNumber": 11.7
+					},
+					"Tip": {
+						"type": "number",
+						"content": "$ 1.63",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									187,
+									390,
+									226,
+									393,
+									225,
+									413,
+									186,
+									410
+								]
+							}
+						],
+						"confidence": 0.873,
+						"spans": [
+							{
+								"offset": 187,
+								"length": 6
+							}
+						],
+						"valueNumber": 1.63
+					},
+					"Total": {
+						"type": "number",
+						"content": "$14.50",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									190,
+									417,
+									245,
+									419,
+									244,
+									438,
+									189,
+									436
+								]
+							}
+						],
+						"confidence": 0.947,
+						"spans": [
+							{
+								"offset": 200,
+								"length": 6
+							}
+						],
+						"valueNumber": 14.5
+					},
+					"TotalTax": {
+						"type": "number",
+						"content": "$ 1.17",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									204,
+									374,
+									233,
+									374,
+									233,
+									391,
+									204,
+									391
+								]
+							}
+						],
+						"confidence": 0.99,
+						"spans": [
+							{
+								"offset": 176,
+								"length": 6
+							}
+						],
+						"valueNumber": 1.17
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2019-06-10",
+						"content": "6/10/2019",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									66,
+									195,
+									108,
+									198,
+									107,
+									212,
+									66,
+									209
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 63,
+								"length": 9
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "13:59:00",
+						"content": "13:59",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									111,
+									198,
+									134,
+									200,
+									133,
+									214,
+									110,
+									212
+								]
+							}
+						],
+						"confidence": 0.989,
+						"spans": [
+							{
+								"offset": 73,
+								"length": 5
+							}
+						]
+					}
+				},
+				"confidence": 0.988,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 206
+					}
+				]
+			}
+		]
+	}
+}

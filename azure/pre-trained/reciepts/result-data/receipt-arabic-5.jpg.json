@@ -1,0 +1,2627 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T19:58:39Z",
+	"lastUpdatedDateTime": "2024-04-17T19:58:42Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "SUPER MARKET ABOZAHRA\nJINEN\nWEST BANK\nفاتورة ضـريـبـيـة\nمستقل مرخص: ٠٠٠٠\nرقم\n14101045 .....: > <<<<< < >\n140101045 .....: {j+\"\"\nوصـل الزبون\nبيع\nبطاقـ\nـخة\nItunes Facebook skype e\n15:21:44\n24/03/2019\nرقم الحركة :\n000555\nالمرجع :\nLF53131769\nالنوع :\nI Tunes $10\nت # :\nOWX976RX641\nتاريخ الانتهاء :\nكود:\n2024/03\nILS\nXHXNVP5ZR4ZCLV8M\n41.74\n11.50 USD\nحركة\nمقبولة\nلا إرجـاع ولا العـاء\nالمبلغ يشمل الضريبة\nاحتفظ بهذا الوصل ، رجاء\n--.\nمع جزيل الشكر\n** Bank of Palestine **\nPal_PAY 04.46.03R - Dec",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.34310001134872437,
+				"width": 720,
+				"height": 960,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "SUPER",
+						"polygon": [
+							192,
+							217,
+							250,
+							215,
+							251,
+							231,
+							193,
+							232
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 0,
+							"length": 5
+						}
+					},
+					{
+						"content": "MARKET",
+						"polygon": [
+							267,
+							215,
+							342,
+							214,
+							342,
+							230,
+							267,
+							231
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 6,
+							"length": 6
+						}
+					},
+					{
+						"content": "ABOZAHRA",
+						"polygon": [
+							358,
+							213,
+							456,
+							213,
+							456,
+							229,
+							358,
+							230
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 13,
+							"length": 8
+						}
+					},
+					{
+						"content": "JINEN",
+						"polygon": [
+							296,
+							232,
+							353,
+							231,
+							353,
+							246,
+							296,
+							246
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 22,
+							"length": 5
+						}
+					},
+					{
+						"content": "WEST",
+						"polygon": [
+							267,
+							248,
+							316,
+							247,
+							317,
+							263,
+							267,
+							263
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 28,
+							"length": 4
+						}
+					},
+					{
+						"content": "BANK",
+						"polygon": [
+							332,
+							247,
+							379,
+							247,
+							379,
+							263,
+							333,
+							262
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 33,
+							"length": 4
+						}
+					},
+					{
+						"content": "فاتورة",
+						"polygon": [
+							335,
+							262,
+							411,
+							261,
+							411,
+							277,
+							335,
+							278
+						],
+						"confidence": 0.667,
+						"span": {
+							"offset": 38,
+							"length": 6
+						}
+					},
+					{
+						"content": "ضـريـبـيـة",
+						"polygon": [
+							244,
+							263,
+							320,
+							262,
+							320,
+							278,
+							244,
+							278
+						],
+						"confidence": 0.063,
+						"span": {
+							"offset": 45,
+							"length": 10
+						}
+					},
+					{
+						"content": "مستقل",
+						"polygon": [
+							430,
+							277,
+							489,
+							276,
+							489,
+							294,
+							430,
+							294
+						],
+						"confidence": 0.237,
+						"span": {
+							"offset": 56,
+							"length": 5
+						}
+					},
+					{
+						"content": "مرخص:",
+						"polygon": [
+							347,
+							280,
+							410,
+							277,
+							410,
+							295,
+							347,
+							296
+						],
+						"confidence": 0.473,
+						"span": {
+							"offset": 62,
+							"length": 5
+						}
+					},
+					{
+						"content": "٠٠٠٠",
+						"polygon": [
+							295,
+							284,
+							343,
+							281,
+							343,
+							296,
+							295,
+							298
+						],
+						"confidence": 0.518,
+						"span": {
+							"offset": 68,
+							"length": 4
+						}
+					},
+					{
+						"content": "رقم",
+						"polygon": [
+							453,
+							311,
+							490,
+							308,
+							490,
+							329,
+							454,
+							329
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 73,
+							"length": 3
+						}
+					},
+					{
+						"content": "14101045",
+						"polygon": [
+							176,
+							297,
+							275,
+							295,
+							276,
+							312,
+							176,
+							312
+						],
+						"confidence": 0.08,
+						"span": {
+							"offset": 77,
+							"length": 8
+						}
+					},
+					{
+						"content": ".....:",
+						"polygon": [
+							282,
+							295,
+							356,
+							295,
+							357,
+							312,
+							282,
+							312
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 86,
+							"length": 6
+						}
+					},
+					{
+						"content": ">",
+						"polygon": [
+							363,
+							295,
+							370,
+							295,
+							371,
+							312,
+							363,
+							312
+						],
+						"confidence": 0.337,
+						"span": {
+							"offset": 93,
+							"length": 1
+						}
+					},
+					{
+						"content": "<<<<<",
+						"polygon": [
+							374,
+							295,
+							435,
+							295,
+							435,
+							312,
+							374,
+							312
+						],
+						"confidence": 0,
+						"span": {
+							"offset": 95,
+							"length": 5
+						}
+					},
+					{
+						"content": "<",
+						"polygon": [
+							455,
+							296,
+							463,
+							296,
+							464,
+							313,
+							455,
+							312
+						],
+						"confidence": 0.289,
+						"span": {
+							"offset": 101,
+							"length": 1
+						}
+					},
+					{
+						"content": ">",
+						"polygon": [
+							483,
+							296,
+							490,
+							296,
+							491,
+							313,
+							483,
+							313
+						],
+						"confidence": 0.83,
+						"span": {
+							"offset": 103,
+							"length": 1
+						}
+					},
+					{
+						"content": "140101045",
+						"polygon": [
+							176,
+							314,
+							289,
+							314,
+							289,
+							331,
+							176,
+							328
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 105,
+							"length": 9
+						}
+					},
+					{
+						"content": ".....:",
+						"polygon": [
+							295,
+							313,
+							369,
+							312,
+							369,
+							330,
+							295,
+							331
+						],
+						"confidence": 0.597,
+						"span": {
+							"offset": 115,
+							"length": 6
+						}
+					},
+					{
+						"content": "{j+\"\"",
+						"polygon": [
+							372,
+							312,
+							435,
+							311,
+							435,
+							329,
+							372,
+							330
+						],
+						"confidence": 0.516,
+						"span": {
+							"offset": 122,
+							"length": 5
+						}
+					},
+					{
+						"content": "وصـل",
+						"polygon": [
+							353,
+							364,
+							399,
+							366,
+							398,
+							382,
+							353,
+							382
+						],
+						"confidence": 0.131,
+						"span": {
+							"offset": 128,
+							"length": 4
+						}
+					},
+					{
+						"content": "الزبون",
+						"polygon": [
+							255,
+							365,
+							330,
+							364,
+							330,
+							382,
+							255,
+							381
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 133,
+							"length": 6
+						}
+					},
+					{
+						"content": "بيع",
+						"polygon": [
+							390,
+							384,
+							487,
+							384,
+							487,
+							400,
+							390,
+							401
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 140,
+							"length": 3
+						}
+					},
+					{
+						"content": "بطاقـ",
+						"polygon": [
+							250,
+							382,
+							355,
+							384,
+							355,
+							400,
+							250,
+							396
+						],
+						"confidence": 0.304,
+						"span": {
+							"offset": 144,
+							"length": 5
+						}
+					},
+					{
+						"content": "ـخة",
+						"polygon": [
+							180,
+							380,
+							212,
+							380,
+							212,
+							395,
+							179,
+							394
+						],
+						"confidence": 0.525,
+						"span": {
+							"offset": 150,
+							"length": 3
+						}
+					},
+					{
+						"content": "Itunes",
+						"polygon": [
+							172,
+							420,
+							248,
+							420,
+							249,
+							436,
+							173,
+							435
+						],
+						"confidence": 0.934,
+						"span": {
+							"offset": 154,
+							"length": 6
+						}
+					},
+					{
+						"content": "Facebook",
+						"polygon": [
+							264,
+							420,
+							367,
+							420,
+							368,
+							438,
+							265,
+							437
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 161,
+							"length": 8
+						}
+					},
+					{
+						"content": "skype",
+						"polygon": [
+							386,
+							421,
+							447,
+							422,
+							447,
+							438,
+							386,
+							438
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 170,
+							"length": 5
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							465,
+							422,
+							474,
+							422,
+							474,
+							438,
+							465,
+							438
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 176,
+							"length": 1
+						}
+					},
+					{
+						"content": "15:21:44",
+						"polygon": [
+							387,
+							439,
+							487,
+							440,
+							487,
+							453,
+							387,
+							454
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 178,
+							"length": 8
+						}
+					},
+					{
+						"content": "24/03/2019",
+						"polygon": [
+							171,
+							438,
+							302,
+							438,
+							302,
+							454,
+							171,
+							454
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 187,
+							"length": 10
+						}
+					},
+					{
+						"content": "رقم",
+						"polygon": [
+							455,
+							455,
+							491,
+							457,
+							491,
+							472,
+							455,
+							472
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 198,
+							"length": 3
+						}
+					},
+					{
+						"content": "الحركة",
+						"polygon": [
+							361,
+							455,
+							435,
+							455,
+							435,
+							472,
+							361,
+							472
+						],
+						"confidence": 0.767,
+						"span": {
+							"offset": 202,
+							"length": 6
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							348,
+							455,
+							357,
+							455,
+							357,
+							472,
+							348,
+							472
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 209,
+							"length": 1
+						}
+					},
+					{
+						"content": "000555",
+						"polygon": [
+							170,
+							457,
+							247,
+							456,
+							248,
+							472,
+							170,
+							471
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 211,
+							"length": 6
+						}
+					},
+					{
+						"content": "المرجع",
+						"polygon": [
+							412,
+							474,
+							487,
+							474,
+							488,
+							488,
+							412,
+							490
+						],
+						"confidence": 0.842,
+						"span": {
+							"offset": 218,
+							"length": 6
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							400,
+							474,
+							408,
+							474,
+							408,
+							490,
+							401,
+							490
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 225,
+							"length": 1
+						}
+					},
+					{
+						"content": "LF53131769",
+						"polygon": [
+							170,
+							475,
+							302,
+							475,
+							302,
+							490,
+							170,
+							490
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 227,
+							"length": 10
+						}
+					},
+					{
+						"content": "النوع",
+						"polygon": [
+							424,
+							492,
+							488,
+							491,
+							488,
+							506,
+							425,
+							508
+						],
+						"confidence": 0.839,
+						"span": {
+							"offset": 238,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							413,
+							493,
+							421,
+							492,
+							422,
+							508,
+							414,
+							508
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 244,
+							"length": 1
+						}
+					},
+					{
+						"content": "I",
+						"polygon": [
+							173,
+							493,
+							181,
+							493,
+							181,
+							508,
+							173,
+							509
+						],
+						"confidence": 0.523,
+						"span": {
+							"offset": 246,
+							"length": 1
+						}
+					},
+					{
+						"content": "Tunes",
+						"polygon": [
+							186,
+							493,
+							249,
+							493,
+							249,
+							508,
+							186,
+							508
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 248,
+							"length": 5
+						}
+					},
+					{
+						"content": "$10",
+						"polygon": [
+							268,
+							493,
+							301,
+							492,
+							301,
+							508,
+							268,
+							508
+						],
+						"confidence": 0.931,
+						"span": {
+							"offset": 254,
+							"length": 3
+						}
+					},
+					{
+						"content": "ت",
+						"polygon": [
+							480,
+							510,
+							488,
+							509,
+							489,
+							523,
+							480,
+							523
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 258,
+							"length": 1
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							466,
+							510,
+							473,
+							510,
+							473,
+							524,
+							466,
+							524
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 260,
+							"length": 1
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							454,
+							510,
+							462,
+							510,
+							462,
+							524,
+							455,
+							524
+						],
+						"confidence": 0.892,
+						"span": {
+							"offset": 262,
+							"length": 1
+						}
+					},
+					{
+						"content": "OWX976RX641",
+						"polygon": [
+							170,
+							511,
+							316,
+							510,
+							316,
+							525,
+							171,
+							526
+						],
+						"confidence": 0.911,
+						"span": {
+							"offset": 264,
+							"length": 11
+						}
+					},
+					{
+						"content": "تاريخ",
+						"polygon": [
+							426,
+							525,
+							492,
+							524,
+							492,
+							540,
+							426,
+							540
+						],
+						"confidence": 0.766,
+						"span": {
+							"offset": 276,
+							"length": 5
+						}
+					},
+					{
+						"content": "الانتهاء",
+						"polygon": [
+							306,
+							525,
+							409,
+							525,
+							409,
+							540,
+							306,
+							542
+						],
+						"confidence": 0.461,
+						"span": {
+							"offset": 282,
+							"length": 8
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							293,
+							525,
+							302,
+							525,
+							302,
+							542,
+							293,
+							542
+						],
+						"confidence": 0.774,
+						"span": {
+							"offset": 291,
+							"length": 1
+						}
+					},
+					{
+						"content": "كود:",
+						"polygon": [
+							443,
+							543,
+							494,
+							539,
+							495,
+							555,
+							443,
+							556
+						],
+						"confidence": 0.83,
+						"span": {
+							"offset": 293,
+							"length": 4
+						}
+					},
+					{
+						"content": "2024/03",
+						"polygon": [
+							170,
+							529,
+							261,
+							528,
+							261,
+							544,
+							171,
+							544
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 298,
+							"length": 7
+						}
+					},
+					{
+						"content": "ILS",
+						"polygon": [
+							422,
+							574,
+							486,
+							574,
+							486,
+							595,
+							422,
+							596
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 306,
+							"length": 3
+						}
+					},
+					{
+						"content": "XHXNVP5ZR4ZCLV8M",
+						"polygon": [
+							165,
+							563,
+							381,
+							559,
+							381,
+							576,
+							165,
+							579
+						],
+						"confidence": 0.579,
+						"span": {
+							"offset": 310,
+							"length": 16
+						}
+					},
+					{
+						"content": "41.74",
+						"polygon": [
+							251,
+							579,
+							371,
+							579,
+							371,
+							594,
+							251,
+							596
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 327,
+							"length": 5
+						}
+					},
+					{
+						"content": "11.50",
+						"polygon": [
+							253,
+							618,
+							371,
+							616,
+							372,
+							635,
+							254,
+							636
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 333,
+							"length": 5
+						}
+					},
+					{
+						"content": "USD",
+						"polygon": [
+							417,
+							614,
+							486,
+							613,
+							486,
+							635,
+							418,
+							635
+						],
+						"confidence": 0.918,
+						"span": {
+							"offset": 339,
+							"length": 3
+						}
+					},
+					{
+						"content": "حركة",
+						"polygon": [
+							396,
+							668,
+							487,
+							667,
+							486,
+							687,
+							396,
+							686
+						],
+						"confidence": 0.696,
+						"span": {
+							"offset": 343,
+							"length": 4
+						}
+					},
+					{
+						"content": "مقبولة",
+						"polygon": [
+							195,
+							670,
+							356,
+							668,
+							356,
+							688,
+							195,
+							689
+						],
+						"confidence": 0.823,
+						"span": {
+							"offset": 348,
+							"length": 6
+						}
+					},
+					{
+						"content": "لا",
+						"polygon": [
+							467,
+							693,
+							485,
+							692,
+							485,
+							711,
+							467,
+							712
+						],
+						"confidence": 0.477,
+						"span": {
+							"offset": 355,
+							"length": 2
+						}
+					},
+					{
+						"content": "إرجـاع",
+						"polygon": [
+							332,
+							694,
+							445,
+							693,
+							446,
+							712,
+							332,
+							714
+						],
+						"confidence": 0.391,
+						"span": {
+							"offset": 358,
+							"length": 6
+						}
+					},
+					{
+						"content": "ولا",
+						"polygon": [
+							279,
+							694,
+							318,
+							694,
+							318,
+							715,
+							279,
+							715
+						],
+						"confidence": 0.49,
+						"span": {
+							"offset": 365,
+							"length": 3
+						}
+					},
+					{
+						"content": "العـاء",
+						"polygon": [
+							160,
+							695,
+							258,
+							694,
+							258,
+							715,
+							160,
+							714
+						],
+						"confidence": 0.181,
+						"span": {
+							"offset": 369,
+							"length": 6
+						}
+					},
+					{
+						"content": "المبلغ",
+						"polygon": [
+							348,
+							714,
+							431,
+							714,
+							431,
+							732,
+							348,
+							735
+						],
+						"confidence": 0.562,
+						"span": {
+							"offset": 376,
+							"length": 6
+						}
+					},
+					{
+						"content": "يشمل",
+						"polygon": [
+							281,
+							715,
+							328,
+							714,
+							328,
+							735,
+							281,
+							736
+						],
+						"confidence": 0.748,
+						"span": {
+							"offset": 383,
+							"length": 4
+						}
+					},
+					{
+						"content": "الضريبة",
+						"polygon": [
+							161,
+							718,
+							257,
+							715,
+							257,
+							736,
+							162,
+							736
+						],
+						"confidence": 0.716,
+						"span": {
+							"offset": 388,
+							"length": 7
+						}
+					},
+					{
+						"content": "احتفظ",
+						"polygon": [
+							434,
+							733,
+							501,
+							732,
+							501,
+							750,
+							434,
+							753
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 396,
+							"length": 5
+						}
+					},
+					{
+						"content": "بهذا",
+						"polygon": [
+							363,
+							734,
+							420,
+							733,
+							420,
+							753,
+							363,
+							755
+						],
+						"confidence": 0.666,
+						"span": {
+							"offset": 402,
+							"length": 4
+						}
+					},
+					{
+						"content": "الوصل",
+						"polygon": [
+							267,
+							735,
+							345,
+							734,
+							345,
+							755,
+							267,
+							756
+						],
+						"confidence": 0.376,
+						"span": {
+							"offset": 407,
+							"length": 5
+						}
+					},
+					{
+						"content": "،",
+						"polygon": [
+							248,
+							736,
+							258,
+							736,
+							258,
+							756,
+							248,
+							756
+						],
+						"confidence": 0.519,
+						"span": {
+							"offset": 413,
+							"length": 1
+						}
+					},
+					{
+						"content": "رجاء",
+						"polygon": [
+							172,
+							737,
+							230,
+							736,
+							230,
+							756,
+							172,
+							756
+						],
+						"confidence": 0.67,
+						"span": {
+							"offset": 415,
+							"length": 4
+						}
+					},
+					{
+						"content": "--.",
+						"polygon": [
+							449,
+							758,
+							482,
+							758,
+							482,
+							774,
+							449,
+							774
+						],
+						"confidence": 0.609,
+						"span": {
+							"offset": 420,
+							"length": 3
+						}
+					},
+					{
+						"content": "مع",
+						"polygon": [
+							407,
+							755,
+							435,
+							755,
+							435,
+							777,
+							407,
+							777
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 424,
+							"length": 2
+						}
+					},
+					{
+						"content": "جزيل",
+						"polygon": [
+							339,
+							755,
+							387,
+							755,
+							387,
+							777,
+							339,
+							777
+						],
+						"confidence": 0.766,
+						"span": {
+							"offset": 427,
+							"length": 4
+						}
+					},
+					{
+						"content": "الشكر",
+						"polygon": [
+							235,
+							755,
+							302,
+							755,
+							302,
+							777,
+							235,
+							778
+						],
+						"confidence": 0.528,
+						"span": {
+							"offset": 432,
+							"length": 5
+						}
+					},
+					{
+						"content": "**",
+						"polygon": [
+							157,
+							823,
+							173,
+							823,
+							173,
+							840,
+							157,
+							840
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 438,
+							"length": 2
+						}
+					},
+					{
+						"content": "Bank",
+						"polygon": [
+							180,
+							823,
+							212,
+							822,
+							212,
+							840,
+							180,
+							840
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 441,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							221,
+							822,
+							240,
+							821,
+							240,
+							839,
+							221,
+							840
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 446,
+							"length": 2
+						}
+					},
+					{
+						"content": "Palestine",
+						"polygon": [
+							254,
+							821,
+							330,
+							821,
+							330,
+							838,
+							254,
+							839
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 449,
+							"length": 9
+						}
+					},
+					{
+						"content": "**",
+						"polygon": [
+							337,
+							821,
+							356,
+							821,
+							356,
+							838,
+							337,
+							838
+						],
+						"confidence": 0.85,
+						"span": {
+							"offset": 459,
+							"length": 2
+						}
+					},
+					{
+						"content": "Pal_PAY",
+						"polygon": [
+							156,
+							843,
+							214,
+							842,
+							214,
+							860,
+							156,
+							861
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 462,
+							"length": 7
+						}
+					},
+					{
+						"content": "04.46.03R",
+						"polygon": [
+							221,
+							842,
+							297,
+							841,
+							297,
+							860,
+							221,
+							860
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 470,
+							"length": 9
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							304,
+							841,
+							314,
+							841,
+							314,
+							860,
+							305,
+							860
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 480,
+							"length": 1
+						}
+					},
+					{
+						"content": "Dec",
+						"polygon": [
+							320,
+							841,
+							347,
+							840,
+							348,
+							860,
+							320,
+							860
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 482,
+							"length": 3
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "SUPER MARKET ABOZAHRA",
+						"polygon": [
+							191,
+							215,
+							461,
+							212,
+							461,
+							228,
+							191,
+							232
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "JINEN",
+						"polygon": [
+							293,
+							230,
+							358,
+							230,
+							358,
+							245,
+							293,
+							245
+						],
+						"spans": [
+							{
+								"offset": 22,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "WEST BANK",
+						"polygon": [
+							265,
+							247,
+							384,
+							247,
+							384,
+							262,
+							266,
+							262
+						],
+						"spans": [
+							{
+								"offset": 28,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "فاتورة ضـريـبـيـة",
+						"polygon": [
+							244,
+							262,
+							411,
+							261,
+							411,
+							277,
+							244,
+							278
+						],
+						"spans": [
+							{
+								"offset": 38,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "مستقل مرخص: ٠٠٠٠",
+						"polygon": [
+							294,
+							280,
+							492,
+							275,
+							492,
+							293,
+							294,
+							298
+						],
+						"spans": [
+							{
+								"offset": 56,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "رقم",
+						"polygon": [
+							437,
+							309,
+							493,
+							307,
+							493,
+							328,
+							438,
+							329
+						],
+						"spans": [
+							{
+								"offset": 73,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "14101045 .....: > <<<<< < >",
+						"polygon": [
+							175,
+							294,
+							491,
+							294,
+							491,
+							312,
+							175,
+							312
+						],
+						"spans": [
+							{
+								"offset": 77,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "140101045 .....: {j+\"\"",
+						"polygon": [
+							176,
+							312,
+							436,
+							310,
+							436,
+							329,
+							176,
+							331
+						],
+						"spans": [
+							{
+								"offset": 105,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "وصـل الزبون",
+						"polygon": [
+							253,
+							363,
+							404,
+							364,
+							404,
+							382,
+							253,
+							380
+						],
+						"spans": [
+							{
+								"offset": 128,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "بيع",
+						"polygon": [
+							385,
+							383,
+							491,
+							383,
+							491,
+							400,
+							385,
+							401
+						],
+						"spans": [
+							{
+								"offset": 140,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "بطاقـ",
+						"polygon": [
+							250,
+							382,
+							382,
+							384,
+							382,
+							401,
+							250,
+							396
+						],
+						"spans": [
+							{
+								"offset": 144,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "ـخة",
+						"polygon": [
+							178,
+							380,
+							211,
+							380,
+							212,
+							395,
+							179,
+							394
+						],
+						"spans": [
+							{
+								"offset": 150,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Itunes Facebook skype e",
+						"polygon": [
+							171,
+							419,
+							479,
+							421,
+							479,
+							438,
+							171,
+							435
+						],
+						"spans": [
+							{
+								"offset": 154,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "15:21:44",
+						"polygon": [
+							382,
+							438,
+							490,
+							438,
+							490,
+							454,
+							382,
+							454
+						],
+						"spans": [
+							{
+								"offset": 178,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "24/03/2019",
+						"polygon": [
+							169,
+							437,
+							304,
+							438,
+							304,
+							453,
+							169,
+							453
+						],
+						"spans": [
+							{
+								"offset": 187,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "رقم الحركة :",
+						"polygon": [
+							348,
+							454,
+							492,
+							454,
+							492,
+							472,
+							348,
+							471
+						],
+						"spans": [
+							{
+								"offset": 198,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "000555",
+						"polygon": [
+							169,
+							456,
+							251,
+							456,
+							251,
+							471,
+							169,
+							471
+						],
+						"spans": [
+							{
+								"offset": 211,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "المرجع :",
+						"polygon": [
+							398,
+							474,
+							489,
+							473,
+							490,
+							488,
+							398,
+							489
+						],
+						"spans": [
+							{
+								"offset": 218,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "LF53131769",
+						"polygon": [
+							169,
+							474,
+							304,
+							474,
+							304,
+							489,
+							169,
+							489
+						],
+						"spans": [
+							{
+								"offset": 227,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "النوع :",
+						"polygon": [
+							412,
+							492,
+							489,
+							490,
+							489,
+							505,
+							413,
+							507
+						],
+						"spans": [
+							{
+								"offset": 238,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "I Tunes $10",
+						"polygon": [
+							171,
+							492,
+							303,
+							492,
+							304,
+							507,
+							171,
+							508
+						],
+						"spans": [
+							{
+								"offset": 246,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "ت # :",
+						"polygon": [
+							441,
+							509,
+							494,
+							509,
+							494,
+							523,
+							441,
+							524
+						],
+						"spans": [
+							{
+								"offset": 258,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "OWX976RX641",
+						"polygon": [
+							170,
+							510,
+							315,
+							509,
+							315,
+							525,
+							170,
+							525
+						],
+						"spans": [
+							{
+								"offset": 264,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "تاريخ الانتهاء :",
+						"polygon": [
+							285,
+							525,
+							496,
+							524,
+							496,
+							540,
+							285,
+							542
+						],
+						"spans": [
+							{
+								"offset": 276,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "كود:",
+						"polygon": [
+							440,
+							541,
+							497,
+							538,
+							498,
+							554,
+							441,
+							557
+						],
+						"spans": [
+							{
+								"offset": 293,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "2024/03",
+						"polygon": [
+							168,
+							528,
+							265,
+							527,
+							265,
+							543,
+							168,
+							544
+						],
+						"spans": [
+							{
+								"offset": 298,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "ILS",
+						"polygon": [
+							414,
+							573,
+							498,
+							573,
+							498,
+							595,
+							414,
+							595
+						],
+						"spans": [
+							{
+								"offset": 306,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "XHXNVP5ZR4ZCLV8M",
+						"polygon": [
+							163,
+							561,
+							386,
+							559,
+							386,
+							575,
+							164,
+							579
+						],
+						"spans": [
+							{
+								"offset": 310,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "41.74",
+						"polygon": [
+							249,
+							579,
+							384,
+							578,
+							384,
+							594,
+							250,
+							596
+						],
+						"spans": [
+							{
+								"offset": 327,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "11.50 USD",
+						"polygon": [
+							251,
+							615,
+							499,
+							612,
+							499,
+							634,
+							251,
+							636
+						],
+						"spans": [
+							{
+								"offset": 333,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "حركة",
+						"polygon": [
+							394,
+							666,
+							504,
+							666,
+							504,
+							687,
+							394,
+							686
+						],
+						"spans": [
+							{
+								"offset": 343,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "مقبولة",
+						"polygon": [
+							192,
+							669,
+							368,
+							667,
+							368,
+							687,
+							193,
+							689
+						],
+						"spans": [
+							{
+								"offset": 348,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "لا إرجـاع ولا العـاء",
+						"polygon": [
+							160,
+							694,
+							484,
+							692,
+							484,
+							712,
+							160,
+							715
+						],
+						"spans": [
+							{
+								"offset": 355,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "المبلغ يشمل الضريبة",
+						"polygon": [
+							161,
+							716,
+							431,
+							714,
+							431,
+							733,
+							161,
+							736
+						],
+						"spans": [
+							{
+								"offset": 376,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "احتفظ بهذا الوصل ، رجاء",
+						"polygon": [
+							166,
+							736,
+							501,
+							732,
+							502,
+							752,
+							166,
+							756
+						],
+						"spans": [
+							{
+								"offset": 396,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "--.",
+						"polygon": [
+							448,
+							758,
+							483,
+							759,
+							483,
+							773,
+							448,
+							774
+						],
+						"spans": [
+							{
+								"offset": 420,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "مع جزيل الشكر",
+						"polygon": [
+							227,
+							755,
+							442,
+							754,
+							443,
+							776,
+							227,
+							777
+						],
+						"spans": [
+							{
+								"offset": 424,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "** Bank of Palestine **",
+						"polygon": [
+							156,
+							822,
+							356,
+							820,
+							356,
+							838,
+							156,
+							840
+						],
+						"spans": [
+							{
+								"offset": 438,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "Pal_PAY 04.46.03R - Dec",
+						"polygon": [
+							155,
+							841,
+							348,
+							840,
+							348,
+							859,
+							155,
+							861
+						],
+						"spans": [
+							{
+								"offset": 462,
+								"length": 23
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 485
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 21
+					},
+					{
+						"offset": 333,
+						"length": 9
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 22,
+						"length": 5
+					},
+					{
+						"offset": 462,
+						"length": 23
+					}
+				],
+				"locale": "en",
+				"confidence": 0.5
+			},
+			{
+				"spans": [
+					{
+						"offset": 28,
+						"length": 9
+					}
+				],
+				"locale": "en",
+				"confidence": 0.9
+			},
+			{
+				"spans": [
+					{
+						"offset": 38,
+						"length": 17
+					},
+					{
+						"offset": 128,
+						"length": 25
+					},
+					{
+						"offset": 198,
+						"length": 12
+					},
+					{
+						"offset": 218,
+						"length": 8
+					},
+					{
+						"offset": 238,
+						"length": 7
+					},
+					{
+						"offset": 276,
+						"length": 21
+					},
+					{
+						"offset": 343,
+						"length": 76
+					},
+					{
+						"offset": 424,
+						"length": 13
+					}
+				],
+				"locale": "ar",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 56,
+						"length": 16
+					}
+				],
+				"locale": "prs",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 73,
+						"length": 3
+					}
+				],
+				"locale": "ar",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 105,
+						"length": 22
+					}
+				],
+				"locale": "fa",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 154,
+						"length": 23
+					}
+				],
+				"locale": "fj",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 227,
+						"length": 10
+					}
+				],
+				"locale": "en",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 246,
+						"length": 11
+					}
+				],
+				"locale": "es",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 258,
+						"length": 5
+					}
+				],
+				"locale": "ar",
+				"confidence": 0.7
+			},
+			{
+				"spans": [
+					{
+						"offset": 264,
+						"length": 11
+					}
+				],
+				"locale": "en",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 306,
+						"length": 3
+					}
+				],
+				"locale": "fr",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 310,
+						"length": 16
+					}
+				],
+				"locale": "ps",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 438,
+						"length": 23
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							720,
+							0,
+							720,
+							960,
+							0,
+							960
+						]
+					}
+				],
+				"fields": {
+					"MerchantName": {
+						"type": "string",
+						"valueString": "SUPER MARKET ABOZAHRA",
+						"content": "SUPER MARKET ABOZAHRA",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									192,
+									215,
+									456,
+									212,
+									456,
+									229,
+									192,
+									233
+								]
+							}
+						],
+						"confidence": 0.995,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 21
+							}
+						]
+					},
+					"Total": {
+						"type": "number",
+						"content": "11.50 USD",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									253,
+									615,
+									486,
+									613,
+									486,
+									635,
+									253,
+									637
+								]
+							}
+						],
+						"confidence": 0.995,
+						"spans": [
+							{
+								"offset": 333,
+								"length": 9
+							}
+						],
+						"valueNumber": 11.5
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2019-03-24",
+						"content": "24/03/2019",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									171,
+									438,
+									302,
+									438,
+									302,
+									454,
+									171,
+									454
+								]
+							}
+						],
+						"confidence": 0.995,
+						"spans": [
+							{
+								"offset": 187,
+								"length": 10
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "15:21:44",
+						"content": "15:21:44",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									387,
+									439,
+									487,
+									440,
+									487,
+									453,
+									387,
+									454
+								]
+							}
+						],
+						"confidence": 0.995,
+						"spans": [
+							{
+								"offset": 178,
+								"length": 8
+							}
+						]
+					}
+				},
+				"confidence": 0.995,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 485
+					}
+				]
+			}
+		]
+	}
+}

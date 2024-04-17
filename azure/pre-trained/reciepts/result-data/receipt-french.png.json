@@ -1,0 +1,1551 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T19:58:18Z",
+	"lastUpdatedDateTime": "2024-04-17T19:58:19Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Contoso\n1 RUE DE LA DURANCE\n75012 PARIS FRANCE\nTEL : 09 88 77 66 55\n21-10-21\n13:10:48\nTABLE 1\n1\nGRAINE DE CHIA\n3.00 B\n1\nPOKE\n20.00 Č\nTOTAL\n21.00\nVOUS REMERCIE DE VOTRE\nVISITE",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.7741000056266785,
+				"width": 365,
+				"height": 479,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Contoso",
+						"polygon": [
+							146,
+							85,
+							200,
+							82,
+							201,
+							96,
+							147,
+							99
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 7
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							132,
+							108,
+							136,
+							107,
+							137,
+							117,
+							133,
+							117
+						],
+						"confidence": 0.934,
+						"span": {
+							"offset": 8,
+							"length": 1
+						}
+					},
+					{
+						"content": "RUE",
+						"polygon": [
+							138,
+							107,
+							155,
+							106,
+							156,
+							116,
+							139,
+							117
+						],
+						"confidence": 0.889,
+						"span": {
+							"offset": 10,
+							"length": 3
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							157,
+							106,
+							166,
+							105,
+							167,
+							115,
+							157,
+							115
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 14,
+							"length": 2
+						}
+					},
+					{
+						"content": "LA",
+						"polygon": [
+							168,
+							105,
+							179,
+							104,
+							180,
+							114,
+							169,
+							114
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 17,
+							"length": 2
+						}
+					},
+					{
+						"content": "DURANCE",
+						"polygon": [
+							181,
+							104,
+							219,
+							100,
+							221,
+							110,
+							181,
+							113
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 20,
+							"length": 7
+						}
+					},
+					{
+						"content": "75012",
+						"polygon": [
+							136,
+							122,
+							160,
+							120,
+							161,
+							129,
+							137,
+							132
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 28,
+							"length": 5
+						}
+					},
+					{
+						"content": "PARIS",
+						"polygon": [
+							162,
+							120,
+							184,
+							118,
+							185,
+							127,
+							163,
+							129
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 34,
+							"length": 5
+						}
+					},
+					{
+						"content": "FRANCE",
+						"polygon": [
+							186,
+							118,
+							217,
+							115,
+							218,
+							125,
+							187,
+							127
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 40,
+							"length": 6
+						}
+					},
+					{
+						"content": "TEL",
+						"polygon": [
+							133,
+							152,
+							145,
+							151,
+							146,
+							159,
+							134,
+							160
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 47,
+							"length": 3
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							147,
+							151,
+							152,
+							151,
+							153,
+							159,
+							148,
+							159
+						],
+						"confidence": 0.926,
+						"span": {
+							"offset": 51,
+							"length": 1
+						}
+					},
+					{
+						"content": "09",
+						"polygon": [
+							160,
+							150,
+							170,
+							150,
+							170,
+							158,
+							161,
+							158
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 53,
+							"length": 2
+						}
+					},
+					{
+						"content": "88",
+						"polygon": [
+							174,
+							149,
+							183,
+							149,
+							184,
+							157,
+							174,
+							158
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 56,
+							"length": 2
+						}
+					},
+					{
+						"content": "77",
+						"polygon": [
+							188,
+							148,
+							197,
+							148,
+							198,
+							156,
+							189,
+							157
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 59,
+							"length": 2
+						}
+					},
+					{
+						"content": "66",
+						"polygon": [
+							201,
+							148,
+							209,
+							147,
+							210,
+							155,
+							201,
+							156
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 62,
+							"length": 2
+						}
+					},
+					{
+						"content": "55",
+						"polygon": [
+							214,
+							147,
+							223,
+							146,
+							224,
+							155,
+							215,
+							155
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 65,
+							"length": 2
+						}
+					},
+					{
+						"content": "21-10-21",
+						"polygon": [
+							101,
+							209,
+							134,
+							208,
+							135,
+							216,
+							102,
+							217
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 68,
+							"length": 8
+						}
+					},
+					{
+						"content": "13:10:48",
+						"polygon": [
+							216,
+							204,
+							250,
+							203,
+							250,
+							212,
+							216,
+							213
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 77,
+							"length": 8
+						}
+					},
+					{
+						"content": "TABLE",
+						"polygon": [
+							101,
+							223,
+							125,
+							223,
+							126,
+							231,
+							102,
+							231
+						],
+						"confidence": 0.954,
+						"span": {
+							"offset": 86,
+							"length": 5
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							128,
+							223,
+							132,
+							223,
+							133,
+							231,
+							128,
+							231
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 92,
+							"length": 1
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							113,
+							237,
+							117,
+							237,
+							117,
+							245,
+							113,
+							245
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 94,
+							"length": 1
+						}
+					},
+					{
+						"content": "GRAINE",
+						"polygon": [
+							129,
+							236,
+							160,
+							236,
+							160,
+							244,
+							130,
+							245
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 96,
+							"length": 6
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							161,
+							236,
+							172,
+							235,
+							172,
+							243,
+							162,
+							244
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 103,
+							"length": 2
+						}
+					},
+					{
+						"content": "CHIA",
+						"polygon": [
+							174,
+							235,
+							192,
+							235,
+							192,
+							243,
+							174,
+							243
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 106,
+							"length": 4
+						}
+					},
+					{
+						"content": "3.00",
+						"polygon": [
+							221,
+							233,
+							237,
+							233,
+							237,
+							242,
+							222,
+							242
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 111,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							245,
+							233,
+							249,
+							233,
+							250,
+							241,
+							245,
+							241
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 116,
+							"length": 1
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							113,
+							251,
+							116,
+							251,
+							116,
+							258,
+							113,
+							258
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 118,
+							"length": 1
+						}
+					},
+					{
+						"content": "POKE",
+						"polygon": [
+							130,
+							249,
+							151,
+							249,
+							151,
+							258,
+							130,
+							258
+						],
+						"confidence": 0.929,
+						"span": {
+							"offset": 120,
+							"length": 4
+						}
+					},
+					{
+						"content": "20.00",
+						"polygon": [
+							217,
+							248,
+							237,
+							247,
+							238,
+							256,
+							217,
+							256
+						],
+						"confidence": 0.843,
+						"span": {
+							"offset": 125,
+							"length": 5
+						}
+					},
+					{
+						"content": "Č",
+						"polygon": [
+							245,
+							247,
+							250,
+							247,
+							250,
+							256,
+							246,
+							256
+						],
+						"confidence": 0.527,
+						"span": {
+							"offset": 131,
+							"length": 1
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							118,
+							290,
+							154,
+							289,
+							154,
+							300,
+							118,
+							301
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 133,
+							"length": 5
+						}
+					},
+					{
+						"content": "21.00",
+						"polygon": [
+							221,
+							289,
+							249,
+							288,
+							248,
+							299,
+							221,
+							299
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 139,
+							"length": 5
+						}
+					},
+					{
+						"content": "VOUS",
+						"polygon": [
+							104,
+							346,
+							136,
+							346,
+							136,
+							358,
+							104,
+							358
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 145,
+							"length": 4
+						}
+					},
+					{
+						"content": "REMERCIE",
+						"polygon": [
+							140,
+							346,
+							200,
+							346,
+							200,
+							358,
+							140,
+							358
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 150,
+							"length": 8
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							203,
+							346,
+							219,
+							345,
+							219,
+							358,
+							203,
+							358
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 159,
+							"length": 2
+						}
+					},
+					{
+						"content": "VOTRE",
+						"polygon": [
+							223,
+							345,
+							260,
+							345,
+							260,
+							358,
+							223,
+							358
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 162,
+							"length": 5
+						}
+					},
+					{
+						"content": "VISITE",
+						"polygon": [
+							165,
+							362,
+							200,
+							361,
+							200,
+							372,
+							165,
+							372
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 168,
+							"length": 6
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Contoso",
+						"polygon": [
+							145,
+							84,
+							201,
+							81,
+							202,
+							95,
+							146,
+							98
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "1 RUE DE LA DURANCE",
+						"polygon": [
+							131,
+							107,
+							219,
+							100,
+							220,
+							109,
+							132,
+							117
+						],
+						"spans": [
+							{
+								"offset": 8,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "75012 PARIS FRANCE",
+						"polygon": [
+							135,
+							121,
+							218,
+							115,
+							219,
+							125,
+							135,
+							131
+						],
+						"spans": [
+							{
+								"offset": 28,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "TEL : 09 88 77 66 55",
+						"polygon": [
+							132,
+							151,
+							224,
+							145,
+							225,
+							154,
+							133,
+							160
+						],
+						"spans": [
+							{
+								"offset": 47,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "21-10-21",
+						"polygon": [
+							100,
+							208,
+							134,
+							207,
+							135,
+							216,
+							100,
+							217
+						],
+						"spans": [
+							{
+								"offset": 68,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "13:10:48",
+						"polygon": [
+							215,
+							204,
+							249,
+							203,
+							250,
+							211,
+							215,
+							212
+						],
+						"spans": [
+							{
+								"offset": 77,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "TABLE 1",
+						"polygon": [
+							101,
+							222,
+							132,
+							222,
+							132,
+							231,
+							101,
+							231
+						],
+						"spans": [
+							{
+								"offset": 86,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							110,
+							237,
+							117,
+							237,
+							117,
+							245,
+							110,
+							245
+						],
+						"spans": [
+							{
+								"offset": 94,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "GRAINE DE CHIA",
+						"polygon": [
+							129,
+							236,
+							193,
+							234,
+							193,
+							243,
+							129,
+							244
+						],
+						"spans": [
+							{
+								"offset": 96,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "3.00 B",
+						"polygon": [
+							220,
+							233,
+							251,
+							233,
+							251,
+							241,
+							220,
+							241
+						],
+						"spans": [
+							{
+								"offset": 111,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							112,
+							251,
+							116,
+							251,
+							116,
+							258,
+							112,
+							258
+						],
+						"spans": [
+							{
+								"offset": 118,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "POKE",
+						"polygon": [
+							130,
+							250,
+							151,
+							249,
+							151,
+							258,
+							130,
+							257
+						],
+						"spans": [
+							{
+								"offset": 120,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "20.00 Č",
+						"polygon": [
+							216,
+							247,
+							253,
+							247,
+							253,
+							255,
+							216,
+							256
+						],
+						"spans": [
+							{
+								"offset": 125,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							116,
+							290,
+							155,
+							289,
+							156,
+							300,
+							116,
+							300
+						],
+						"spans": [
+							{
+								"offset": 133,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "21.00",
+						"polygon": [
+							220,
+							287,
+							250,
+							287,
+							250,
+							299,
+							220,
+							299
+						],
+						"spans": [
+							{
+								"offset": 139,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "VOUS REMERCIE DE VOTRE",
+						"polygon": [
+							104,
+							345,
+							260,
+							344,
+							260,
+							357,
+							104,
+							358
+						],
+						"spans": [
+							{
+								"offset": 145,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "VISITE",
+						"polygon": [
+							164,
+							361,
+							201,
+							360,
+							201,
+							372,
+							164,
+							372
+						],
+						"spans": [
+							{
+								"offset": 168,
+								"length": 6
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 174
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 7
+					}
+				],
+				"locale": "en",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 8,
+						"length": 19
+					},
+					{
+						"offset": 145,
+						"length": 22
+					}
+				],
+				"locale": "fr",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 28,
+						"length": 18
+					}
+				],
+				"locale": "en",
+				"confidence": 0.5
+			},
+			{
+				"spans": [
+					{
+						"offset": 47,
+						"length": 20
+					}
+				],
+				"locale": "bn",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 86,
+						"length": 7
+					}
+				],
+				"locale": "en",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 96,
+						"length": 14
+					}
+				],
+				"locale": "fr",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 111,
+						"length": 6
+					}
+				],
+				"locale": "en",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 120,
+						"length": 4
+					},
+					{
+						"offset": 133,
+						"length": 5
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 125,
+						"length": 7
+					}
+				],
+				"locale": "cs",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 168,
+						"length": 6
+					}
+				],
+				"locale": "fr",
+				"confidence": 0.7
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							365,
+							0,
+							365,
+							479,
+							0,
+							479
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "GRAINE DE CHIA",
+										"content": "GRAINE DE CHIA",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													129,
+													236,
+													192,
+													235,
+													192,
+													244,
+													129,
+													245
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 96,
+												"length": 14
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													113,
+													237,
+													117,
+													237,
+													117,
+													245,
+													113,
+													245
+												]
+											}
+										],
+										"confidence": 0.995,
+										"spans": [
+											{
+												"offset": 94,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													221,
+													233,
+													237,
+													233,
+													237,
+													242,
+													222,
+													242
+												]
+											}
+										],
+										"confidence": 0.994,
+										"spans": [
+											{
+												"offset": 111,
+												"length": 4
+											}
+										],
+										"valueNumber": 3
+									}
+								},
+								"content": "1\nGRAINE DE CHIA\n3.00 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											113,
+											233,
+											250,
+											233,
+											250,
+											245,
+											113,
+											245
+										]
+									}
+								],
+								"confidence": 0.985,
+								"spans": [
+									{
+										"offset": 94,
+										"length": 23
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "POKE",
+										"content": "POKE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													130,
+													249,
+													151,
+													249,
+													151,
+													258,
+													130,
+													258
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 120,
+												"length": 4
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													113,
+													251,
+													116,
+													251,
+													116,
+													258,
+													113,
+													258
+												]
+											}
+										],
+										"confidence": 0.995,
+										"spans": [
+											{
+												"offset": 118,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "20.00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													217,
+													248,
+													237,
+													247,
+													238,
+													256,
+													217,
+													256
+												]
+											}
+										],
+										"confidence": 0.993,
+										"spans": [
+											{
+												"offset": 125,
+												"length": 5
+											}
+										],
+										"valueNumber": 20
+									}
+								},
+								"content": "1\nPOKE\n20.00 Č",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											113,
+											247,
+											250,
+											247,
+											250,
+											258,
+											113,
+											258
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 118,
+										"length": 14
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "1 RUE DE LA DURANCE\n75012 PARIS FRANCE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									132,
+									107,
+									220,
+									100,
+									222,
+									125,
+									134,
+									132
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 8,
+								"length": 38
+							}
+						],
+						"valueAddress": {
+							"houseNumber": "1",
+							"road": "RUE DE LA DURANCE",
+							"postalCode": "75012",
+							"city": "PARIS",
+							"countryRegion": "FRANCE",
+							"streetAddress": "1 RUE DE LA DURANCE"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "Contoso",
+						"content": "Contoso",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									146,
+									85,
+									200,
+									82,
+									201,
+									96,
+									147,
+									99
+								]
+							}
+						],
+						"confidence": 0.968,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+33988776655",
+						"content": "09 88 77 66 55",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									160,
+									150,
+									223,
+									146,
+									224,
+									155,
+									160,
+									159
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 53,
+								"length": 14
+							}
+						]
+					},
+					"Total": {
+						"type": "number",
+						"content": "21.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									221,
+									289,
+									249,
+									288,
+									248,
+									299,
+									221,
+									299
+								]
+							}
+						],
+						"confidence": 0.963,
+						"spans": [
+							{
+								"offset": 139,
+								"length": 5
+							}
+						],
+						"valueNumber": 21
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2021-10-21",
+						"content": "21-10-21",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									101,
+									209,
+									134,
+									208,
+									135,
+									216,
+									102,
+									217
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 68,
+								"length": 8
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "13:10:48",
+						"content": "13:10:48",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									216,
+									204,
+									250,
+									203,
+									250,
+									212,
+									216,
+									213
+								]
+							}
+						],
+						"confidence": 0.994,
+						"spans": [
+							{
+								"offset": 77,
+								"length": 8
+							}
+						]
+					}
+				},
+				"confidence": 0.985,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 174
+					}
+				]
+			}
+		]
+	}
+}

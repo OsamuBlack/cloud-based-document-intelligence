@@ -1,0 +1,5724 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:58:09Z",
+	"lastUpdatedDateTime": "2024-04-17T20:58:11Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "TRADER JOE'S\n2001 Greenville Ave\nDallas TX 75206\nStore #403 - (469) 334-0614\nOPEN 8:00AM TO 9:00PM DAILY\nR-CARROTS SHREDDED 10 OZ\n1.29\nR-CUCUMBERS PERSIAN 1 LB\n1.99\nTOMATOES CRUSHED NO SALT\n1.59\nTOMATOES WHOLE NO SALT W/BASIL\n1.59\nORGANIC OLD FASHIONED OATMEAL\n2.69\nMINI-PEARL TOMATOES ..\n2.49\nPKG SHREDDED MOZZARELLA LITE T\n3.99\nEGGS 1 DOZ ORGANIC BROWN.\n3.79\nBEANS GARBANZO\n0.89\nSPROUTED CA STYLE\n2.99\nA-AVOCADOS HASS BAG 4CT\n3.99\nA-APPLE BAG JAZZ 2 LB\n2.99\nA-PEPPER BELL EACH XL RED\n0.99\nGROCERY NON TAXABLE\n0.98\n2 @ 0.49\nBANANAS ORGANIC\n0.87\n3EA\n@ 0.29/EA\nCREAMY SALTED PEANUT BUTTER\n2.49\nWHL WHT PITA BREAD\n1.69\nGROCERY NON TAXABLE\n1.38\n2 @ 0.69\nSUBTOTAL\nTOTAL\n$38.68\n$38.68\nCASH\n$40.00\nCHANGE\n$1.32\nITEMS 22\nHiggins, Ryan\n06-28-2014 12:34PM 0403 04 1346 4683\nTHANK YOU FOR SHOPPING AT\nTRADER JOE'S\nwww.traderjoes.com",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -2.2755000591278076,
+				"width": 688,
+				"height": 1024,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "TRADER",
+						"polygon": [
+							194,
+							142,
+							350,
+							137,
+							350,
+							167,
+							195,
+							172
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 0,
+							"length": 6
+						}
+					},
+					{
+						"content": "JOE'S",
+						"polygon": [
+							376,
+							136,
+							489,
+							133,
+							489,
+							164,
+							376,
+							167
+						],
+						"confidence": 0.947,
+						"span": {
+							"offset": 7,
+							"length": 5
+						}
+					},
+					{
+						"content": "2001",
+						"polygon": [
+							218,
+							207,
+							257,
+							206,
+							258,
+							225,
+							219,
+							226
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 13,
+							"length": 4
+						}
+					},
+					{
+						"content": "Greenville",
+						"polygon": [
+							262,
+							205,
+							358,
+							202,
+							358,
+							221,
+							263,
+							225
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 18,
+							"length": 10
+						}
+					},
+					{
+						"content": "Ave",
+						"polygon": [
+							366,
+							201,
+							394,
+							200,
+							395,
+							220,
+							367,
+							221
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 29,
+							"length": 3
+						}
+					},
+					{
+						"content": "Dallas",
+						"polygon": [
+							226,
+							227,
+							283,
+							225,
+							284,
+							243,
+							228,
+							246
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 33,
+							"length": 6
+						}
+					},
+					{
+						"content": "TX",
+						"polygon": [
+							303,
+							224,
+							322,
+							223,
+							323,
+							242,
+							303,
+							242
+						],
+						"confidence": 0.952,
+						"span": {
+							"offset": 40,
+							"length": 2
+						}
+					},
+					{
+						"content": "75206",
+						"polygon": [
+							340,
+							222,
+							386,
+							221,
+							386,
+							239,
+							341,
+							241
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 43,
+							"length": 5
+						}
+					},
+					{
+						"content": "Store",
+						"polygon": [
+							181,
+							248,
+							229,
+							247,
+							230,
+							267,
+							183,
+							269
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 49,
+							"length": 5
+						}
+					},
+					{
+						"content": "#403",
+						"polygon": [
+							235,
+							246,
+							276,
+							245,
+							278,
+							265,
+							237,
+							266
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 55,
+							"length": 4
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							283,
+							245,
+							294,
+							244,
+							295,
+							264,
+							284,
+							264
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 60,
+							"length": 1
+						}
+					},
+					{
+						"content": "(469)",
+						"polygon": [
+							303,
+							244,
+							352,
+							241,
+							353,
+							262,
+							304,
+							264
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 62,
+							"length": 5
+						}
+					},
+					{
+						"content": "334-0614",
+						"polygon": [
+							358,
+							241,
+							434,
+							237,
+							435,
+							258,
+							360,
+							261
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 68,
+							"length": 8
+						}
+					},
+					{
+						"content": "OPEN",
+						"polygon": [
+							185,
+							290,
+							222,
+							288,
+							223,
+							311,
+							186,
+							313
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 77,
+							"length": 4
+						}
+					},
+					{
+						"content": "8:00AM",
+						"polygon": [
+							229,
+							288,
+							286,
+							286,
+							287,
+							308,
+							230,
+							311
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 82,
+							"length": 6
+						}
+					},
+					{
+						"content": "TO",
+						"polygon": [
+							295,
+							285,
+							316,
+							285,
+							317,
+							307,
+							296,
+							308
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 89,
+							"length": 2
+						}
+					},
+					{
+						"content": "9:00PM",
+						"polygon": [
+							323,
+							284,
+							379,
+							282,
+							380,
+							304,
+							324,
+							307
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 92,
+							"length": 6
+						}
+					},
+					{
+						"content": "DAILY",
+						"polygon": [
+							386,
+							282,
+							435,
+							279,
+							436,
+							302,
+							387,
+							304
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 99,
+							"length": 5
+						}
+					},
+					{
+						"content": "R-CARROTS",
+						"polygon": [
+							122,
+							338,
+							207,
+							334,
+							208,
+							353,
+							123,
+							357
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 105,
+							"length": 9
+						}
+					},
+					{
+						"content": "SHREDDED",
+						"polygon": [
+							215,
+							334,
+							288,
+							331,
+							289,
+							349,
+							216,
+							352
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 115,
+							"length": 8
+						}
+					},
+					{
+						"content": "10",
+						"polygon": [
+							300,
+							330,
+							317,
+							330,
+							317,
+							348,
+							301,
+							349
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 124,
+							"length": 2
+						}
+					},
+					{
+						"content": "OZ",
+						"polygon": [
+							325,
+							329,
+							345,
+							329,
+							345,
+							347,
+							326,
+							348
+						],
+						"confidence": 0.913,
+						"span": {
+							"offset": 127,
+							"length": 2
+						}
+					},
+					{
+						"content": "1.29",
+						"polygon": [
+							429,
+							324,
+							464,
+							323,
+							465,
+							341,
+							430,
+							342
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 130,
+							"length": 4
+						}
+					},
+					{
+						"content": "R-CUCUMBERS",
+						"polygon": [
+							124,
+							358,
+							226,
+							353,
+							227,
+							371,
+							126,
+							376
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 135,
+							"length": 11
+						}
+					},
+					{
+						"content": "PERSIAN",
+						"polygon": [
+							233,
+							353,
+							298,
+							350,
+							299,
+							368,
+							234,
+							371
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 147,
+							"length": 7
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							310,
+							350,
+							320,
+							349,
+							321,
+							367,
+							311,
+							368
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 155,
+							"length": 1
+						}
+					},
+					{
+						"content": "LB",
+						"polygon": [
+							326,
+							349,
+							345,
+							349,
+							346,
+							366,
+							327,
+							367
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 157,
+							"length": 2
+						}
+					},
+					{
+						"content": "1.99",
+						"polygon": [
+							430,
+							344,
+							464,
+							343,
+							465,
+							361,
+							431,
+							362
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 160,
+							"length": 4
+						}
+					},
+					{
+						"content": "TOMATOES",
+						"polygon": [
+							127,
+							377,
+							200,
+							374,
+							201,
+							392,
+							128,
+							395
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 165,
+							"length": 8
+						}
+					},
+					{
+						"content": "CRUSHED",
+						"polygon": [
+							208,
+							374,
+							272,
+							371,
+							273,
+							389,
+							209,
+							392
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 174,
+							"length": 7
+						}
+					},
+					{
+						"content": "NO",
+						"polygon": [
+							280,
+							371,
+							300,
+							370,
+							301,
+							387,
+							281,
+							388
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 182,
+							"length": 2
+						}
+					},
+					{
+						"content": "SALT",
+						"polygon": [
+							310,
+							369,
+							346,
+							368,
+							347,
+							385,
+							311,
+							387
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 185,
+							"length": 4
+						}
+					},
+					{
+						"content": "1.59",
+						"polygon": [
+							431,
+							364,
+							466,
+							364,
+							466,
+							381,
+							431,
+							381
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 190,
+							"length": 4
+						}
+					},
+					{
+						"content": "TOMATOES",
+						"polygon": [
+							129,
+							396,
+							201,
+							394,
+							202,
+							412,
+							129,
+							415
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 195,
+							"length": 8
+						}
+					},
+					{
+						"content": "WHOLE",
+						"polygon": [
+							209,
+							393,
+							255,
+							391,
+							255,
+							409,
+							209,
+							411
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 204,
+							"length": 5
+						}
+					},
+					{
+						"content": "NO",
+						"polygon": [
+							263,
+							391,
+							282,
+							390,
+							282,
+							408,
+							263,
+							409
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 210,
+							"length": 2
+						}
+					},
+					{
+						"content": "SALT",
+						"polygon": [
+							292,
+							390,
+							330,
+							388,
+							330,
+							406,
+							292,
+							408
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 213,
+							"length": 4
+						}
+					},
+					{
+						"content": "W/BASIL",
+						"polygon": [
+							336,
+							388,
+							401,
+							385,
+							401,
+							403,
+							336,
+							406
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 218,
+							"length": 7
+						}
+					},
+					{
+						"content": "1.59",
+						"polygon": [
+							432,
+							380,
+							465,
+							380,
+							466,
+							402,
+							432,
+							403
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 226,
+							"length": 4
+						}
+					},
+					{
+						"content": "ORGANIC",
+						"polygon": [
+							129,
+							416,
+							191,
+							413,
+							193,
+							431,
+							130,
+							434
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 231,
+							"length": 7
+						}
+					},
+					{
+						"content": "OLD",
+						"polygon": [
+							201,
+							413,
+							228,
+							412,
+							229,
+							430,
+							202,
+							431
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 239,
+							"length": 3
+						}
+					},
+					{
+						"content": "FASHIONED",
+						"polygon": [
+							238,
+							411,
+							320,
+							408,
+							321,
+							425,
+							239,
+							429
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 243,
+							"length": 9
+						}
+					},
+					{
+						"content": "OATMEAL",
+						"polygon": [
+							329,
+							408,
+							393,
+							405,
+							394,
+							422,
+							330,
+							425
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 253,
+							"length": 7
+						}
+					},
+					{
+						"content": "2.69",
+						"polygon": [
+							432,
+							402,
+							467,
+							402,
+							467,
+							419,
+							432,
+							419
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 261,
+							"length": 4
+						}
+					},
+					{
+						"content": "MINI-PEARL",
+						"polygon": [
+							130,
+							435,
+							221,
+							431,
+							222,
+							449,
+							131,
+							453
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 266,
+							"length": 10
+						}
+					},
+					{
+						"content": "TOMATOES",
+						"polygon": [
+							232,
+							431,
+							301,
+							428,
+							301,
+							445,
+							232,
+							448
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 277,
+							"length": 8
+						}
+					},
+					{
+						"content": "..",
+						"polygon": [
+							304,
+							428,
+							320,
+							427,
+							320,
+							445,
+							305,
+							445
+						],
+						"confidence": 0.905,
+						"span": {
+							"offset": 286,
+							"length": 2
+						}
+					},
+					{
+						"content": "2.49",
+						"polygon": [
+							431,
+							422,
+							467,
+							421,
+							467,
+							437,
+							432,
+							438
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 289,
+							"length": 4
+						}
+					},
+					{
+						"content": "PKG",
+						"polygon": [
+							132,
+							454,
+							158,
+							453,
+							159,
+							471,
+							133,
+							472
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 294,
+							"length": 3
+						}
+					},
+					{
+						"content": "SHREDDED",
+						"polygon": [
+							168,
+							452,
+							240,
+							449,
+							241,
+							467,
+							169,
+							470
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 298,
+							"length": 8
+						}
+					},
+					{
+						"content": "MOZZARELLA",
+						"polygon": [
+							248,
+							449,
+							341,
+							444,
+							342,
+							462,
+							249,
+							466
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 307,
+							"length": 10
+						}
+					},
+					{
+						"content": "LITE",
+						"polygon": [
+							349,
+							444,
+							386,
+							442,
+							387,
+							460,
+							350,
+							462
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 318,
+							"length": 4
+						}
+					},
+					{
+						"content": "T",
+						"polygon": [
+							397,
+							441,
+							404,
+							441,
+							405,
+							459,
+							398,
+							459
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 323,
+							"length": 1
+						}
+					},
+					{
+						"content": "3.99",
+						"polygon": [
+							432,
+							439,
+							468,
+							439,
+							468,
+							456,
+							432,
+							456
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 325,
+							"length": 4
+						}
+					},
+					{
+						"content": "EGGS",
+						"polygon": [
+							134,
+							472,
+							169,
+							471,
+							170,
+							488,
+							135,
+							489
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 330,
+							"length": 4
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							180,
+							471,
+							190,
+							470,
+							191,
+							487,
+							181,
+							487
+						],
+						"confidence": 0.917,
+						"span": {
+							"offset": 335,
+							"length": 1
+						}
+					},
+					{
+						"content": "DOZ",
+						"polygon": [
+							195,
+							470,
+							224,
+							469,
+							225,
+							485,
+							196,
+							487
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 337,
+							"length": 3
+						}
+					},
+					{
+						"content": "ORGANIC",
+						"polygon": [
+							232,
+							468,
+							296,
+							466,
+							296,
+							482,
+							233,
+							485
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 341,
+							"length": 7
+						}
+					},
+					{
+						"content": "BROWN.",
+						"polygon": [
+							305,
+							465,
+							359,
+							463,
+							359,
+							480,
+							305,
+							482
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 349,
+							"length": 6
+						}
+					},
+					{
+						"content": "3.79",
+						"polygon": [
+							433,
+							458,
+							468,
+							458,
+							468,
+							474,
+							433,
+							474
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 356,
+							"length": 4
+						}
+					},
+					{
+						"content": "BEANS",
+						"polygon": [
+							133,
+							490,
+							179,
+							488,
+							180,
+							504,
+							134,
+							506
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 361,
+							"length": 5
+						}
+					},
+					{
+						"content": "GARBANZO",
+						"polygon": [
+							188,
+							488,
+							260,
+							486,
+							261,
+							501,
+							189,
+							504
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 367,
+							"length": 8
+						}
+					},
+					{
+						"content": "0.89",
+						"polygon": [
+							432,
+							475,
+							467,
+							475,
+							467,
+							492,
+							432,
+							492
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 376,
+							"length": 4
+						}
+					},
+					{
+						"content": "SPROUTED",
+						"polygon": [
+							134,
+							507,
+							206,
+							504,
+							207,
+							521,
+							135,
+							523
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 381,
+							"length": 8
+						}
+					},
+					{
+						"content": "CA",
+						"polygon": [
+							216,
+							504,
+							234,
+							503,
+							235,
+							520,
+							217,
+							520
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 390,
+							"length": 2
+						}
+					},
+					{
+						"content": "STYLE",
+						"polygon": [
+							244,
+							503,
+							289,
+							501,
+							290,
+							517,
+							245,
+							519
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 393,
+							"length": 5
+						}
+					},
+					{
+						"content": "2.99",
+						"polygon": [
+							434,
+							495,
+							468,
+							494,
+							468,
+							510,
+							435,
+							511
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 399,
+							"length": 4
+						}
+					},
+					{
+						"content": "A-AVOCADOS",
+						"polygon": [
+							134,
+							524,
+							226,
+							521,
+							228,
+							537,
+							135,
+							541
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 404,
+							"length": 10
+						}
+					},
+					{
+						"content": "HASS",
+						"polygon": [
+							234,
+							521,
+							272,
+							519,
+							273,
+							536,
+							235,
+							537
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 415,
+							"length": 4
+						}
+					},
+					{
+						"content": "BAG",
+						"polygon": [
+							280,
+							519,
+							307,
+							518,
+							308,
+							534,
+							281,
+							535
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 420,
+							"length": 3
+						}
+					},
+					{
+						"content": "4CT",
+						"polygon": [
+							318,
+							518,
+							344,
+							517,
+							345,
+							533,
+							319,
+							534
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 424,
+							"length": 3
+						}
+					},
+					{
+						"content": "3.99",
+						"polygon": [
+							435,
+							513,
+							471,
+							512,
+							471,
+							529,
+							436,
+							530
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 428,
+							"length": 4
+						}
+					},
+					{
+						"content": "A-APPLE",
+						"polygon": [
+							135,
+							542,
+							199,
+							540,
+							200,
+							557,
+							136,
+							559
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 433,
+							"length": 7
+						}
+					},
+					{
+						"content": "BAG",
+						"polygon": [
+							208,
+							540,
+							235,
+							539,
+							236,
+							555,
+							208,
+							556
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 441,
+							"length": 3
+						}
+					},
+					{
+						"content": "JAZZ",
+						"polygon": [
+							246,
+							538,
+							283,
+							537,
+							284,
+							554,
+							247,
+							555
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 445,
+							"length": 4
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							293,
+							536,
+							302,
+							536,
+							303,
+							553,
+							294,
+							553
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 450,
+							"length": 1
+						}
+					},
+					{
+						"content": "LB",
+						"polygon": [
+							310,
+							536,
+							328,
+							535,
+							328,
+							552,
+							310,
+							553
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 452,
+							"length": 2
+						}
+					},
+					{
+						"content": "2.99",
+						"polygon": [
+							437,
+							531,
+							471,
+							530,
+							472,
+							545,
+							438,
+							547
+						],
+						"confidence": 0.965,
+						"span": {
+							"offset": 455,
+							"length": 4
+						}
+					},
+					{
+						"content": "A-PEPPER",
+						"polygon": [
+							135,
+							560,
+							209,
+							558,
+							209,
+							575,
+							136,
+							578
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 460,
+							"length": 8
+						}
+					},
+					{
+						"content": "BELL",
+						"polygon": [
+							218,
+							557,
+							256,
+							556,
+							256,
+							573,
+							218,
+							575
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 469,
+							"length": 4
+						}
+					},
+					{
+						"content": "EACH",
+						"polygon": [
+							265,
+							556,
+							302,
+							554,
+							302,
+							571,
+							265,
+							573
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 474,
+							"length": 4
+						}
+					},
+					{
+						"content": "XL",
+						"polygon": [
+							312,
+							554,
+							329,
+							553,
+							329,
+							570,
+							312,
+							571
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 479,
+							"length": 2
+						}
+					},
+					{
+						"content": "RED",
+						"polygon": [
+							338,
+							553,
+							366,
+							552,
+							366,
+							569,
+							339,
+							570
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 482,
+							"length": 3
+						}
+					},
+					{
+						"content": "0.99",
+						"polygon": [
+							437,
+							549,
+							473,
+							548,
+							474,
+							564,
+							438,
+							566
+						],
+						"confidence": 0.854,
+						"span": {
+							"offset": 486,
+							"length": 4
+						}
+					},
+					{
+						"content": "GROCERY",
+						"polygon": [
+							136,
+							579,
+							201,
+							577,
+							202,
+							594,
+							137,
+							597
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 491,
+							"length": 7
+						}
+					},
+					{
+						"content": "NON",
+						"polygon": [
+							209,
+							577,
+							237,
+							575,
+							238,
+							593,
+							210,
+							594
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 499,
+							"length": 3
+						}
+					},
+					{
+						"content": "TAXABLE",
+						"polygon": [
+							249,
+							575,
+							312,
+							573,
+							313,
+							590,
+							250,
+							592
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 503,
+							"length": 7
+						}
+					},
+					{
+						"content": "0.98",
+						"polygon": [
+							439,
+							569,
+							475,
+							567,
+							476,
+							583,
+							440,
+							585
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 511,
+							"length": 4
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							155,
+							597,
+							165,
+							597,
+							165,
+							615,
+							156,
+							616
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 516,
+							"length": 1
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							172,
+							597,
+							183,
+							596,
+							183,
+							615,
+							173,
+							615
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 518,
+							"length": 1
+						}
+					},
+					{
+						"content": "0.49",
+						"polygon": [
+							191,
+							596,
+							229,
+							595,
+							229,
+							613,
+							192,
+							614
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 520,
+							"length": 4
+						}
+					},
+					{
+						"content": "BANANAS",
+						"polygon": [
+							136,
+							619,
+							203,
+							616,
+							204,
+							634,
+							137,
+							637
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 525,
+							"length": 7
+						}
+					},
+					{
+						"content": "ORGANIC",
+						"polygon": [
+							211,
+							615,
+							277,
+							612,
+							278,
+							631,
+							212,
+							633
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 533,
+							"length": 7
+						}
+					},
+					{
+						"content": "0.87",
+						"polygon": [
+							442,
+							606,
+							478,
+							605,
+							478,
+							622,
+							443,
+							623
+						],
+						"confidence": 0.757,
+						"span": {
+							"offset": 541,
+							"length": 4
+						}
+					},
+					{
+						"content": "3EA",
+						"polygon": [
+							155,
+							634,
+							186,
+							633,
+							187,
+							655,
+							156,
+							656
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 546,
+							"length": 3
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							221,
+							634,
+							230,
+							634,
+							231,
+							652,
+							222,
+							652
+						],
+						"confidence": 0.965,
+						"span": {
+							"offset": 550,
+							"length": 1
+						}
+					},
+					{
+						"content": "0.29/EA",
+						"polygon": [
+							240,
+							633,
+							307,
+							631,
+							308,
+							650,
+							241,
+							652
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 552,
+							"length": 7
+						}
+					},
+					{
+						"content": "CREAMY",
+						"polygon": [
+							136,
+							658,
+							195,
+							655,
+							196,
+							674,
+							138,
+							676
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 560,
+							"length": 6
+						}
+					},
+					{
+						"content": "SALTED",
+						"polygon": [
+							203,
+							655,
+							260,
+							652,
+							261,
+							671,
+							205,
+							674
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 567,
+							"length": 6
+						}
+					},
+					{
+						"content": "PEANUT",
+						"polygon": [
+							269,
+							652,
+							327,
+							649,
+							328,
+							668,
+							270,
+							671
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 574,
+							"length": 6
+						}
+					},
+					{
+						"content": "BUTTER",
+						"polygon": [
+							335,
+							649,
+							391,
+							646,
+							392,
+							665,
+							336,
+							668
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 581,
+							"length": 6
+						}
+					},
+					{
+						"content": "2.49",
+						"polygon": [
+							448,
+							643,
+							482,
+							643,
+							482,
+							660,
+							448,
+							660
+						],
+						"confidence": 0.91,
+						"span": {
+							"offset": 588,
+							"length": 4
+						}
+					},
+					{
+						"content": "WHL",
+						"polygon": [
+							139,
+							678,
+							166,
+							677,
+							167,
+							696,
+							141,
+							697
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 593,
+							"length": 3
+						}
+					},
+					{
+						"content": "WHT",
+						"polygon": [
+							174,
+							677,
+							206,
+							675,
+							207,
+							694,
+							176,
+							695
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 597,
+							"length": 3
+						}
+					},
+					{
+						"content": "PITA",
+						"polygon": [
+							212,
+							675,
+							251,
+							673,
+							252,
+							692,
+							213,
+							693
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 601,
+							"length": 4
+						}
+					},
+					{
+						"content": "BREAD",
+						"polygon": [
+							260,
+							672,
+							307,
+							670,
+							308,
+							689,
+							261,
+							691
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 606,
+							"length": 5
+						}
+					},
+					{
+						"content": "1.69",
+						"polygon": [
+							451,
+							660,
+							483,
+							660,
+							483,
+							681,
+							451,
+							682
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 612,
+							"length": 4
+						}
+					},
+					{
+						"content": "GROCERY",
+						"polygon": [
+							139,
+							699,
+							205,
+							695,
+							207,
+							714,
+							140,
+							717
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 617,
+							"length": 7
+						}
+					},
+					{
+						"content": "NON",
+						"polygon": [
+							214,
+							695,
+							243,
+							693,
+							244,
+							712,
+							215,
+							714
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 625,
+							"length": 3
+						}
+					},
+					{
+						"content": "TAXABLE",
+						"polygon": [
+							254,
+							693,
+							319,
+							690,
+							321,
+							708,
+							255,
+							712
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 629,
+							"length": 7
+						}
+					},
+					{
+						"content": "1.38",
+						"polygon": [
+							452,
+							683,
+							487,
+							681,
+							488,
+							698,
+							452,
+							701
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 637,
+							"length": 4
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							160,
+							718,
+							170,
+							717,
+							171,
+							736,
+							161,
+							737
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 642,
+							"length": 1
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							176,
+							717,
+							187,
+							717,
+							189,
+							736,
+							177,
+							736
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 644,
+							"length": 1
+						}
+					},
+					{
+						"content": "0.69",
+						"polygon": [
+							196,
+							716,
+							234,
+							714,
+							235,
+							734,
+							197,
+							735
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 646,
+							"length": 4
+						}
+					},
+					{
+						"content": "SUBTOTAL",
+						"polygon": [
+							142,
+							760,
+							218,
+							758,
+							219,
+							779,
+							142,
+							782
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 651,
+							"length": 8
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							146,
+							780,
+							230,
+							778,
+							230,
+							799,
+							147,
+							802
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 660,
+							"length": 5
+						}
+					},
+					{
+						"content": "$38.68",
+						"polygon": [
+							471,
+							744,
+							528,
+							741,
+							529,
+							763,
+							472,
+							766
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 666,
+							"length": 6
+						}
+					},
+					{
+						"content": "$38.68",
+						"polygon": [
+							471,
+							763,
+							529,
+							760,
+							531,
+							782,
+							472,
+							786
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 673,
+							"length": 6
+						}
+					},
+					{
+						"content": "CASH",
+						"polygon": [
+							144,
+							803,
+							210,
+							799,
+							211,
+							819,
+							145,
+							822
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 680,
+							"length": 4
+						}
+					},
+					{
+						"content": "$40.00",
+						"polygon": [
+							472,
+							787,
+							529,
+							783,
+							530,
+							802,
+							474,
+							805
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 685,
+							"length": 6
+						}
+					},
+					{
+						"content": "CHANGE",
+						"polygon": [
+							146,
+							823,
+							202,
+							820,
+							202,
+							839,
+							146,
+							840
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 692,
+							"length": 6
+						}
+					},
+					{
+						"content": "$1.32",
+						"polygon": [
+							483,
+							804,
+							530,
+							801,
+							531,
+							824,
+							484,
+							827
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 699,
+							"length": 5
+						}
+					},
+					{
+						"content": "ITEMS",
+						"polygon": [
+							148,
+							864,
+							196,
+							862,
+							196,
+							879,
+							149,
+							881
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 705,
+							"length": 5
+						}
+					},
+					{
+						"content": "22",
+						"polygon": [
+							206,
+							861,
+							224,
+							861,
+							225,
+							879,
+							206,
+							879
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 711,
+							"length": 2
+						}
+					},
+					{
+						"content": "Higgins,",
+						"polygon": [
+							419,
+							850,
+							496,
+							848,
+							497,
+							867,
+							421,
+							869
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 714,
+							"length": 8
+						}
+					},
+					{
+						"content": "Ryan",
+						"polygon": [
+							502,
+							847,
+							541,
+							845,
+							542,
+							864,
+							503,
+							866
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 723,
+							"length": 4
+						}
+					},
+					{
+						"content": "06-28-2014",
+						"polygon": [
+							150,
+							880,
+							245,
+							876,
+							245,
+							898,
+							150,
+							902
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 728,
+							"length": 10
+						}
+					},
+					{
+						"content": "12:34PM",
+						"polygon": [
+							263,
+							876,
+							327,
+							873,
+							327,
+							893,
+							263,
+							897
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 739,
+							"length": 7
+						}
+					},
+					{
+						"content": "0403",
+						"polygon": [
+							345,
+							872,
+							384,
+							871,
+							385,
+							890,
+							345,
+							892
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 747,
+							"length": 4
+						}
+					},
+					{
+						"content": "04",
+						"polygon": [
+							392,
+							870,
+							413,
+							869,
+							413,
+							888,
+							392,
+							889
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 752,
+							"length": 2
+						}
+					},
+					{
+						"content": "1346",
+						"polygon": [
+							422,
+							869,
+							459,
+							868,
+							459,
+							885,
+							422,
+							888
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 755,
+							"length": 4
+						}
+					},
+					{
+						"content": "4683",
+						"polygon": [
+							468,
+							867,
+							506,
+							866,
+							506,
+							882,
+							468,
+							885
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 760,
+							"length": 4
+						}
+					},
+					{
+						"content": "THANK",
+						"polygon": [
+							228,
+							917,
+							271,
+							915,
+							273,
+							932,
+							229,
+							934
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 765,
+							"length": 5
+						}
+					},
+					{
+						"content": "YOU",
+						"polygon": [
+							282,
+							914,
+							308,
+							913,
+							309,
+							930,
+							283,
+							932
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 771,
+							"length": 3
+						}
+					},
+					{
+						"content": "FOR",
+						"polygon": [
+							319,
+							913,
+							345,
+							911,
+							346,
+							928,
+							320,
+							930
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 775,
+							"length": 3
+						}
+					},
+					{
+						"content": "SHOPPING",
+						"polygon": [
+							356,
+							911,
+							430,
+							908,
+							431,
+							923,
+							357,
+							928
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 779,
+							"length": 8
+						}
+					},
+					{
+						"content": "AT",
+						"polygon": [
+							440,
+							907,
+							457,
+							907,
+							458,
+							921,
+							441,
+							923
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 788,
+							"length": 2
+						}
+					},
+					{
+						"content": "TRADER",
+						"polygon": [
+							294,
+							932,
+							346,
+							929,
+							347,
+							944,
+							295,
+							947
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 791,
+							"length": 6
+						}
+					},
+					{
+						"content": "JOE'S",
+						"polygon": [
+							358,
+							928,
+							403,
+							926,
+							403,
+							941,
+							359,
+							944
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 798,
+							"length": 5
+						}
+					},
+					{
+						"content": "www.traderjoes.com",
+						"polygon": [
+							266,
+							950,
+							429,
+							942,
+							430,
+							955,
+							266,
+							965
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 804,
+							"length": 18
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "TRADER JOE'S",
+						"polygon": [
+							190,
+							141,
+							495,
+							132,
+							496,
+							162,
+							191,
+							171
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "2001 Greenville Ave",
+						"polygon": [
+							216,
+							206,
+							396,
+							200,
+							397,
+							219,
+							217,
+							226
+						],
+						"spans": [
+							{
+								"offset": 13,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Dallas TX 75206",
+						"polygon": [
+							226,
+							227,
+							386,
+							220,
+							387,
+							238,
+							226,
+							245
+						],
+						"spans": [
+							{
+								"offset": 33,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Store #403 - (469) 334-0614",
+						"polygon": [
+							181,
+							247,
+							435,
+							236,
+							435,
+							257,
+							182,
+							268
+						],
+						"spans": [
+							{
+								"offset": 49,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "OPEN 8:00AM TO 9:00PM DAILY",
+						"polygon": [
+							185,
+							289,
+							435,
+							279,
+							436,
+							301,
+							186,
+							312
+						],
+						"spans": [
+							{
+								"offset": 77,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "R-CARROTS SHREDDED 10 OZ",
+						"polygon": [
+							121,
+							337,
+							344,
+							328,
+							345,
+							346,
+							122,
+							356
+						],
+						"spans": [
+							{
+								"offset": 105,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "1.29",
+						"polygon": [
+							429,
+							324,
+							465,
+							323,
+							465,
+							341,
+							429,
+							342
+						],
+						"spans": [
+							{
+								"offset": 130,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "R-CUCUMBERS PERSIAN 1 LB",
+						"polygon": [
+							124,
+							357,
+							346,
+							348,
+							347,
+							366,
+							124,
+							376
+						],
+						"spans": [
+							{
+								"offset": 135,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "1.99",
+						"polygon": [
+							430,
+							345,
+							465,
+							343,
+							465,
+							361,
+							431,
+							361
+						],
+						"spans": [
+							{
+								"offset": 160,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "TOMATOES CRUSHED NO SALT",
+						"polygon": [
+							126,
+							377,
+							346,
+							367,
+							346,
+							385,
+							127,
+							395
+						],
+						"spans": [
+							{
+								"offset": 165,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "1.59",
+						"polygon": [
+							430,
+							364,
+							466,
+							364,
+							467,
+							380,
+							430,
+							381
+						],
+						"spans": [
+							{
+								"offset": 190,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "TOMATOES WHOLE NO SALT W/BASIL",
+						"polygon": [
+							127,
+							396,
+							403,
+							384,
+							403,
+							402,
+							128,
+							414
+						],
+						"spans": [
+							{
+								"offset": 195,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "1.59",
+						"polygon": [
+							432,
+							381,
+							466,
+							380,
+							467,
+							402,
+							432,
+							403
+						],
+						"spans": [
+							{
+								"offset": 226,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "ORGANIC OLD FASHIONED OATMEAL",
+						"polygon": [
+							128,
+							415,
+							395,
+							404,
+							396,
+							422,
+							129,
+							433
+						],
+						"spans": [
+							{
+								"offset": 231,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "2.69",
+						"polygon": [
+							430,
+							403,
+							468,
+							402,
+							469,
+							419,
+							431,
+							419
+						],
+						"spans": [
+							{
+								"offset": 261,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "MINI-PEARL TOMATOES ..",
+						"polygon": [
+							130,
+							434,
+							320,
+							426,
+							320,
+							444,
+							130,
+							453
+						],
+						"spans": [
+							{
+								"offset": 266,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "2.49",
+						"polygon": [
+							431,
+							422,
+							468,
+							421,
+							468,
+							437,
+							431,
+							438
+						],
+						"spans": [
+							{
+								"offset": 289,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "PKG SHREDDED MOZZARELLA LITE T",
+						"polygon": [
+							131,
+							453,
+							404,
+							440,
+							405,
+							458,
+							132,
+							471
+						],
+						"spans": [
+							{
+								"offset": 294,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "3.99",
+						"polygon": [
+							431,
+							440,
+							469,
+							439,
+							469,
+							456,
+							431,
+							456
+						],
+						"spans": [
+							{
+								"offset": 325,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "EGGS 1 DOZ ORGANIC BROWN.",
+						"polygon": [
+							133,
+							472,
+							359,
+							462,
+							359,
+							479,
+							134,
+							489
+						],
+						"spans": [
+							{
+								"offset": 330,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "3.79",
+						"polygon": [
+							430,
+							458,
+							468,
+							458,
+							469,
+							474,
+							431,
+							474
+						],
+						"spans": [
+							{
+								"offset": 356,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "BEANS GARBANZO",
+						"polygon": [
+							133,
+							489,
+							262,
+							485,
+							262,
+							501,
+							133,
+							505
+						],
+						"spans": [
+							{
+								"offset": 361,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "0.89",
+						"polygon": [
+							432,
+							476,
+							468,
+							475,
+							468,
+							492,
+							433,
+							492
+						],
+						"spans": [
+							{
+								"offset": 376,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "SPROUTED CA STYLE",
+						"polygon": [
+							133,
+							506,
+							290,
+							500,
+							290,
+							517,
+							133,
+							523
+						],
+						"spans": [
+							{
+								"offset": 381,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "2.99",
+						"polygon": [
+							433,
+							495,
+							469,
+							494,
+							469,
+							510,
+							434,
+							511
+						],
+						"spans": [
+							{
+								"offset": 399,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "A-AVOCADOS HASS BAG 4CT",
+						"polygon": [
+							134,
+							524,
+							344,
+							516,
+							345,
+							532,
+							134,
+							540
+						],
+						"spans": [
+							{
+								"offset": 404,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "3.99",
+						"polygon": [
+							434,
+							513,
+							472,
+							512,
+							473,
+							529,
+							435,
+							530
+						],
+						"spans": [
+							{
+								"offset": 428,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "A-APPLE BAG JAZZ 2 LB",
+						"polygon": [
+							134,
+							542,
+							329,
+							534,
+							329,
+							552,
+							135,
+							559
+						],
+						"spans": [
+							{
+								"offset": 433,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "2.99",
+						"polygon": [
+							435,
+							532,
+							472,
+							530,
+							473,
+							546,
+							436,
+							547
+						],
+						"spans": [
+							{
+								"offset": 455,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "A-PEPPER BELL EACH XL RED",
+						"polygon": [
+							135,
+							560,
+							366,
+							551,
+							366,
+							569,
+							136,
+							578
+						],
+						"spans": [
+							{
+								"offset": 460,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "0.99",
+						"polygon": [
+							436,
+							550,
+							474,
+							548,
+							475,
+							565,
+							437,
+							566
+						],
+						"spans": [
+							{
+								"offset": 486,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "GROCERY NON TAXABLE",
+						"polygon": [
+							136,
+							579,
+							315,
+							572,
+							315,
+							589,
+							136,
+							596
+						],
+						"spans": [
+							{
+								"offset": 491,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "0.98",
+						"polygon": [
+							438,
+							569,
+							476,
+							567,
+							477,
+							583,
+							439,
+							585
+						],
+						"spans": [
+							{
+								"offset": 511,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "2 @ 0.49",
+						"polygon": [
+							154,
+							597,
+							229,
+							594,
+							230,
+							612,
+							154,
+							615
+						],
+						"spans": [
+							{
+								"offset": 516,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "BANANAS ORGANIC",
+						"polygon": [
+							135,
+							618,
+							279,
+							611,
+							280,
+							630,
+							136,
+							636
+						],
+						"spans": [
+							{
+								"offset": 525,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "0.87",
+						"polygon": [
+							442,
+							606,
+							478,
+							605,
+							479,
+							622,
+							443,
+							623
+						],
+						"spans": [
+							{
+								"offset": 541,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "3EA",
+						"polygon": [
+							154,
+							635,
+							187,
+							633,
+							188,
+							655,
+							155,
+							656
+						],
+						"spans": [
+							{
+								"offset": 546,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "@ 0.29/EA",
+						"polygon": [
+							220,
+							633,
+							307,
+							630,
+							308,
+							649,
+							221,
+							652
+						],
+						"spans": [
+							{
+								"offset": 550,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "CREAMY SALTED PEANUT BUTTER",
+						"polygon": [
+							136,
+							657,
+							391,
+							646,
+							392,
+							664,
+							137,
+							676
+						],
+						"spans": [
+							{
+								"offset": 560,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "2.49",
+						"polygon": [
+							446,
+							644,
+							483,
+							643,
+							484,
+							660,
+							446,
+							660
+						],
+						"spans": [
+							{
+								"offset": 588,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "WHL WHT PITA BREAD",
+						"polygon": [
+							138,
+							678,
+							308,
+							670,
+							309,
+							688,
+							139,
+							696
+						],
+						"spans": [
+							{
+								"offset": 593,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "1.69",
+						"polygon": [
+							451,
+							661,
+							483,
+							660,
+							484,
+							681,
+							451,
+							682
+						],
+						"spans": [
+							{
+								"offset": 612,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "GROCERY NON TAXABLE",
+						"polygon": [
+							139,
+							698,
+							320,
+							689,
+							321,
+							708,
+							139,
+							717
+						],
+						"spans": [
+							{
+								"offset": 617,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "1.38",
+						"polygon": [
+							452,
+							684,
+							486,
+							681,
+							488,
+							699,
+							452,
+							701
+						],
+						"spans": [
+							{
+								"offset": 637,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "2 @ 0.69",
+						"polygon": [
+							158,
+							717,
+							234,
+							714,
+							235,
+							733,
+							159,
+							736
+						],
+						"spans": [
+							{
+								"offset": 642,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "SUBTOTAL",
+						"polygon": [
+							142,
+							759,
+							218,
+							757,
+							218,
+							778,
+							142,
+							782
+						],
+						"spans": [
+							{
+								"offset": 651,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							143,
+							779,
+							235,
+							777,
+							236,
+							799,
+							144,
+							801
+						],
+						"spans": [
+							{
+								"offset": 660,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "$38.68",
+						"polygon": [
+							471,
+							744,
+							529,
+							741,
+							530,
+							762,
+							472,
+							766
+						],
+						"spans": [
+							{
+								"offset": 666,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "$38.68",
+						"polygon": [
+							470,
+							763,
+							530,
+							760,
+							531,
+							782,
+							471,
+							786
+						],
+						"spans": [
+							{
+								"offset": 673,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "CASH",
+						"polygon": [
+							144,
+							802,
+							221,
+							798,
+							222,
+							817,
+							145,
+							821
+						],
+						"spans": [
+							{
+								"offset": 680,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "$40.00",
+						"polygon": [
+							472,
+							786,
+							530,
+							783,
+							531,
+							801,
+							473,
+							805
+						],
+						"spans": [
+							{
+								"offset": 685,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "CHANGE",
+						"polygon": [
+							145,
+							822,
+							203,
+							820,
+							203,
+							838,
+							146,
+							840
+						],
+						"spans": [
+							{
+								"offset": 692,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "$1.32",
+						"polygon": [
+							483,
+							804,
+							531,
+							801,
+							532,
+							824,
+							484,
+							827
+						],
+						"spans": [
+							{
+								"offset": 699,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "ITEMS 22",
+						"polygon": [
+							147,
+							863,
+							224,
+							860,
+							225,
+							878,
+							148,
+							881
+						],
+						"spans": [
+							{
+								"offset": 705,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Higgins, Ryan",
+						"polygon": [
+							419,
+							850,
+							541,
+							845,
+							542,
+							864,
+							420,
+							869
+						],
+						"spans": [
+							{
+								"offset": 714,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "06-28-2014 12:34PM 0403 04 1346 4683",
+						"polygon": [
+							149,
+							880,
+							506,
+							865,
+							507,
+							884,
+							149,
+							902
+						],
+						"spans": [
+							{
+								"offset": 728,
+								"length": 36
+							}
+						]
+					},
+					{
+						"content": "THANK YOU FOR SHOPPING AT",
+						"polygon": [
+							227,
+							917,
+							458,
+							906,
+							459,
+							922,
+							228,
+							934
+						],
+						"spans": [
+							{
+								"offset": 765,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "TRADER JOE'S",
+						"polygon": [
+							293,
+							931,
+							403,
+							926,
+							404,
+							941,
+							293,
+							946
+						],
+						"spans": [
+							{
+								"offset": 791,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "www.traderjoes.com",
+						"polygon": [
+							265,
+							950,
+							432,
+							942,
+							432,
+							955,
+							266,
+							964
+						],
+						"spans": [
+							{
+								"offset": 804,
+								"length": 18
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 822
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 12
+					},
+					{
+						"offset": 791,
+						"length": 12
+					}
+				],
+				"locale": "en",
+				"confidence": 0.7
+			},
+			{
+				"spans": [
+					{
+						"offset": 13,
+						"length": 19
+					},
+					{
+						"offset": 49,
+						"length": 80
+					},
+					{
+						"offset": 165,
+						"length": 24
+					},
+					{
+						"offset": 195,
+						"length": 30
+					},
+					{
+						"offset": 231,
+						"length": 29
+					},
+					{
+						"offset": 266,
+						"length": 22
+					},
+					{
+						"offset": 330,
+						"length": 25
+					},
+					{
+						"offset": 381,
+						"length": 17
+					},
+					{
+						"offset": 404,
+						"length": 23
+					},
+					{
+						"offset": 460,
+						"length": 25
+					},
+					{
+						"offset": 491,
+						"length": 19
+					},
+					{
+						"offset": 560,
+						"length": 27
+					},
+					{
+						"offset": 593,
+						"length": 18
+					},
+					{
+						"offset": 617,
+						"length": 19
+					},
+					{
+						"offset": 692,
+						"length": 6
+					},
+					{
+						"offset": 705,
+						"length": 85
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 33,
+						"length": 15
+					}
+				],
+				"locale": "ca",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 135,
+						"length": 24
+					},
+					{
+						"offset": 660,
+						"length": 5
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 294,
+						"length": 30
+					},
+					{
+						"offset": 680,
+						"length": 4
+					}
+				],
+				"locale": "en",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 361,
+						"length": 14
+					}
+				],
+				"locale": "fa",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 433,
+						"length": 21
+					}
+				],
+				"locale": "hi",
+				"confidence": 0.7
+			},
+			{
+				"spans": [
+					{
+						"offset": 525,
+						"length": 15
+					}
+				],
+				"locale": "en",
+				"confidence": 0.9
+			},
+			{
+				"spans": [
+					{
+						"offset": 546,
+						"length": 13
+					}
+				],
+				"locale": "en",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 651,
+						"length": 8
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 804,
+						"length": 18
+					}
+				],
+				"locale": "ta",
+				"confidence": 0.7
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							688,
+							0,
+							688,
+							1024,
+							0,
+							1024
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "R-CARROTS SHREDDED 10 OZ",
+										"content": "R-CARROTS SHREDDED 10 OZ",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													122,
+													335,
+													345,
+													328,
+													346,
+													350,
+													123,
+													357
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 105,
+												"length": 24
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.29",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													429,
+													324,
+													464,
+													323,
+													465,
+													341,
+													430,
+													342
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 130,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.29
+									}
+								},
+								"content": "R-CARROTS SHREDDED 10 OZ\n1.29",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											122,
+											333,
+											464,
+											323,
+											465,
+											347,
+											123,
+											357
+										]
+									}
+								],
+								"confidence": 0.983,
+								"spans": [
+									{
+										"offset": 105,
+										"length": 29
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "R-CUCUMBERS PERSIAN 1 LB",
+										"content": "R-CUCUMBERS PERSIAN 1 LB",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													124,
+													358,
+													345,
+													348,
+													346,
+													366,
+													125,
+													377
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 135,
+												"length": 24
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													430,
+													344,
+													464,
+													343,
+													465,
+													361,
+													431,
+													362
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 160,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.99
+									}
+								},
+								"content": "R-CUCUMBERS PERSIAN 1 LB\n1.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											124,
+											358,
+											464,
+											342,
+											465,
+											361,
+											125,
+											377
+										]
+									}
+								],
+								"confidence": 0.983,
+								"spans": [
+									{
+										"offset": 135,
+										"length": 29
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "TOMATOES CRUSHED NO SALT",
+										"content": "TOMATOES CRUSHED NO SALT",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													127,
+													377,
+													346,
+													367,
+													347,
+													386,
+													128,
+													395
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 165,
+												"length": 24
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.59",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													431,
+													364,
+													466,
+													364,
+													466,
+													381,
+													431,
+													381
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 190,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.59
+									}
+								},
+								"content": "TOMATOES CRUSHED NO SALT\n1.59",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											127,
+											377,
+											466,
+											363,
+											467,
+											381,
+											128,
+											395
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 165,
+										"length": 29
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "TOMATOES WHOLE NO SALT W/BASIL",
+										"content": "TOMATOES WHOLE NO SALT W/BASIL",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													128,
+													396,
+													401,
+													383,
+													402,
+													403,
+													129,
+													416
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 195,
+												"length": 30
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.59",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													432,
+													380,
+													465,
+													380,
+													466,
+													402,
+													432,
+													403
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 226,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.59
+									}
+								},
+								"content": "TOMATOES WHOLE NO SALT W/BASIL\n1.59",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											128,
+											393,
+											465,
+											379,
+											466,
+											402,
+											129,
+											417
+										]
+									}
+								],
+								"confidence": 0.983,
+								"spans": [
+									{
+										"offset": 195,
+										"length": 35
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "ORGANIC OLD FASHIONED OATMEAL",
+										"content": "ORGANIC OLD FASHIONED OATMEAL",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													129,
+													416,
+													393,
+													404,
+													394,
+													423,
+													130,
+													434
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 231,
+												"length": 29
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.69",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													432,
+													402,
+													467,
+													402,
+													467,
+													419,
+													432,
+													419
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 261,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.69
+									}
+								},
+								"content": "ORGANIC OLD FASHIONED OATMEAL\n2.69",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											129,
+											415,
+											467,
+											401,
+											468,
+											420,
+											130,
+											434
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 231,
+										"length": 34
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "MINI-PEARL TOMATOES ..",
+										"content": "MINI-PEARL TOMATOES ..",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													130,
+													435,
+													320,
+													427,
+													321,
+													445,
+													131,
+													453
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 266,
+												"length": 22
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.49",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													431,
+													422,
+													467,
+													421,
+													467,
+													437,
+													432,
+													438
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 289,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.49
+									}
+								},
+								"content": "MINI-PEARL TOMATOES ..\n2.49",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											130,
+											432,
+											467,
+											421,
+											468,
+											442,
+											131,
+											453
+										]
+									}
+								],
+								"confidence": 0.983,
+								"spans": [
+									{
+										"offset": 266,
+										"length": 27
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "PKG SHREDDED MOZZARELLA LITE T",
+										"content": "PKG SHREDDED MOZZARELLA LITE T",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													132,
+													452,
+													404,
+													441,
+													405,
+													461,
+													133,
+													472
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 294,
+												"length": 30
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													432,
+													439,
+													468,
+													439,
+													468,
+													456,
+													432,
+													456
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 325,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.99
+									}
+								},
+								"content": "PKG SHREDDED MOZZARELLA LITE T\n3.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											132,
+											451,
+											468,
+											438,
+											469,
+											459,
+											133,
+											472
+										]
+									}
+								],
+								"confidence": 0.981,
+								"spans": [
+									{
+										"offset": 294,
+										"length": 35
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "EGGS 1 DOZ ORGANIC BROWN.",
+										"content": "EGGS 1 DOZ ORGANIC BROWN.",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													134,
+													472,
+													359,
+													463,
+													360,
+													481,
+													135,
+													489
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 330,
+												"length": 25
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.79",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													433,
+													458,
+													468,
+													458,
+													468,
+													474,
+													433,
+													474
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 356,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.79
+									}
+								},
+								"content": "EGGS 1 DOZ ORGANIC BROWN.\n3.79",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											134,
+											469,
+											468,
+											457,
+											469,
+											477,
+											135,
+											489
+										]
+									}
+								],
+								"confidence": 0.981,
+								"spans": [
+									{
+										"offset": 330,
+										"length": 30
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BEANS GARBANZO",
+										"content": "BEANS GARBANZO",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													133,
+													490,
+													260,
+													485,
+													261,
+													502,
+													134,
+													506
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 361,
+												"length": 14
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "0.89",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													432,
+													475,
+													467,
+													475,
+													467,
+													492,
+													432,
+													492
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 376,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.89
+									}
+								},
+								"content": "BEANS GARBANZO\n0.89",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											133,
+											485,
+											467,
+											474,
+											468,
+											494,
+											134,
+											506
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 361,
+										"length": 19
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "SPROUTED CA STYLE",
+										"content": "SPROUTED CA STYLE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													134,
+													506,
+													289,
+													501,
+													290,
+													518,
+													135,
+													524
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 381,
+												"length": 17
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													434,
+													495,
+													468,
+													494,
+													468,
+													510,
+													435,
+													511
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 399,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.99
+									}
+								},
+								"content": "SPROUTED CA STYLE\n2.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											134,
+											504,
+											468,
+											494,
+											469,
+											513,
+											134,
+											523
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 381,
+										"length": 22
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "A-AVOCADOS HASS BAG 4CT",
+										"content": "A-AVOCADOS HASS BAG 4CT",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													134,
+													524,
+													344,
+													516,
+													345,
+													533,
+													135,
+													541
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 404,
+												"length": 23
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													435,
+													513,
+													471,
+													512,
+													471,
+													529,
+													436,
+													530
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 428,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.99
+									}
+								},
+								"content": "A-AVOCADOS HASS BAG 4CT\n3.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											134,
+											524,
+											471,
+											511,
+											472,
+											529,
+											135,
+											542
+										]
+									}
+								],
+								"confidence": 0.984,
+								"spans": [
+									{
+										"offset": 404,
+										"length": 28
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "A-APPLE BAG JAZZ 2 LB",
+										"content": "A-APPLE BAG JAZZ 2 LB",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													135,
+													541,
+													328,
+													535,
+													329,
+													553,
+													136,
+													559
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 433,
+												"length": 21
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													437,
+													531,
+													471,
+													530,
+													472,
+													545,
+													438,
+													547
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 455,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.99
+									}
+								},
+								"content": "A-APPLE BAG JAZZ 2 LB\n2.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											135,
+											540,
+											472,
+											530,
+											472,
+											548,
+											136,
+											559
+										]
+									}
+								],
+								"confidence": 0.983,
+								"spans": [
+									{
+										"offset": 433,
+										"length": 26
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "A-PEPPER BELL EACH XL RED",
+										"content": "A-PEPPER BELL EACH XL RED",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													135,
+													560,
+													366,
+													551,
+													367,
+													569,
+													136,
+													578
+												]
+											}
+										],
+										"confidence": 0.984,
+										"spans": [
+											{
+												"offset": 460,
+												"length": 25
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "0.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													437,
+													549,
+													473,
+													548,
+													474,
+													564,
+													438,
+													566
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 486,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.99
+									}
+								},
+								"content": "A-PEPPER BELL EACH XL RED\n0.99",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											135,
+											560,
+											473,
+											547,
+											474,
+											565,
+											136,
+											578
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 460,
+										"length": 30
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "GROCERY NON TAXABLE",
+										"content": "GROCERY NON TAXABLE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													136,
+													579,
+													312,
+													572,
+													313,
+													590,
+													137,
+													597
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 491,
+												"length": 19
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "0.49",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													191,
+													596,
+													229,
+													595,
+													229,
+													613,
+													192,
+													614
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 520,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.49
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													155,
+													597,
+													165,
+													597,
+													165,
+													615,
+													156,
+													616
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 516,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "0.98",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													439,
+													569,
+													475,
+													567,
+													476,
+													583,
+													440,
+													585
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 511,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.98
+									}
+								},
+								"content": "GROCERY NON TAXABLE\n0.98\n2 @ 0.49",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											136,
+											579,
+											475,
+											563,
+											477,
+											601,
+											138,
+											617
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 491,
+										"length": 33
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BANANAS ORGANIC",
+										"content": "BANANAS ORGANIC",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													136,
+													617,
+													277,
+													612,
+													278,
+													632,
+													137,
+													637
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 525,
+												"length": 15
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "0.29/EA",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													240,
+													633,
+													307,
+													631,
+													308,
+													650,
+													241,
+													652
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 552,
+												"length": 7
+											}
+										],
+										"valueNumber": 0.29
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 3,
+										"content": "3EA",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													155,
+													634,
+													186,
+													633,
+													187,
+													655,
+													156,
+													656
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 546,
+												"length": 3
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "0.87",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													442,
+													606,
+													478,
+													605,
+													478,
+													622,
+													443,
+													623
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 541,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.87
+									}
+								},
+								"content": "BANANAS ORGANIC\n0.87\n3EA\n@ 0.29/EA",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											136,
+											615,
+											478,
+											605,
+											479,
+											646,
+											137,
+											657
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 525,
+										"length": 34
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "CREAMY SALTED PEANUT BUTTER",
+										"content": "CREAMY SALTED PEANUT BUTTER",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													136,
+													658,
+													391,
+													645,
+													392,
+													665,
+													137,
+													678
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 560,
+												"length": 27
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.49",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													448,
+													643,
+													482,
+													643,
+													482,
+													660,
+													448,
+													660
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 588,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.49
+									}
+								},
+								"content": "CREAMY SALTED PEANUT BUTTER\n2.49",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											136,
+											658,
+											482,
+											640,
+											483,
+											660,
+											137,
+											678
+										]
+									}
+								],
+								"confidence": 0.982,
+								"spans": [
+									{
+										"offset": 560,
+										"length": 32
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "WHL WHT PITA BREAD",
+										"content": "WHL WHT PITA BREAD",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													139,
+													676,
+													307,
+													670,
+													308,
+													691,
+													140,
+													697
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 593,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.69",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													451,
+													660,
+													483,
+													660,
+													483,
+													681,
+													451,
+													682
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 612,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.69
+									}
+								},
+								"content": "WHL WHT PITA BREAD\n1.69",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											139,
+											672,
+											483,
+											659,
+											484,
+											684,
+											140,
+											697
+										]
+									}
+								],
+								"confidence": 0.983,
+								"spans": [
+									{
+										"offset": 593,
+										"length": 23
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "GROCERY NON TAXABLE",
+										"content": "GROCERY NON TAXABLE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													139,
+													699,
+													320,
+													689,
+													321,
+													708,
+													140,
+													718
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 617,
+												"length": 19
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "0.69",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													196,
+													716,
+													234,
+													714,
+													235,
+													734,
+													197,
+													735
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 646,
+												"length": 4
+											}
+										],
+										"valueNumber": 0.69
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													160,
+													718,
+													170,
+													717,
+													171,
+													736,
+													161,
+													737
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 642,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.38",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													452,
+													683,
+													487,
+													681,
+													488,
+													698,
+													452,
+													701
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 637,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.38
+									}
+								},
+								"content": "GROCERY NON TAXABLE\n1.38\n2 @ 0.69",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											139,
+											699,
+											487,
+											680,
+											489,
+											720,
+											141,
+											739
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 617,
+										"length": 33
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "2001 Greenville Ave\nDallas TX 75206",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									218,
+									206,
+									394,
+									200,
+									396,
+									240,
+									219,
+									246
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 13,
+								"length": 35
+							}
+						],
+						"valueAddress": {
+							"houseNumber": "2001",
+							"road": "Greenville Ave",
+							"postalCode": "75206",
+							"city": "Dallas",
+							"state": "TX",
+							"streetAddress": "2001 Greenville Ave"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "TRADER JOE'S",
+						"content": "TRADER JOE'S",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									194,
+									141,
+									489,
+									133,
+									490,
+									164,
+									195,
+									172
+								]
+							}
+						],
+						"confidence": 0.979,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 12
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+14693340614",
+						"content": "(469) 334-0614",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									303,
+									243,
+									434,
+									237,
+									435,
+									258,
+									304,
+									264
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 62,
+								"length": 14
+							}
+						]
+					},
+					"Subtotal": {
+						"type": "number",
+						"content": "$38.68",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									471,
+									744,
+									528,
+									741,
+									529,
+									763,
+									472,
+									766
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 666,
+								"length": 6
+							}
+						],
+						"valueNumber": 38.68
+					},
+					"Total": {
+						"type": "number",
+						"content": "$38.68",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									471,
+									763,
+									529,
+									760,
+									531,
+									782,
+									472,
+									786
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 673,
+								"length": 6
+							}
+						],
+						"valueNumber": 38.68
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2014-06-28",
+						"content": "06-28-2014",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									150,
+									880,
+									245,
+									876,
+									245,
+									898,
+									150,
+									902
+								]
+							}
+						],
+						"confidence": 0.988,
+						"spans": [
+							{
+								"offset": 728,
+								"length": 10
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "12:34:00",
+						"content": "12:34PM",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									263,
+									876,
+									327,
+									873,
+									327,
+									893,
+									263,
+									897
+								]
+							}
+						],
+						"confidence": 0.988,
+						"spans": [
+							{
+								"offset": 739,
+								"length": 7
+							}
+						]
+					}
+				},
+				"confidence": 0.989,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 822
+					}
+				]
+			}
+		]
+	}
+}

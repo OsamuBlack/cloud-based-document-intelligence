@@ -1,0 +1,4047 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:57:22Z",
+	"lastUpdatedDateTime": "2024-04-17T20:57:23Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "WHOLE FOODS\nMARKET\nSunnyvale SVL 408-419-1290\n150 E Mc Kinley Ave\nSunnyvale, CA 94086\nKTTL SEA SALT POT CHP\n$1.29 F\nBRAIDED BRIOCHE\n$6.99 F\nCHEF PLATE MEAL $10\n2\n@\n$10.00 ea\n$20.00 F\nSubtotal:\n$28.28\nNet Sales:\n$28.28\nTotal :\n$28.28\nSold Items:\n4\nPaid:\nRETURNS: We are now accepting returns on\npurchases with the following conditions:\nReturns will only be accepted on purchases\nmade on or after 9/15/2020. All returns\nrequire a receipt. No returns on items\npurchased after 90 days. For additional\ninformation please visit wfm.com/returns.\n****\nEarn 5% Back at Whole Foods Market\nwith the Amazon Prime Rewards Visa.\nLearn more at amazon.com/amazonvisa\n******\nHOW WAS YOUR SHOPPING EXPERIENCE?\nGo to: http://www.wfm.com/feedback\nENTER FOR A CHANCE TO WIN A $250 GIFT CARD\n908 6387 02/10/2021 07:10 PM\n63011070790806387021020210\n6KTHQW62ZD\nThanks for shopping at Whole Foods Market",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0.0588654987514019,
+				"width": 1920,
+				"height": 3413,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "WHOLE",
+						"polygon": [
+							354,
+							83,
+							964,
+							106,
+							962,
+							292,
+							354,
+							314
+						],
+						"confidence": 0.866,
+						"span": {
+							"offset": 0,
+							"length": 5
+						}
+					},
+					{
+						"content": "FOODS",
+						"polygon": [
+							1036,
+							112,
+							1612,
+							179,
+							1608,
+							311,
+							1033,
+							292
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 6,
+							"length": 5
+						}
+					},
+					{
+						"content": "MARKET",
+						"polygon": [
+							690,
+							322,
+							1280,
+							306,
+							1278,
+							397,
+							691,
+							407
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 12,
+							"length": 6
+						}
+					},
+					{
+						"content": "Sunnyvale",
+						"polygon": [
+							519,
+							541,
+							813,
+							531,
+							811,
+							595,
+							517,
+							602
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 19,
+							"length": 9
+						}
+					},
+					{
+						"content": "SVL",
+						"polygon": [
+							847,
+							530,
+							940,
+							528,
+							938,
+							593,
+							845,
+							594
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 29,
+							"length": 3
+						}
+					},
+					{
+						"content": "408-419-1290",
+						"polygon": [
+							978,
+							528,
+							1366,
+							526,
+							1365,
+							593,
+							976,
+							592
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 33,
+							"length": 12
+						}
+					},
+					{
+						"content": "150",
+						"polygon": [
+							617,
+							603,
+							709,
+							600,
+							710,
+							659,
+							619,
+							659
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 46,
+							"length": 3
+						}
+					},
+					{
+						"content": "E",
+						"polygon": [
+							741,
+							599,
+							773,
+							598,
+							774,
+							658,
+							742,
+							659
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 50,
+							"length": 1
+						}
+					},
+					{
+						"content": "Mc",
+						"polygon": [
+							805,
+							597,
+							877,
+							595,
+							879,
+							657,
+							807,
+							658
+						],
+						"confidence": 0.861,
+						"span": {
+							"offset": 52,
+							"length": 2
+						}
+					},
+					{
+						"content": "Kinley",
+						"polygon": [
+							905,
+							594,
+							1106,
+							587,
+							1107,
+							651,
+							907,
+							656
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 55,
+							"length": 6
+						}
+					},
+					{
+						"content": "Ave",
+						"polygon": [
+							1138,
+							586,
+							1239,
+							582,
+							1240,
+							646,
+							1139,
+							649
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 62,
+							"length": 3
+						}
+					},
+					{
+						"content": "Sunnyvale,",
+						"polygon": [
+							615,
+							667,
+							949,
+							657,
+							948,
+							723,
+							614,
+							727
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 66,
+							"length": 10
+						}
+					},
+					{
+						"content": "CA",
+						"polygon": [
+							977,
+							656,
+							1043,
+							654,
+							1043,
+							718,
+							977,
+							721
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 77,
+							"length": 2
+						}
+					},
+					{
+						"content": "94086",
+						"polygon": [
+							1076,
+							653,
+							1241,
+							646,
+							1241,
+							706,
+							1076,
+							717
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 80,
+							"length": 5
+						}
+					},
+					{
+						"content": "KTTL",
+						"polygon": [
+							244,
+							719,
+							371,
+							722,
+							369,
+							780,
+							243,
+							776
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 86,
+							"length": 4
+						}
+					},
+					{
+						"content": "SEA",
+						"polygon": [
+							413,
+							723,
+							514,
+							725,
+							512,
+							784,
+							412,
+							782
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 91,
+							"length": 3
+						}
+					},
+					{
+						"content": "SALT",
+						"polygon": [
+							548,
+							725,
+							684,
+							727,
+							682,
+							787,
+							547,
+							785
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 95,
+							"length": 4
+						}
+					},
+					{
+						"content": "POT",
+						"polygon": [
+							711,
+							728,
+							815,
+							729,
+							813,
+							788,
+							709,
+							787
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 100,
+							"length": 3
+						}
+					},
+					{
+						"content": "CHP",
+						"polygon": [
+							846,
+							729,
+							943,
+							730,
+							940,
+							788,
+							844,
+							788
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 104,
+							"length": 3
+						}
+					},
+					{
+						"content": "$1.29",
+						"polygon": [
+							1343,
+							714,
+							1505,
+							723,
+							1502,
+							780,
+							1339,
+							773
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 108,
+							"length": 5
+						}
+					},
+					{
+						"content": "F",
+						"polygon": [
+							1531,
+							724,
+							1562,
+							726,
+							1559,
+							783,
+							1528,
+							782
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 114,
+							"length": 1
+						}
+					},
+					{
+						"content": "BRAIDED",
+						"polygon": [
+							242,
+							782,
+							470,
+							788,
+							470,
+							845,
+							242,
+							841
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 116,
+							"length": 7
+						}
+					},
+					{
+						"content": "BRIOCHE",
+						"polygon": [
+							508,
+							789,
+							741,
+							796,
+							740,
+							853,
+							507,
+							846
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 124,
+							"length": 7
+						}
+					},
+					{
+						"content": "$6.99",
+						"polygon": [
+							1344,
+							776,
+							1507,
+							782,
+							1506,
+							840,
+							1344,
+							835
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 132,
+							"length": 5
+						}
+					},
+					{
+						"content": "F",
+						"polygon": [
+							1537,
+							783,
+							1568,
+							784,
+							1567,
+							842,
+							1537,
+							841
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 138,
+							"length": 1
+						}
+					},
+					{
+						"content": "CHEF",
+						"polygon": [
+							241,
+							846,
+							370,
+							849,
+							368,
+							910,
+							239,
+							905
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 140,
+							"length": 4
+						}
+					},
+					{
+						"content": "PLATE",
+						"polygon": [
+							406,
+							850,
+							575,
+							855,
+							574,
+							916,
+							404,
+							911
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 145,
+							"length": 5
+						}
+					},
+					{
+						"content": "MEAL",
+						"polygon": [
+							606,
+							855,
+							740,
+							859,
+							740,
+							919,
+							605,
+							917
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 151,
+							"length": 4
+						}
+					},
+					{
+						"content": "$10",
+						"polygon": [
+							776,
+							859,
+							878,
+							862,
+							878,
+							920,
+							775,
+							919
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 156,
+							"length": 3
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							314,
+							916,
+							339,
+							916,
+							339,
+							968,
+							314,
+							968
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 160,
+							"length": 1
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							774,
+							929,
+							802,
+							929,
+							802,
+							983,
+							773,
+							983
+						],
+						"confidence": 0.765,
+						"span": {
+							"offset": 162,
+							"length": 1
+						}
+					},
+					{
+						"content": "$10.00",
+						"polygon": [
+							874,
+							926,
+							1074,
+							922,
+							1075,
+							982,
+							876,
+							983
+						],
+						"confidence": 0.936,
+						"span": {
+							"offset": 164,
+							"length": 6
+						}
+					},
+					{
+						"content": "ea",
+						"polygon": [
+							1109,
+							922,
+							1174,
+							922,
+							1175,
+							977,
+							1110,
+							981
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 171,
+							"length": 2
+						}
+					},
+					{
+						"content": "$20.00",
+						"polygon": [
+							1310,
+							908,
+							1510,
+							908,
+							1511,
+							967,
+							1309,
+							969
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 174,
+							"length": 6
+						}
+					},
+					{
+						"content": "F",
+						"polygon": [
+							1545,
+							907,
+							1577,
+							906,
+							1579,
+							965,
+							1547,
+							966
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 181,
+							"length": 1
+						}
+					},
+					{
+						"content": "Subtotal:",
+						"polygon": [
+							582,
+							987,
+							869,
+							991,
+							869,
+							1048,
+							578,
+							1047
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 183,
+							"length": 9
+						}
+					},
+					{
+						"content": "$28.28",
+						"polygon": [
+							1313,
+							977,
+							1516,
+							973,
+							1517,
+							1032,
+							1312,
+							1036
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 193,
+							"length": 6
+						}
+					},
+					{
+						"content": "Net",
+						"polygon": [
+							577,
+							1052,
+							682,
+							1055,
+							680,
+							1113,
+							574,
+							1111
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 200,
+							"length": 3
+						}
+					},
+					{
+						"content": "Sales:",
+						"polygon": [
+							712,
+							1056,
+							902,
+							1060,
+							902,
+							1117,
+							711,
+							1113
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 204,
+							"length": 6
+						}
+					},
+					{
+						"content": "$28.28",
+						"polygon": [
+							1310,
+							1045,
+							1517,
+							1036,
+							1521,
+							1098,
+							1309,
+							1107
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 211,
+							"length": 6
+						}
+					},
+					{
+						"content": "Total",
+						"polygon": [
+							717,
+							1123,
+							871,
+							1125,
+							872,
+							1181,
+							716,
+							1178
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 218,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							882,
+							1125,
+							905,
+							1125,
+							906,
+							1181,
+							883,
+							1181
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 224,
+							"length": 1
+						}
+					},
+					{
+						"content": "$28.28",
+						"polygon": [
+							1310,
+							1111,
+							1519,
+							1105,
+							1522,
+							1168,
+							1310,
+							1175
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 226,
+							"length": 6
+						}
+					},
+					{
+						"content": "Sold",
+						"polygon": [
+							713,
+							1188,
+							843,
+							1190,
+							842,
+							1247,
+							711,
+							1247
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 233,
+							"length": 4
+						}
+					},
+					{
+						"content": "Items:",
+						"polygon": [
+							885,
+							1191,
+							1069,
+							1192,
+							1069,
+							1247,
+							883,
+							1247
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 238,
+							"length": 6
+						}
+					},
+					{
+						"content": "4",
+						"polygon": [
+							1488,
+							1179,
+							1515,
+							1179,
+							1515,
+							1229,
+							1488,
+							1229
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 245,
+							"length": 1
+						}
+					},
+					{
+						"content": "Paid:",
+						"polygon": [
+							573,
+							1250,
+							731,
+							1251,
+							731,
+							1305,
+							573,
+							1303
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 247,
+							"length": 5
+						}
+					},
+					{
+						"content": "RETURNS:",
+						"polygon": [
+							296,
+							1580,
+							576,
+							1581,
+							577,
+							1642,
+							296,
+							1639
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 253,
+							"length": 8
+						}
+					},
+					{
+						"content": "We",
+						"polygon": [
+							605,
+							1581,
+							673,
+							1581,
+							673,
+							1644,
+							605,
+							1643
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 262,
+							"length": 2
+						}
+					},
+					{
+						"content": "are",
+						"polygon": [
+							709,
+							1581,
+							806,
+							1581,
+							806,
+							1644,
+							710,
+							1644
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 265,
+							"length": 3
+						}
+					},
+					{
+						"content": "now",
+						"polygon": [
+							838,
+							1581,
+							939,
+							1581,
+							939,
+							1644,
+							839,
+							1644
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 269,
+							"length": 3
+						}
+					},
+					{
+						"content": "accepting",
+						"polygon": [
+							975,
+							1581,
+							1281,
+							1581,
+							1282,
+							1644,
+							976,
+							1644
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 273,
+							"length": 9
+						}
+					},
+					{
+						"content": "returns",
+						"polygon": [
+							1309,
+							1581,
+							1559,
+							1580,
+							1560,
+							1641,
+							1310,
+							1643
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 283,
+							"length": 7
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							1595,
+							1580,
+							1660,
+							1580,
+							1661,
+							1639,
+							1596,
+							1640
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 291,
+							"length": 2
+						}
+					},
+					{
+						"content": "purchases",
+						"polygon": [
+							295,
+							1651,
+							605,
+							1649,
+							604,
+							1713,
+							294,
+							1712
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 294,
+							"length": 9
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							634,
+							1649,
+							768,
+							1648,
+							768,
+							1713,
+							633,
+							1713
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 304,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							814,
+							1648,
+							907,
+							1648,
+							907,
+							1713,
+							814,
+							1713
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 309,
+							"length": 3
+						}
+					},
+					{
+						"content": "following",
+						"polygon": [
+							949,
+							1647,
+							1247,
+							1646,
+							1247,
+							1712,
+							949,
+							1713
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 313,
+							"length": 9
+						}
+					},
+					{
+						"content": "conditions:",
+						"polygon": [
+							1284,
+							1646,
+							1655,
+							1645,
+							1656,
+							1708,
+							1285,
+							1711
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 323,
+							"length": 11
+						}
+					},
+					{
+						"content": "Returns",
+						"polygon": [
+							258,
+							1714,
+							501,
+							1715,
+							501,
+							1777,
+							258,
+							1775
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 335,
+							"length": 7
+						}
+					},
+					{
+						"content": "will",
+						"polygon": [
+							529,
+							1715,
+							675,
+							1716,
+							676,
+							1778,
+							529,
+							1777
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 343,
+							"length": 4
+						}
+					},
+					{
+						"content": "only",
+						"polygon": [
+							704,
+							1716,
+							837,
+							1716,
+							838,
+							1778,
+							704,
+							1778
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 348,
+							"length": 4
+						}
+					},
+					{
+						"content": "be",
+						"polygon": [
+							870,
+							1716,
+							939,
+							1716,
+							939,
+							1778,
+							870,
+							1778
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 353,
+							"length": 2
+						}
+					},
+					{
+						"content": "accepted",
+						"polygon": [
+							975,
+							1716,
+							1243,
+							1716,
+							1244,
+							1778,
+							976,
+							1778
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 356,
+							"length": 8
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							1280,
+							1716,
+							1344,
+							1715,
+							1345,
+							1778,
+							1280,
+							1778
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 365,
+							"length": 2
+						}
+					},
+					{
+						"content": "purchases",
+						"polygon": [
+							1381,
+							1715,
+							1701,
+							1714,
+							1703,
+							1775,
+							1382,
+							1777
+						],
+						"confidence": 0.95,
+						"span": {
+							"offset": 368,
+							"length": 9
+						}
+					},
+					{
+						"content": "made",
+						"polygon": [
+							287,
+							1785,
+							427,
+							1783,
+							428,
+							1844,
+							288,
+							1844
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 378,
+							"length": 4
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							463,
+							1783,
+							528,
+							1783,
+							528,
+							1843,
+							464,
+							1844
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 383,
+							"length": 2
+						}
+					},
+					{
+						"content": "or",
+						"polygon": [
+							568,
+							1782,
+							628,
+							1782,
+							629,
+							1843,
+							568,
+							1843
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 386,
+							"length": 2
+						}
+					},
+					{
+						"content": "after",
+						"polygon": [
+							672,
+							1781,
+							833,
+							1780,
+							834,
+							1842,
+							673,
+							1843
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 389,
+							"length": 5
+						}
+					},
+					{
+						"content": "9/15/2020.",
+						"polygon": [
+							874,
+							1780,
+							1216,
+							1779,
+							1216,
+							1842,
+							874,
+							1842
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 395,
+							"length": 10
+						}
+					},
+					{
+						"content": "All",
+						"polygon": [
+							1248,
+							1779,
+							1357,
+							1779,
+							1357,
+							1841,
+							1248,
+							1841
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 406,
+							"length": 3
+						}
+					},
+					{
+						"content": "returns",
+						"polygon": [
+							1385,
+							1779,
+							1634,
+							1780,
+							1634,
+							1841,
+							1385,
+							1841
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 410,
+							"length": 7
+						}
+					},
+					{
+						"content": "require",
+						"polygon": [
+							319,
+							1852,
+							561,
+							1850,
+							561,
+							1914,
+							319,
+							1915
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 418,
+							"length": 7
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							602,
+							1850,
+							634,
+							1850,
+							634,
+							1914,
+							602,
+							1914
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 426,
+							"length": 1
+						}
+					},
+					{
+						"content": "receipt.",
+						"polygon": [
+							667,
+							1850,
+							943,
+							1849,
+							942,
+							1912,
+							667,
+							1914
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 428,
+							"length": 8
+						}
+					},
+					{
+						"content": "No",
+						"polygon": [
+							967,
+							1849,
+							1040,
+							1849,
+							1039,
+							1911,
+							966,
+							1912
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 437,
+							"length": 2
+						}
+					},
+					{
+						"content": "returns",
+						"polygon": [
+							1072,
+							1849,
+							1320,
+							1848,
+							1319,
+							1909,
+							1072,
+							1911
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 440,
+							"length": 7
+						}
+					},
+					{
+						"content": "on",
+						"polygon": [
+							1356,
+							1848,
+							1421,
+							1848,
+							1420,
+							1908,
+							1355,
+							1908
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 448,
+							"length": 2
+						}
+					},
+					{
+						"content": "items",
+						"polygon": [
+							1466,
+							1848,
+							1640,
+							1848,
+							1639,
+							1906,
+							1465,
+							1908
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 451,
+							"length": 5
+						}
+					},
+					{
+						"content": "purchased",
+						"polygon": [
+							285,
+							1921,
+							598,
+							1918,
+							600,
+							1982,
+							286,
+							1984
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 457,
+							"length": 9
+						}
+					},
+					{
+						"content": "after",
+						"polygon": [
+							635,
+							1918,
+							797,
+							1917,
+							798,
+							1981,
+							637,
+							1982
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 467,
+							"length": 5
+						}
+					},
+					{
+						"content": "90",
+						"polygon": [
+							838,
+							1917,
+							905,
+							1916,
+							906,
+							1980,
+							839,
+							1980
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 473,
+							"length": 2
+						}
+					},
+					{
+						"content": "days.",
+						"polygon": [
+							938,
+							1916,
+							1116,
+							1915,
+							1116,
+							1979,
+							939,
+							1980
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 476,
+							"length": 5
+						}
+					},
+					{
+						"content": "For",
+						"polygon": [
+							1145,
+							1915,
+							1244,
+							1915,
+							1245,
+							1978,
+							1145,
+							1979
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 482,
+							"length": 3
+						}
+					},
+					{
+						"content": "additional",
+						"polygon": [
+							1290,
+							1915,
+							1634,
+							1915,
+							1634,
+							1977,
+							1290,
+							1978
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 486,
+							"length": 10
+						}
+					},
+					{
+						"content": "information",
+						"polygon": [
+							262,
+							1988,
+							627,
+							1986,
+							627,
+							2048,
+							262,
+							2048
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 497,
+							"length": 11
+						}
+					},
+					{
+						"content": "please",
+						"polygon": [
+							666,
+							1986,
+							869,
+							1986,
+							869,
+							2048,
+							666,
+							2048
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 509,
+							"length": 6
+						}
+					},
+					{
+						"content": "visit",
+						"polygon": [
+							908,
+							1986,
+							1079,
+							1986,
+							1079,
+							2047,
+							908,
+							2048
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 516,
+							"length": 5
+						}
+					},
+					{
+						"content": "wfm.com/returns.",
+						"polygon": [
+							1110,
+							1986,
+							1664,
+							1990,
+							1665,
+							2043,
+							1111,
+							2047
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 522,
+							"length": 16
+						}
+					},
+					{
+						"content": "****",
+						"polygon": [
+							331,
+							2062,
+							434,
+							2062,
+							433,
+							2107,
+							331,
+							2106
+						],
+						"confidence": 0.504,
+						"span": {
+							"offset": 539,
+							"length": 4
+						}
+					},
+					{
+						"content": "Earn",
+						"polygon": [
+							362,
+							2189,
+							491,
+							2191,
+							492,
+							2252,
+							363,
+							2248
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 544,
+							"length": 4
+						}
+					},
+					{
+						"content": "5%",
+						"polygon": [
+							527,
+							2191,
+							612,
+							2192,
+							613,
+							2255,
+							528,
+							2253
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 549,
+							"length": 2
+						}
+					},
+					{
+						"content": "Back",
+						"polygon": [
+							629,
+							2192,
+							762,
+							2193,
+							763,
+							2257,
+							629,
+							2255
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 552,
+							"length": 4
+						}
+					},
+					{
+						"content": "at",
+						"polygon": [
+							807,
+							2193,
+							879,
+							2194,
+							880,
+							2258,
+							807,
+							2257
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 557,
+							"length": 2
+						}
+					},
+					{
+						"content": "Whole",
+						"polygon": [
+							908,
+							2194,
+							1078,
+							2194,
+							1078,
+							2258,
+							908,
+							2258
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 560,
+							"length": 5
+						}
+					},
+					{
+						"content": "Foods",
+						"polygon": [
+							1114,
+							2194,
+							1292,
+							2194,
+							1293,
+							2255,
+							1115,
+							2258
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 566,
+							"length": 5
+						}
+					},
+					{
+						"content": "Market",
+						"polygon": [
+							1321,
+							2193,
+							1532,
+							2192,
+							1532,
+							2250,
+							1321,
+							2255
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 572,
+							"length": 6
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							368,
+							2253,
+							492,
+							2256,
+							493,
+							2314,
+							369,
+							2311
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 579,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							539,
+							2257,
+							633,
+							2258,
+							634,
+							2318,
+							540,
+							2316
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 584,
+							"length": 3
+						}
+					},
+					{
+						"content": "Amazon",
+						"polygon": [
+							672,
+							2259,
+							868,
+							2260,
+							869,
+							2321,
+							673,
+							2318
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 588,
+							"length": 6
+						}
+					},
+					{
+						"content": "Prime",
+						"polygon": [
+							907,
+							2261,
+							1080,
+							2261,
+							1080,
+							2321,
+							908,
+							2321
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 595,
+							"length": 5
+						}
+					},
+					{
+						"content": "Rewards",
+						"polygon": [
+							1115,
+							2261,
+							1357,
+							2259,
+							1358,
+							2320,
+							1116,
+							2321
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 601,
+							"length": 7
+						}
+					},
+					{
+						"content": "Visa.",
+						"polygon": [
+							1397,
+							2259,
+							1558,
+							2257,
+							1559,
+							2316,
+							1397,
+							2319
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 609,
+							"length": 5
+						}
+					},
+					{
+						"content": "Learn",
+						"polygon": [
+							368,
+							2317,
+							532,
+							2322,
+							532,
+							2379,
+							369,
+							2373
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 615,
+							"length": 5
+						}
+					},
+					{
+						"content": "more",
+						"polygon": [
+							567,
+							2323,
+							704,
+							2326,
+							705,
+							2385,
+							568,
+							2381
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 621,
+							"length": 4
+						}
+					},
+					{
+						"content": "at",
+						"polygon": [
+							739,
+							2327,
+							814,
+							2328,
+							814,
+							2387,
+							740,
+							2386
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 626,
+							"length": 2
+						}
+					},
+					{
+						"content": "amazon.com/amazonvisa",
+						"polygon": [
+							841,
+							2328,
+							1562,
+							2323,
+							1562,
+							2386,
+							842,
+							2388
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 629,
+							"length": 21
+						}
+					},
+					{
+						"content": "******",
+						"polygon": [
+							472,
+							2467,
+							657,
+							2465,
+							656,
+							2509,
+							473,
+							2508
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 651,
+							"length": 6
+						}
+					},
+					{
+						"content": "HOW",
+						"polygon": [
+							398,
+							2526,
+							497,
+							2525,
+							497,
+							2586,
+							398,
+							2585
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 658,
+							"length": 3
+						}
+					},
+					{
+						"content": "WAS",
+						"polygon": [
+							532,
+							2525,
+							636,
+							2525,
+							637,
+							2587,
+							533,
+							2586
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 662,
+							"length": 3
+						}
+					},
+					{
+						"content": "YOUR",
+						"polygon": [
+							672,
+							2525,
+							804,
+							2525,
+							805,
+							2588,
+							673,
+							2587
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 666,
+							"length": 4
+						}
+					},
+					{
+						"content": "SHOPPING",
+						"polygon": [
+							844,
+							2525,
+							1116,
+							2526,
+							1117,
+							2588,
+							845,
+							2588
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 671,
+							"length": 8
+						}
+					},
+					{
+						"content": "EXPERIENCE?",
+						"polygon": [
+							1148,
+							2526,
+							1528,
+							2528,
+							1530,
+							2586,
+							1149,
+							2588
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 680,
+							"length": 11
+						}
+					},
+					{
+						"content": "Go",
+						"polygon": [
+							400,
+							2598,
+							465,
+							2597,
+							464,
+							2659,
+							399,
+							2659
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 692,
+							"length": 2
+						}
+					},
+					{
+						"content": "to:",
+						"polygon": [
+							506,
+							2597,
+							606,
+							2596,
+							605,
+							2659,
+							505,
+							2659
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 695,
+							"length": 3
+						}
+					},
+					{
+						"content": "http://www.wfm.com/feedback",
+						"polygon": [
+							631,
+							2596,
+							1562,
+							2592,
+							1563,
+							2654,
+							630,
+							2659
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 699,
+							"length": 27
+						}
+					},
+					{
+						"content": "ENTER",
+						"polygon": [
+							255,
+							2668,
+							423,
+							2666,
+							423,
+							2730,
+							255,
+							2730
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 727,
+							"length": 5
+						}
+					},
+					{
+						"content": "FOR",
+						"polygon": [
+							457,
+							2666,
+							563,
+							2665,
+							563,
+							2729,
+							457,
+							2730
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 733,
+							"length": 3
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							601,
+							2664,
+							635,
+							2664,
+							635,
+							2729,
+							601,
+							2729
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 737,
+							"length": 1
+						}
+					},
+					{
+						"content": "CHANCE",
+						"polygon": [
+							669,
+							2664,
+							873,
+							2663,
+							873,
+							2728,
+							669,
+							2729
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 739,
+							"length": 6
+						}
+					},
+					{
+						"content": "TO",
+						"polygon": [
+							915,
+							2663,
+							979,
+							2663,
+							979,
+							2728,
+							915,
+							2728
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 746,
+							"length": 2
+						}
+					},
+					{
+						"content": "WIN",
+						"polygon": [
+							1013,
+							2663,
+							1115,
+							2663,
+							1115,
+							2728,
+							1013,
+							2728
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 749,
+							"length": 3
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							1153,
+							2663,
+							1187,
+							2663,
+							1187,
+							2728,
+							1153,
+							2728
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 753,
+							"length": 1
+						}
+					},
+					{
+						"content": "$250",
+						"polygon": [
+							1221,
+							2663,
+							1361,
+							2663,
+							1361,
+							2728,
+							1221,
+							2728
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 755,
+							"length": 4
+						}
+					},
+					{
+						"content": "GIFT",
+						"polygon": [
+							1395,
+							2663,
+							1539,
+							2664,
+							1539,
+							2729,
+							1395,
+							2728
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 760,
+							"length": 4
+						}
+					},
+					{
+						"content": "CARD",
+						"polygon": [
+							1568,
+							2664,
+							1708,
+							2665,
+							1708,
+							2730,
+							1568,
+							2729
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 765,
+							"length": 4
+						}
+					},
+					{
+						"content": "908",
+						"polygon": [
+							497,
+							2736,
+							599,
+							2736,
+							600,
+							2798,
+							498,
+							2797
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 770,
+							"length": 3
+						}
+					},
+					{
+						"content": "6387",
+						"polygon": [
+							632,
+							2736,
+							780,
+							2736,
+							781,
+							2799,
+							632,
+							2798
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 774,
+							"length": 4
+						}
+					},
+					{
+						"content": "02/10/2021",
+						"polygon": [
+							805,
+							2736,
+							1159,
+							2736,
+							1159,
+							2800,
+							805,
+							2799
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 779,
+							"length": 10
+						}
+					},
+					{
+						"content": "07:10",
+						"polygon": [
+							1188,
+							2736,
+							1361,
+							2737,
+							1360,
+							2800,
+							1188,
+							2800
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 790,
+							"length": 5
+						}
+					},
+					{
+						"content": "PM",
+						"polygon": [
+							1394,
+							2738,
+							1464,
+							2738,
+							1463,
+							2800,
+							1393,
+							2800
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 796,
+							"length": 2
+						}
+					},
+					{
+						"content": "63011070790806387021020210",
+						"polygon": [
+							524,
+							3135,
+							1445,
+							3145,
+							1444,
+							3210,
+							522,
+							3204
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 799,
+							"length": 26
+						}
+					},
+					{
+						"content": "6KTHQW62ZD",
+						"polygon": [
+							803,
+							3218,
+							1156,
+							3219,
+							1156,
+							3288,
+							803,
+							3283
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 826,
+							"length": 10
+						}
+					},
+					{
+						"content": "Thanks",
+						"polygon": [
+							246,
+							3354,
+							442,
+							3361,
+							441,
+							3410,
+							245,
+							3410
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 837,
+							"length": 6
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							488,
+							3362,
+							578,
+							3365,
+							577,
+							3410,
+							487,
+							3410
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 844,
+							"length": 3
+						}
+					},
+					{
+						"content": "shopping",
+						"polygon": [
+							629,
+							3366,
+							902,
+							3370,
+							902,
+							3410,
+							629,
+							3410
+						],
+						"confidence": 0.74,
+						"span": {
+							"offset": 848,
+							"length": 8
+						}
+					},
+					{
+						"content": "at",
+						"polygon": [
+							954,
+							3370,
+							1014,
+							3370,
+							1015,
+							3410,
+							954,
+							3410
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 857,
+							"length": 2
+						}
+					},
+					{
+						"content": "Whole",
+						"polygon": [
+							1054,
+							3370,
+							1233,
+							3370,
+							1233,
+							3410,
+							1054,
+							3410
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 860,
+							"length": 5
+						}
+					},
+					{
+						"content": "Foods",
+						"polygon": [
+							1273,
+							3369,
+							1445,
+							3367,
+							1446,
+							3409,
+							1273,
+							3410
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 866,
+							"length": 5
+						}
+					},
+					{
+						"content": "Market",
+						"polygon": [
+							1485,
+							3366,
+							1696,
+							3360,
+							1697,
+							3408,
+							1486,
+							3409
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 872,
+							"length": 6
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "WHOLE FOODS",
+						"polygon": [
+							354,
+							82,
+							1617,
+							125,
+							1609,
+							314,
+							354,
+							312
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "MARKET",
+						"polygon": [
+							689,
+							313,
+							1282,
+							304,
+							1283,
+							395,
+							691,
+							407
+						],
+						"spans": [
+							{
+								"offset": 12,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Sunnyvale SVL 408-419-1290",
+						"polygon": [
+							516,
+							534,
+							1373,
+							525,
+							1374,
+							591,
+							516,
+							602
+						],
+						"spans": [
+							{
+								"offset": 19,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "150 E Mc Kinley Ave",
+						"polygon": [
+							617,
+							599,
+							1240,
+							581,
+							1242,
+							645,
+							619,
+							659
+						],
+						"spans": [
+							{
+								"offset": 46,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Sunnyvale, CA 94086",
+						"polygon": [
+							610,
+							667,
+							1241,
+							646,
+							1242,
+							710,
+							610,
+							727
+						],
+						"spans": [
+							{
+								"offset": 66,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "KTTL SEA SALT POT CHP",
+						"polygon": [
+							243,
+							718,
+							946,
+							729,
+							945,
+							788,
+							242,
+							778
+						],
+						"spans": [
+							{
+								"offset": 86,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "$1.29 F",
+						"polygon": [
+							1342,
+							714,
+							1567,
+							725,
+							1565,
+							783,
+							1339,
+							772
+						],
+						"spans": [
+							{
+								"offset": 108,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "BRAIDED BRIOCHE",
+						"polygon": [
+							241,
+							782,
+							747,
+							795,
+							745,
+							853,
+							241,
+							840
+						],
+						"spans": [
+							{
+								"offset": 116,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "$6.99 F",
+						"polygon": [
+							1344,
+							776,
+							1570,
+							784,
+							1568,
+							842,
+							1344,
+							833
+						],
+						"spans": [
+							{
+								"offset": 132,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CHEF PLATE MEAL $10",
+						"polygon": [
+							240,
+							845,
+							883,
+							861,
+							882,
+							920,
+							238,
+							906
+						],
+						"spans": [
+							{
+								"offset": 140,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							308,
+							917,
+							342,
+							916,
+							342,
+							968,
+							308,
+							967
+						],
+						"spans": [
+							{
+								"offset": 160,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "@",
+						"polygon": [
+							771,
+							929,
+							833,
+							930,
+							833,
+							983,
+							771,
+							983
+						],
+						"spans": [
+							{
+								"offset": 162,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "$10.00 ea",
+						"polygon": [
+							874,
+							924,
+							1179,
+							921,
+							1180,
+							980,
+							875,
+							984
+						],
+						"spans": [
+							{
+								"offset": 164,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "$20.00 F",
+						"polygon": [
+							1308,
+							908,
+							1583,
+							905,
+							1584,
+							965,
+							1308,
+							969
+						],
+						"spans": [
+							{
+								"offset": 174,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Subtotal:",
+						"polygon": [
+							578,
+							987,
+							869,
+							989,
+							868,
+							1047,
+							578,
+							1046
+						],
+						"spans": [
+							{
+								"offset": 183,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "$28.28",
+						"polygon": [
+							1312,
+							977,
+							1517,
+							972,
+							1519,
+							1031,
+							1312,
+							1036
+						],
+						"spans": [
+							{
+								"offset": 193,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Net Sales:",
+						"polygon": [
+							575,
+							1052,
+							902,
+							1059,
+							901,
+							1117,
+							574,
+							1109
+						],
+						"spans": [
+							{
+								"offset": 200,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "$28.28",
+						"polygon": [
+							1309,
+							1044,
+							1519,
+							1036,
+							1522,
+							1097,
+							1309,
+							1107
+						],
+						"spans": [
+							{
+								"offset": 211,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Total :",
+						"polygon": [
+							709,
+							1122,
+							907,
+							1125,
+							906,
+							1180,
+							709,
+							1177
+						],
+						"spans": [
+							{
+								"offset": 218,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "$28.28",
+						"polygon": [
+							1310,
+							1110,
+							1520,
+							1104,
+							1522,
+							1167,
+							1310,
+							1174
+						],
+						"spans": [
+							{
+								"offset": 226,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Sold Items:",
+						"polygon": [
+							711,
+							1187,
+							1068,
+							1189,
+							1068,
+							1247,
+							710,
+							1246
+						],
+						"spans": [
+							{
+								"offset": 233,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "4",
+						"polygon": [
+							1486,
+							1179,
+							1522,
+							1179,
+							1523,
+							1229,
+							1487,
+							1229
+						],
+						"spans": [
+							{
+								"offset": 245,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Paid:",
+						"polygon": [
+							573,
+							1250,
+							733,
+							1253,
+							733,
+							1304,
+							573,
+							1304
+						],
+						"spans": [
+							{
+								"offset": 247,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "RETURNS: We are now accepting returns on",
+						"polygon": [
+							295,
+							1579,
+							1665,
+							1580,
+							1665,
+							1643,
+							295,
+							1643
+						],
+						"spans": [
+							{
+								"offset": 253,
+								"length": 40
+							}
+						]
+					},
+					{
+						"content": "purchases with the following conditions:",
+						"polygon": [
+							293,
+							1649,
+							1655,
+							1644,
+							1655,
+							1709,
+							293,
+							1713
+						],
+						"spans": [
+							{
+								"offset": 294,
+								"length": 40
+							}
+						]
+					},
+					{
+						"content": "Returns will only be accepted on purchases",
+						"polygon": [
+							258,
+							1713,
+							1706,
+							1713,
+							1706,
+							1777,
+							258,
+							1777
+						],
+						"spans": [
+							{
+								"offset": 335,
+								"length": 42
+							}
+						]
+					},
+					{
+						"content": "made on or after 9/15/2020. All returns",
+						"polygon": [
+							287,
+							1781,
+							1637,
+							1779,
+							1638,
+							1840,
+							287,
+							1844
+						],
+						"spans": [
+							{
+								"offset": 378,
+								"length": 39
+							}
+						]
+					},
+					{
+						"content": "require a receipt. No returns on items",
+						"polygon": [
+							319,
+							1851,
+							1643,
+							1848,
+							1643,
+							1908,
+							319,
+							1914
+						],
+						"spans": [
+							{
+								"offset": 418,
+								"length": 38
+							}
+						]
+					},
+					{
+						"content": "purchased after 90 days. For additional",
+						"polygon": [
+							284,
+							1919,
+							1634,
+							1915,
+							1635,
+							1976,
+							284,
+							1983
+						],
+						"spans": [
+							{
+								"offset": 457,
+								"length": 39
+							}
+						]
+					},
+					{
+						"content": "information please visit wfm.com/returns.",
+						"polygon": [
+							261,
+							1986,
+							1665,
+							1985,
+							1665,
+							2046,
+							261,
+							2047
+						],
+						"spans": [
+							{
+								"offset": 497,
+								"length": 41
+							}
+						]
+					},
+					{
+						"content": "****",
+						"polygon": [
+							329,
+							2062,
+							434,
+							2062,
+							434,
+							2107,
+							329,
+							2104
+						],
+						"spans": [
+							{
+								"offset": 539,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Earn 5% Back at Whole Foods Market",
+						"polygon": [
+							362,
+							2189,
+							1532,
+							2191,
+							1532,
+							2258,
+							362,
+							2256
+						],
+						"spans": [
+							{
+								"offset": 544,
+								"length": 34
+							}
+						]
+					},
+					{
+						"content": "with the Amazon Prime Rewards Visa.",
+						"polygon": [
+							368,
+							2253,
+							1558,
+							2256,
+							1558,
+							2321,
+							368,
+							2318
+						],
+						"spans": [
+							{
+								"offset": 579,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": "Learn more at amazon.com/amazonvisa",
+						"polygon": [
+							368,
+							2316,
+							1569,
+							2322,
+							1568,
+							2390,
+							368,
+							2384
+						],
+						"spans": [
+							{
+								"offset": 615,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": "******",
+						"polygon": [
+							470,
+							2465,
+							658,
+							2465,
+							658,
+							2508,
+							470,
+							2508
+						],
+						"spans": [
+							{
+								"offset": 651,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "HOW WAS YOUR SHOPPING EXPERIENCE?",
+						"polygon": [
+							397,
+							2525,
+							1530,
+							2526,
+							1530,
+							2588,
+							397,
+							2586
+						],
+						"spans": [
+							{
+								"offset": 658,
+								"length": 33
+							}
+						]
+					},
+					{
+						"content": "Go to: http://www.wfm.com/feedback",
+						"polygon": [
+							398,
+							2596,
+							1568,
+							2592,
+							1568,
+							2654,
+							398,
+							2659
+						],
+						"spans": [
+							{
+								"offset": 692,
+								"length": 34
+							}
+						]
+					},
+					{
+						"content": "ENTER FOR A CHANCE TO WIN A $250 GIFT CARD",
+						"polygon": [
+							254,
+							2663,
+							1710,
+							2662,
+							1710,
+							2728,
+							254,
+							2730
+						],
+						"spans": [
+							{
+								"offset": 727,
+								"length": 42
+							}
+						]
+					},
+					{
+						"content": "908 6387 02/10/2021 07:10 PM",
+						"polygon": [
+							496,
+							2735,
+							1474,
+							2737,
+							1473,
+							2799,
+							496,
+							2797
+						],
+						"spans": [
+							{
+								"offset": 770,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "63011070790806387021020210",
+						"polygon": [
+							522,
+							3135,
+							1448,
+							3143,
+							1448,
+							3210,
+							522,
+							3202
+						],
+						"spans": [
+							{
+								"offset": 799,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "6KTHQW62ZD",
+						"polygon": [
+							803,
+							3218,
+							1162,
+							3219,
+							1161,
+							3287,
+							803,
+							3284
+						],
+						"spans": [
+							{
+								"offset": 826,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Thanks for shopping at Whole Foods Market",
+						"polygon": [
+							237,
+							3354,
+							1697,
+							3356,
+							1697,
+							3410,
+							237,
+							3409
+						],
+						"spans": [
+							{
+								"offset": 837,
+								"length": 41
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 878
+					}
+				]
+			}
+		],
+		"styles": [],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 11
+					},
+					{
+						"offset": 218,
+						"length": 7
+					},
+					{
+						"offset": 692,
+						"length": 34
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 12,
+						"length": 6
+					}
+				],
+				"locale": "en",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 19,
+						"length": 26
+					}
+				],
+				"locale": "mr",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 46,
+						"length": 19
+					}
+				],
+				"locale": "ht",
+				"confidence": 0.7
+			},
+			{
+				"spans": [
+					{
+						"offset": 66,
+						"length": 19
+					}
+				],
+				"locale": "ro",
+				"confidence": 0.4
+			},
+			{
+				"spans": [
+					{
+						"offset": 86,
+						"length": 21
+					}
+				],
+				"locale": "vi",
+				"confidence": 0.9
+			},
+			{
+				"spans": [
+					{
+						"offset": 108,
+						"length": 7
+					},
+					{
+						"offset": 132,
+						"length": 7
+					},
+					{
+						"offset": 164,
+						"length": 18
+					}
+				],
+				"locale": "fr",
+				"confidence": 0.6
+			},
+			{
+				"spans": [
+					{
+						"offset": 116,
+						"length": 15
+					}
+				],
+				"locale": "ga",
+				"confidence": 0.9
+			},
+			{
+				"spans": [
+					{
+						"offset": 140,
+						"length": 19
+					},
+					{
+						"offset": 233,
+						"length": 11
+					},
+					{
+						"offset": 247,
+						"length": 291
+					},
+					{
+						"offset": 544,
+						"length": 106
+					},
+					{
+						"offset": 658,
+						"length": 33
+					},
+					{
+						"offset": 727,
+						"length": 71
+					},
+					{
+						"offset": 837,
+						"length": 41
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 183,
+						"length": 9
+					},
+					{
+						"offset": 200,
+						"length": 10
+					},
+					{
+						"offset": 826,
+						"length": 10
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							1920,
+							0,
+							1920,
+							3413,
+							0,
+							3413
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "KTTL SEA SALT POT CHP",
+										"content": "KTTL SEA SALT POT CHP",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													244,
+													719,
+													943,
+													729,
+													942,
+													791,
+													243,
+													781
+												]
+											}
+										],
+										"confidence": 0.979,
+										"spans": [
+											{
+												"offset": 86,
+												"length": 21
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "$1.29",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1343,
+													714,
+													1505,
+													723,
+													1502,
+													780,
+													1339,
+													773
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 108,
+												"length": 5
+											}
+										],
+										"valueNumber": 1.29
+									}
+								},
+								"content": "KTTL SEA SALT POT CHP\n$1.29 F",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											245,
+											692,
+											1562,
+											718,
+											1560,
+											805,
+											243,
+											779
+										]
+									}
+								],
+								"confidence": 0.978,
+								"spans": [
+									{
+										"offset": 86,
+										"length": 29
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BRAIDED BRIOCHE",
+										"content": "BRAIDED BRIOCHE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													242,
+													781,
+													742,
+													796,
+													740,
+													856,
+													240,
+													841
+												]
+											}
+										],
+										"confidence": 0.979,
+										"spans": [
+											{
+												"offset": 116,
+												"length": 15
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "$6.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1344,
+													776,
+													1507,
+													782,
+													1506,
+													840,
+													1344,
+													835
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 132,
+												"length": 5
+											}
+										],
+										"valueNumber": 6.99
+									}
+								},
+								"content": "BRAIDED BRIOCHE\n$6.99 F",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											243,
+											740,
+											1569,
+											783,
+											1566,
+											884,
+											240,
+											841
+										]
+									}
+								],
+								"confidence": 0.979,
+								"spans": [
+									{
+										"offset": 116,
+										"length": 23
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "CHEF PLATE MEAL $10",
+										"content": "CHEF PLATE MEAL $10",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													241,
+													843,
+													880,
+													862,
+													878,
+													925,
+													239,
+													906
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 140,
+												"length": 19
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "$10.00 ea",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													874,
+													925,
+													1174,
+													921,
+													1175,
+													981,
+													875,
+													985
+												]
+											}
+										],
+										"confidence": 0.982,
+										"spans": [
+											{
+												"offset": 164,
+												"length": 9
+											}
+										],
+										"valueNumber": 10
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													314,
+													916,
+													339,
+													916,
+													339,
+													968,
+													314,
+													968
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 160,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "$20.00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1310,
+													908,
+													1510,
+													908,
+													1511,
+													967,
+													1309,
+													969
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 174,
+												"length": 6
+											}
+										],
+										"valueNumber": 20
+									}
+								},
+								"content": "CHEF PLATE MEAL $10\n2\n@\n$10.00 ea\n$20.00 F",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											239,
+											846,
+											1579,
+											846,
+											1579,
+											983,
+											239,
+											983
+										]
+									}
+								],
+								"confidence": 0.969,
+								"spans": [
+									{
+										"offset": 140,
+										"length": 42
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "150 E Mc Kinley Ave\nSunnyvale, CA 94086",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									610,
+									601,
+									1239,
+									582,
+									1243,
+									714,
+									614,
+									733
+								]
+							}
+						],
+						"confidence": 0.984,
+						"spans": [
+							{
+								"offset": 46,
+								"length": 39
+							}
+						],
+						"valueAddress": {
+							"houseNumber": "150",
+							"road": "E Mc Kinley Ave",
+							"postalCode": "94086",
+							"city": "Sunnyvale",
+							"state": "CA",
+							"streetAddress": "150 E Mc Kinley Ave"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "Whole Foods Market",
+						"content": "Whole Foods Market",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1054,
+									3366,
+									1697,
+									3360,
+									1697,
+									3408,
+									1054,
+									3414
+								]
+							}
+						],
+						"confidence": 0.971,
+						"spans": [
+							{
+								"offset": 860,
+								"length": 18
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+14084191290",
+						"content": "408-419-1290",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									978,
+									528,
+									1366,
+									526,
+									1365,
+									593,
+									976,
+									592
+								]
+							}
+						],
+						"confidence": 0.988,
+						"spans": [
+							{
+								"offset": 33,
+								"length": 12
+							}
+						]
+					},
+					"Subtotal": {
+						"type": "number",
+						"content": "$28.28",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1313,
+									977,
+									1516,
+									973,
+									1517,
+									1032,
+									1312,
+									1036
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 193,
+								"length": 6
+							}
+						],
+						"valueNumber": 28.28
+					},
+					"Total": {
+						"type": "number",
+						"content": "$28.28",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1310,
+									1111,
+									1519,
+									1105,
+									1522,
+									1168,
+									1310,
+									1175
+								]
+							}
+						],
+						"confidence": 0.985,
+						"spans": [
+							{
+								"offset": 226,
+								"length": 6
+							}
+						],
+						"valueNumber": 28.28
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2021-02-10",
+						"content": "02/10/2021",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									805,
+									2736,
+									1159,
+									2736,
+									1159,
+									2800,
+									805,
+									2799
+								]
+							}
+						],
+						"confidence": 0.988,
+						"spans": [
+							{
+								"offset": 779,
+								"length": 10
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "19:10:00",
+						"content": "07:10 PM",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1188,
+									2736,
+									1464,
+									2737,
+									1464,
+									2801,
+									1188,
+									2800
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 790,
+								"length": 8
+							}
+						]
+					}
+				},
+				"confidence": 0.988,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 878
+					}
+				]
+			}
+		]
+	}
+}

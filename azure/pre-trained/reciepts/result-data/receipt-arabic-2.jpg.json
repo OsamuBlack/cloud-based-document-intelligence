@@ -1,0 +1,2313 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:11:45Z",
+	"lastUpdatedDateTime": "2024-04-17T20:11:47Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "رقم الفاتورة: 25240\nالطاولة: 40\nالكابتن : BEBO\nالكاشير : 1 Cash\nاسم الصنف\nالكمية\nالإجمالي\nبقين كبيرة\n1\n450\nنسكافيه بحليب\n1\n500\nكولا\n2\n1000\n.اركيلة\n2\n1600\nخدمة رياضية\n5\n5000\nضريبة الانفاق الاستهلاكي\n428\nضريبة رسم الادارة\n22\nاعادة الاعمار\n22\nالمجموع النهائي\n9045\nشكرا لزيـارتكم\nBy: AlKhazen Dot Net",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 5.463842868804932,
+				"width": 719,
+				"height": 960,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "رقم",
+						"polygon": [
+							639,
+							200,
+							671,
+							205,
+							668,
+							234,
+							636,
+							229
+						],
+						"confidence": 0.55,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "الفاتورة:",
+						"polygon": [
+							563,
+							191,
+							634,
+							200,
+							631,
+							228,
+							560,
+							217
+						],
+						"confidence": 0.726,
+						"span": {
+							"offset": 4,
+							"length": 9
+						}
+					},
+					{
+						"content": "25240",
+						"polygon": [
+							488,
+							182,
+							555,
+							190,
+							552,
+							215,
+							485,
+							206
+						],
+						"confidence": 0.929,
+						"span": {
+							"offset": 14,
+							"length": 5
+						}
+					},
+					{
+						"content": "الطاولة:",
+						"polygon": [
+							276,
+							155,
+							346,
+							163,
+							342,
+							189,
+							273,
+							180
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 20,
+							"length": 8
+						}
+					},
+					{
+						"content": "40",
+						"polygon": [
+							230,
+							151,
+							256,
+							153,
+							254,
+							177,
+							228,
+							174
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 29,
+							"length": 2
+						}
+					},
+					{
+						"content": "الكابتن",
+						"polygon": [
+							613,
+							236,
+							671,
+							243,
+							668,
+							272,
+							610,
+							265
+						],
+						"confidence": 0.952,
+						"span": {
+							"offset": 32,
+							"length": 7
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							593,
+							234,
+							607,
+							235,
+							604,
+							264,
+							590,
+							262
+						],
+						"confidence": 0.926,
+						"span": {
+							"offset": 40,
+							"length": 1
+						}
+					},
+					{
+						"content": "BEBO",
+						"polygon": [
+							504,
+							223,
+							577,
+							232,
+							575,
+							260,
+							502,
+							250
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 42,
+							"length": 4
+						}
+					},
+					{
+						"content": "الكاشير",
+						"polygon": [
+							358,
+							202,
+							424,
+							209,
+							422,
+							238,
+							355,
+							232
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 47,
+							"length": 7
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							336,
+							200,
+							351,
+							201,
+							349,
+							231,
+							334,
+							229
+						],
+						"confidence": 0.898,
+						"span": {
+							"offset": 55,
+							"length": 1
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							298,
+							196,
+							313,
+							197,
+							310,
+							227,
+							295,
+							225
+						],
+						"confidence": 0.873,
+						"span": {
+							"offset": 57,
+							"length": 1
+						}
+					},
+					{
+						"content": "Cash",
+						"polygon": [
+							217,
+							187,
+							282,
+							194,
+							279,
+							224,
+							213,
+							216
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 59,
+							"length": 4
+						}
+					},
+					{
+						"content": "اسم",
+						"polygon": [
+							536,
+							297,
+							579,
+							303,
+							576,
+							337,
+							534,
+							331
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 64,
+							"length": 3
+						}
+					},
+					{
+						"content": "الصنف",
+						"polygon": [
+							469,
+							290,
+							530,
+							296,
+							527,
+							330,
+							466,
+							323
+						],
+						"confidence": 0.932,
+						"span": {
+							"offset": 68,
+							"length": 5
+						}
+					},
+					{
+						"content": "الكمية",
+						"polygon": [
+							264,
+							266,
+							328,
+							271,
+							325,
+							307,
+							261,
+							302
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 74,
+							"length": 6
+						}
+					},
+					{
+						"content": "الإجمالي",
+						"polygon": [
+							130,
+							257,
+							223,
+							264,
+							220,
+							298,
+							128,
+							291
+						],
+						"confidence": 0.81,
+						"span": {
+							"offset": 81,
+							"length": 8
+						}
+					},
+					{
+						"content": "بقين",
+						"polygon": [
+							526,
+							337,
+							570,
+							342,
+							567,
+							376,
+							523,
+							372
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 90,
+							"length": 4
+						}
+					},
+					{
+						"content": "كبيرة",
+						"polygon": [
+							457,
+							330,
+							516,
+							336,
+							513,
+							371,
+							455,
+							366
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 95,
+							"length": 5
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							285,
+							317,
+							297,
+							318,
+							296,
+							343,
+							283,
+							342
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 101,
+							"length": 1
+						}
+					},
+					{
+						"content": "450",
+						"polygon": [
+							148,
+							301,
+							197,
+							305,
+							194,
+							333,
+							146,
+							329
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 103,
+							"length": 3
+						}
+					},
+					{
+						"content": "نسكافيه",
+						"polygon": [
+							506,
+							377,
+							591,
+							383,
+							589,
+							419,
+							504,
+							412
+						],
+						"confidence": 0.87,
+						"span": {
+							"offset": 107,
+							"length": 7
+						}
+					},
+					{
+						"content": "بحليب",
+						"polygon": [
+							438,
+							372,
+							499,
+							376,
+							497,
+							412,
+							436,
+							407
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 115,
+							"length": 5
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							282,
+							360,
+							293,
+							361,
+							290,
+							386,
+							279,
+							384
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 121,
+							"length": 1
+						}
+					},
+					{
+						"content": "500",
+						"polygon": [
+							141,
+							345,
+							190,
+							349,
+							187,
+							376,
+							139,
+							372
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 123,
+							"length": 3
+						}
+					},
+					{
+						"content": "كولا",
+						"polygon": [
+							486,
+							420,
+							532,
+							425,
+							528,
+							457,
+							483,
+							452
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 127,
+							"length": 4
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							277,
+							404,
+							291,
+							406,
+							288,
+							430,
+							273,
+							428
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 132,
+							"length": 1
+						}
+					},
+					{
+						"content": "1000",
+						"polygon": [
+							129,
+							388,
+							193,
+							394,
+							191,
+							424,
+							127,
+							418
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 134,
+							"length": 4
+						}
+					},
+					{
+						"content": ".اركيلة",
+						"polygon": [
+							467,
+							459,
+							542,
+							468,
+							538,
+							503,
+							463,
+							494
+						],
+						"confidence": 0.804,
+						"span": {
+							"offset": 139,
+							"length": 7
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							272,
+							448,
+							283,
+							450,
+							279,
+							474,
+							267,
+							472
+						],
+						"confidence": 0.927,
+						"span": {
+							"offset": 147,
+							"length": 1
+						}
+					},
+					{
+						"content": "1600",
+						"polygon": [
+							122,
+							433,
+							186,
+							439,
+							183,
+							468,
+							120,
+							462
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 149,
+							"length": 4
+						}
+					},
+					{
+						"content": "خدمة",
+						"polygon": [
+							512,
+							510,
+							572,
+							516,
+							569,
+							553,
+							509,
+							548
+						],
+						"confidence": 0.952,
+						"span": {
+							"offset": 154,
+							"length": 4
+						}
+					},
+					{
+						"content": "رياضية",
+						"polygon": [
+							422,
+							501,
+							504,
+							509,
+							501,
+							548,
+							419,
+							540
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 159,
+							"length": 6
+						}
+					},
+					{
+						"content": "5",
+						"polygon": [
+							264,
+							492,
+							279,
+							494,
+							274,
+							522,
+							260,
+							520
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 166,
+							"length": 1
+						}
+					},
+					{
+						"content": "5000",
+						"polygon": [
+							111,
+							477,
+							181,
+							483,
+							178,
+							514,
+							108,
+							508
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 168,
+							"length": 4
+						}
+					},
+					{
+						"content": "ضريبة",
+						"polygon": [
+							564,
+							582,
+							649,
+							589,
+							646,
+							633,
+							562,
+							626
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 173,
+							"length": 5
+						}
+					},
+					{
+						"content": "الانفاق",
+						"polygon": [
+							485,
+							575,
+							556,
+							581,
+							553,
+							625,
+							483,
+							619
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 179,
+							"length": 7
+						}
+					},
+					{
+						"content": "الاستهلاكي",
+						"polygon": [
+							336,
+							567,
+							476,
+							575,
+							474,
+							619,
+							334,
+							608
+						],
+						"confidence": 0.873,
+						"span": {
+							"offset": 187,
+							"length": 10
+						}
+					},
+					{
+						"content": "428",
+						"polygon": [
+							168,
+							553,
+							227,
+							558,
+							224,
+							590,
+							165,
+							584
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 198,
+							"length": 3
+						}
+					},
+					{
+						"content": "ضريبة",
+						"polygon": [
+							520,
+							635,
+							606,
+							642,
+							603,
+							686,
+							517,
+							680
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 202,
+							"length": 5
+						}
+					},
+					{
+						"content": "رسم",
+						"polygon": [
+							459,
+							630,
+							511,
+							634,
+							508,
+							679,
+							456,
+							675
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 208,
+							"length": 3
+						}
+					},
+					{
+						"content": "الادارة",
+						"polygon": [
+							371,
+							624,
+							450,
+							629,
+							447,
+							674,
+							367,
+							665
+						],
+						"confidence": 0.923,
+						"span": {
+							"offset": 212,
+							"length": 7
+						}
+					},
+					{
+						"content": "22",
+						"polygon": [
+							175,
+							606,
+							216,
+							611,
+							211,
+							649,
+							170,
+							643
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 220,
+							"length": 2
+						}
+					},
+					{
+						"content": "اعادة",
+						"polygon": [
+							502,
+							694,
+							567,
+							698,
+							565,
+							729,
+							501,
+							725
+						],
+						"confidence": 0.927,
+						"span": {
+							"offset": 223,
+							"length": 5
+						}
+					},
+					{
+						"content": "الاعمار",
+						"polygon": [
+							411,
+							688,
+							496,
+							694,
+							495,
+							725,
+							409,
+							720
+						],
+						"confidence": 0.891,
+						"span": {
+							"offset": 229,
+							"length": 7
+						}
+					},
+					{
+						"content": "22",
+						"polygon": [
+							170,
+							660,
+							211,
+							665,
+							206,
+							703,
+							166,
+							698
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 237,
+							"length": 2
+						}
+					},
+					{
+						"content": "المجموع",
+						"polygon": [
+							467,
+							779,
+							576,
+							790,
+							572,
+							828,
+							464,
+							821
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 240,
+							"length": 7
+						}
+					},
+					{
+						"content": "النهائي",
+						"polygon": [
+							371,
+							775,
+							459,
+							779,
+							456,
+							820,
+							369,
+							813
+						],
+						"confidence": 0.875,
+						"span": {
+							"offset": 248,
+							"length": 7
+						}
+					},
+					{
+						"content": "9045",
+						"polygon": [
+							144,
+							749,
+							228,
+							757,
+							225,
+							793,
+							141,
+							785
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 256,
+							"length": 4
+						}
+					},
+					{
+						"content": "شكرا",
+						"polygon": [
+							385,
+							845,
+							470,
+							848,
+							470,
+							883,
+							384,
+							878
+						],
+						"confidence": 0.742,
+						"span": {
+							"offset": 261,
+							"length": 4
+						}
+					},
+					{
+						"content": "لزيـارتكم",
+						"polygon": [
+							239,
+							835,
+							379,
+							844,
+							377,
+							877,
+							237,
+							866
+						],
+						"confidence": 0.635,
+						"span": {
+							"offset": 266,
+							"length": 9
+						}
+					},
+					{
+						"content": "By:",
+						"polygon": [
+							67,
+							850,
+							105,
+							854,
+							103,
+							876,
+							65,
+							871
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 276,
+							"length": 3
+						}
+					},
+					{
+						"content": "AlKhazen",
+						"polygon": [
+							109,
+							854,
+							214,
+							865,
+							212,
+							887,
+							107,
+							876
+						],
+						"confidence": 0.885,
+						"span": {
+							"offset": 280,
+							"length": 8
+						}
+					},
+					{
+						"content": "Dot",
+						"polygon": [
+							224,
+							866,
+							265,
+							869,
+							263,
+							892,
+							222,
+							888
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 289,
+							"length": 3
+						}
+					},
+					{
+						"content": "Net",
+						"polygon": [
+							269,
+							870,
+							309,
+							873,
+							307,
+							895,
+							267,
+							892
+						],
+						"confidence": 0.63,
+						"span": {
+							"offset": 293,
+							"length": 3
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "رقم الفاتورة: 25240",
+						"polygon": [
+							485,
+							181,
+							671,
+							204,
+							667,
+							233,
+							482,
+							207
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "الطاولة: 40",
+						"polygon": [
+							227,
+							150,
+							346,
+							163,
+							343,
+							189,
+							225,
+							174
+						],
+						"spans": [
+							{
+								"offset": 20,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "الكابتن : BEBO",
+						"polygon": [
+							503,
+							222,
+							671,
+							243,
+							668,
+							271,
+							501,
+							250
+						],
+						"spans": [
+							{
+								"offset": 32,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "الكاشير : 1 Cash",
+						"polygon": [
+							213,
+							186,
+							424,
+							208,
+							421,
+							238,
+							210,
+							216
+						],
+						"spans": [
+							{
+								"offset": 47,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "اسم الصنف",
+						"polygon": [
+							454,
+							288,
+							579,
+							302,
+							576,
+							336,
+							451,
+							320
+						],
+						"spans": [
+							{
+								"offset": 64,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "الكمية",
+						"polygon": [
+							263,
+							266,
+							328,
+							272,
+							326,
+							306,
+							261,
+							302
+						],
+						"spans": [
+							{
+								"offset": 74,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "الإجمالي",
+						"polygon": [
+							130,
+							257,
+							224,
+							264,
+							222,
+							298,
+							128,
+							291
+						],
+						"spans": [
+							{
+								"offset": 81,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "بقين كبيرة",
+						"polygon": [
+							456,
+							330,
+							571,
+							341,
+							568,
+							376,
+							453,
+							365
+						],
+						"spans": [
+							{
+								"offset": 90,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							284,
+							317,
+							300,
+							318,
+							299,
+							343,
+							283,
+							342
+						],
+						"spans": [
+							{
+								"offset": 101,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "450",
+						"polygon": [
+							148,
+							301,
+							201,
+							306,
+							199,
+							334,
+							145,
+							330
+						],
+						"spans": [
+							{
+								"offset": 103,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "نسكافيه بحليب",
+						"polygon": [
+							434,
+							371,
+							593,
+							383,
+							590,
+							418,
+							432,
+							406
+						],
+						"spans": [
+							{
+								"offset": 107,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							281,
+							360,
+							294,
+							361,
+							292,
+							386,
+							279,
+							384
+						],
+						"spans": [
+							{
+								"offset": 121,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "500",
+						"polygon": [
+							140,
+							345,
+							194,
+							349,
+							192,
+							377,
+							138,
+							372
+						],
+						"spans": [
+							{
+								"offset": 123,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "كولا",
+						"polygon": [
+							485,
+							420,
+							532,
+							425,
+							529,
+							457,
+							482,
+							452
+						],
+						"spans": [
+							{
+								"offset": 127,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							272,
+							404,
+							292,
+							406,
+							290,
+							431,
+							270,
+							427
+						],
+						"spans": [
+							{
+								"offset": 132,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "1000",
+						"polygon": [
+							126,
+							388,
+							194,
+							395,
+							192,
+							423,
+							124,
+							418
+						],
+						"spans": [
+							{
+								"offset": 134,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": ".اركيلة",
+						"polygon": [
+							466,
+							459,
+							545,
+							469,
+							541,
+							504,
+							463,
+							495
+						],
+						"spans": [
+							{
+								"offset": 139,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							267,
+							447,
+							284,
+							450,
+							281,
+							475,
+							264,
+							472
+						],
+						"spans": [
+							{
+								"offset": 147,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "1600",
+						"polygon": [
+							119,
+							433,
+							189,
+							439,
+							188,
+							468,
+							117,
+							462
+						],
+						"spans": [
+							{
+								"offset": 149,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "خدمة رياضية",
+						"polygon": [
+							422,
+							500,
+							573,
+							515,
+							570,
+							553,
+							418,
+							539
+						],
+						"spans": [
+							{
+								"offset": 154,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "5",
+						"polygon": [
+							261,
+							492,
+							281,
+							495,
+							279,
+							523,
+							258,
+							519
+						],
+						"spans": [
+							{
+								"offset": 166,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "5000",
+						"polygon": [
+							108,
+							477,
+							181,
+							484,
+							180,
+							514,
+							105,
+							508
+						],
+						"spans": [
+							{
+								"offset": 168,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "ضريبة الانفاق الاستهلاكي",
+						"polygon": [
+							336,
+							566,
+							651,
+							588,
+							648,
+							632,
+							334,
+							608
+						],
+						"spans": [
+							{
+								"offset": 173,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "428",
+						"polygon": [
+							166,
+							553,
+							230,
+							558,
+							228,
+							590,
+							165,
+							584
+						],
+						"spans": [
+							{
+								"offset": 198,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "ضريبة رسم الادارة",
+						"polygon": [
+							370,
+							624,
+							611,
+							642,
+							607,
+							686,
+							367,
+							666
+						],
+						"spans": [
+							{
+								"offset": 202,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "22",
+						"polygon": [
+							168,
+							605,
+							216,
+							612,
+							213,
+							648,
+							164,
+							643
+						],
+						"spans": [
+							{
+								"offset": 220,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "اعادة الاعمار",
+						"polygon": [
+							405,
+							687,
+							568,
+							697,
+							566,
+							729,
+							404,
+							719
+						],
+						"spans": [
+							{
+								"offset": 223,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "22",
+						"polygon": [
+							163,
+							660,
+							210,
+							666,
+							208,
+							703,
+							160,
+							698
+						],
+						"spans": [
+							{
+								"offset": 237,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "المجموع النهائي",
+						"polygon": [
+							370,
+							774,
+							576,
+							787,
+							573,
+							828,
+							368,
+							812
+						],
+						"spans": [
+							{
+								"offset": 240,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "9045",
+						"polygon": [
+							140,
+							749,
+							230,
+							757,
+							227,
+							793,
+							138,
+							785
+						],
+						"spans": [
+							{
+								"offset": 256,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "شكرا لزيـارتكم",
+						"polygon": [
+							238,
+							835,
+							474,
+							848,
+							472,
+							882,
+							236,
+							867
+						],
+						"spans": [
+							{
+								"offset": 261,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "By: AlKhazen Dot Net",
+						"polygon": [
+							65,
+							849,
+							310,
+							873,
+							307,
+							895,
+							63,
+							872
+						],
+						"spans": [
+							{
+								"offset": 276,
+								"length": 20
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 296
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.8,
+				"spans": [
+					{
+						"offset": 101,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 100
+					},
+					{
+						"offset": 107,
+						"length": 13
+					},
+					{
+						"offset": 127,
+						"length": 4
+					},
+					{
+						"offset": 139,
+						"length": 7
+					},
+					{
+						"offset": 154,
+						"length": 11
+					},
+					{
+						"offset": 173,
+						"length": 24
+					},
+					{
+						"offset": 202,
+						"length": 17
+					},
+					{
+						"offset": 223,
+						"length": 13
+					},
+					{
+						"offset": 240,
+						"length": 15
+					},
+					{
+						"offset": 261,
+						"length": 14
+					}
+				],
+				"locale": "ar",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 276,
+						"length": 20
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							719,
+							0,
+							719,
+							960,
+							0,
+							960
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "بقين كبيرة",
+										"content": "بقين كبيرة",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													457,
+													330,
+													571,
+													342,
+													567,
+													377,
+													453,
+													366
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 90,
+												"length": 10
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													285,
+													317,
+													297,
+													318,
+													296,
+													343,
+													283,
+													342
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 101,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "450",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													148,
+													301,
+													197,
+													305,
+													194,
+													333,
+													146,
+													329
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 103,
+												"length": 3
+											}
+										],
+										"valueNumber": 450
+									}
+								},
+								"content": "بقين كبيرة\n1\n450",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											148,
+											300,
+											570,
+											340,
+											567,
+											377,
+											145,
+											337
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 90,
+										"length": 16
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "نسكافيه بحليب",
+										"content": "نسكافيه بحليب",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													438,
+													371,
+													592,
+													383,
+													589,
+													419,
+													435,
+													407
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 107,
+												"length": 13
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													282,
+													360,
+													293,
+													361,
+													290,
+													386,
+													279,
+													384
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 121,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "500",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													141,
+													345,
+													190,
+													349,
+													187,
+													376,
+													139,
+													372
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 123,
+												"length": 3
+											}
+										],
+										"valueNumber": 500
+									}
+								},
+								"content": "نسكافيه بحليب\n1\n500",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											141,
+											345,
+											592,
+											382,
+											589,
+											420,
+											138,
+											382
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 107,
+										"length": 19
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "كولا",
+										"content": "كولا",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													486,
+													420,
+													532,
+													425,
+													528,
+													457,
+													483,
+													452
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 127,
+												"length": 4
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													277,
+													404,
+													291,
+													406,
+													288,
+													430,
+													273,
+													428
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 132,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1000",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													129,
+													388,
+													193,
+													394,
+													191,
+													424,
+													127,
+													418
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 134,
+												"length": 4
+											}
+										],
+										"valueNumber": 1000
+									}
+								},
+								"content": "كولا\n2\n1000",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											130,
+											381,
+											532,
+											425,
+											528,
+											462,
+											126,
+											418
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 127,
+										"length": 11
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": ".اركيلة",
+										"content": ".اركيلة",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													467,
+													459,
+													542,
+													468,
+													538,
+													503,
+													463,
+													494
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 139,
+												"length": 7
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													272,
+													448,
+													283,
+													450,
+													279,
+													474,
+													267,
+													472
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 147,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1600",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													122,
+													433,
+													186,
+													439,
+													183,
+													468,
+													120,
+													462
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 149,
+												"length": 4
+											}
+										],
+										"valueNumber": 1600
+									}
+								},
+								"content": ".اركيلة\n2\n1600",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											124,
+											418,
+											542,
+											468,
+											537,
+											512,
+											119,
+											462
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 139,
+										"length": 14
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "خدمة رياضية",
+										"content": "خدمة رياضية",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													422,
+													501,
+													573,
+													516,
+													569,
+													555,
+													418,
+													540
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 154,
+												"length": 11
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 5,
+										"content": "5",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													264,
+													492,
+													279,
+													494,
+													274,
+													522,
+													260,
+													520
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 166,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "5000",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													111,
+													477,
+													181,
+													483,
+													178,
+													514,
+													108,
+													508
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 168,
+												"length": 4
+											}
+										],
+										"valueNumber": 5000
+									}
+								},
+								"content": "خدمة رياضية\n5\n5000",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											112,
+											471,
+											573,
+											516,
+											569,
+											555,
+											108,
+											510
+										]
+									}
+								],
+								"confidence": 0.973,
+								"spans": [
+									{
+										"offset": 154,
+										"length": 18
+									}
+								]
+							}
+						]
+					},
+					"Total": {
+						"type": "number",
+						"content": "9045",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									144,
+									749,
+									228,
+									757,
+									225,
+									793,
+									141,
+									785
+								]
+							}
+						],
+						"confidence": 0.978,
+						"spans": [
+							{
+								"offset": 256,
+								"length": 4
+							}
+						],
+						"valueNumber": 9045
+					},
+					"TotalTax": {
+						"type": "number",
+						"content": "22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									170,
+									660,
+									211,
+									665,
+									206,
+									703,
+									166,
+									698
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 237,
+								"length": 2
+							}
+						],
+						"valueNumber": 22
+					}
+				},
+				"confidence": 0.989,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 296
+					}
+				]
+			}
+		]
+	}
+}

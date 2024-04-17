@@ -1,0 +1,4433 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T20:17:36Z",
+	"lastUpdatedDateTime": "2024-04-17T20:17:37Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "WHOLE\nFOODS\nMARKET\nSHARON RD.\nPL TORTILLA'S\n6.99 B\n*\nCAGE FREE ALL WHIT\n*\n3.69 B\nBLACK BEANS\n1.29 B\nFrozen Mangoes 160\n2.99 B\nWhole Strawberries\n2.99 B\nOG LF COTTAGE CHEE\n3.49 B\nMAHI MAHI FILLETS\n8.99 B\n*VC\n$2 off (1) WC Fill\n2.00-\n*\nCalifornia Harvest\n2.69 B\n1.08 lb @ 1.99 /lb\nTARE = . 01\n* WT\nPLUMS BLACK CV\n2.15 B\nITEM = 4040\nNHP SLICED OVEN RO\n3.99 B\nNHP SLICED HICKORY\n3.99 B\n1.64 lb @ 1.99 /lb\nTARE = . 01\nWT\nGALA APPLES OG\n3.26 B\nITEM = 94135\n****\nTAX\n. 93\nBAL\n45.44",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 622,
+				"height": 768,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "WHOLE",
+						"polygon": [
+							237,
+							91,
+							381,
+							89,
+							380,
+							131,
+							236,
+							133
+						],
+						"confidence": 0.78,
+						"span": {
+							"offset": 0,
+							"length": 5
+						}
+					},
+					{
+						"content": "FOODS",
+						"polygon": [
+							241,
+							131,
+							381,
+							129,
+							382,
+							162,
+							240,
+							163
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 6,
+							"length": 5
+						}
+					},
+					{
+						"content": "MARKET",
+						"polygon": [
+							243,
+							164,
+							381,
+							164,
+							381,
+							178,
+							243,
+							178
+						],
+						"confidence": 0.758,
+						"span": {
+							"offset": 12,
+							"length": 6
+						}
+					},
+					{
+						"content": "SHARON",
+						"polygon": [
+							233,
+							198,
+							319,
+							199,
+							319,
+							221,
+							234,
+							221
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 19,
+							"length": 6
+						}
+					},
+					{
+						"content": "RD.",
+						"polygon": [
+							338,
+							200,
+							379,
+							199,
+							379,
+							222,
+							338,
+							222
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 26,
+							"length": 3
+						}
+					},
+					{
+						"content": "PL",
+						"polygon": [
+							252,
+							260,
+							268,
+							260,
+							267,
+							274,
+							252,
+							274
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 30,
+							"length": 2
+						}
+					},
+					{
+						"content": "TORTILLA'S",
+						"polygon": [
+							281,
+							261,
+							370,
+							262,
+							370,
+							274,
+							281,
+							274
+						],
+						"confidence": 0.786,
+						"span": {
+							"offset": 33,
+							"length": 10
+						}
+					},
+					{
+						"content": "6.99",
+						"polygon": [
+							425,
+							261,
+							459,
+							260,
+							460,
+							272,
+							426,
+							274
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 44,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							471,
+							259,
+							478,
+							259,
+							478,
+							272,
+							472,
+							272
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 49,
+							"length": 1
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							142,
+							265,
+							141,
+							269,
+							133,
+							269,
+							134,
+							265
+						],
+						"confidence": 0.559,
+						"span": {
+							"offset": 51,
+							"length": 1
+						}
+					},
+					{
+						"content": "CAGE",
+						"polygon": [
+							205,
+							279,
+							240,
+							280,
+							240,
+							293,
+							205,
+							293
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 53,
+							"length": 4
+						}
+					},
+					{
+						"content": "FREE",
+						"polygon": [
+							250,
+							280,
+							286,
+							280,
+							286,
+							293,
+							250,
+							293
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 58,
+							"length": 4
+						}
+					},
+					{
+						"content": "ALL",
+						"polygon": [
+							298,
+							280,
+							322,
+							281,
+							322,
+							293,
+							298,
+							293
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 63,
+							"length": 3
+						}
+					},
+					{
+						"content": "WHIT",
+						"polygon": [
+							334,
+							281,
+							370,
+							281,
+							370,
+							293,
+							334,
+							293
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 67,
+							"length": 4
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							140,
+							285,
+							140,
+							289,
+							132,
+							289,
+							132,
+							285
+						],
+						"confidence": 0.716,
+						"span": {
+							"offset": 72,
+							"length": 1
+						}
+					},
+					{
+						"content": "3.69",
+						"polygon": [
+							426,
+							280,
+							461,
+							279,
+							461,
+							292,
+							427,
+							294
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 74,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							473,
+							279,
+							479,
+							278,
+							480,
+							291,
+							473,
+							291
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 79,
+							"length": 1
+						}
+					},
+					{
+						"content": "BLACK",
+						"polygon": [
+							269,
+							300,
+							312,
+							300,
+							312,
+							314,
+							269,
+							313
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 81,
+							"length": 5
+						}
+					},
+					{
+						"content": "BEANS",
+						"polygon": [
+							326,
+							300,
+							370,
+							300,
+							370,
+							314,
+							326,
+							314
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 87,
+							"length": 5
+						}
+					},
+					{
+						"content": "1.29",
+						"polygon": [
+							429,
+							300,
+							463,
+							299,
+							463,
+							312,
+							429,
+							313
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 93,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							475,
+							299,
+							481,
+							298,
+							482,
+							312,
+							475,
+							312
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 98,
+							"length": 1
+						}
+					},
+					{
+						"content": "Frozen",
+						"polygon": [
+							200,
+							319,
+							255,
+							320,
+							256,
+							333,
+							201,
+							333
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 100,
+							"length": 6
+						}
+					},
+					{
+						"content": "Mangoes",
+						"polygon": [
+							267,
+							320,
+							333,
+							321,
+							333,
+							334,
+							267,
+							333
+						],
+						"confidence": 0.965,
+						"span": {
+							"offset": 107,
+							"length": 7
+						}
+					},
+					{
+						"content": "160",
+						"polygon": [
+							345,
+							321,
+							370,
+							321,
+							370,
+							335,
+							346,
+							334
+						],
+						"confidence": 0.588,
+						"span": {
+							"offset": 115,
+							"length": 3
+						}
+					},
+					{
+						"content": "2.99",
+						"polygon": [
+							429,
+							321,
+							463,
+							319,
+							464,
+							332,
+							430,
+							334
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 119,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							475,
+							319,
+							482,
+							318,
+							483,
+							332,
+							476,
+							332
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 124,
+							"length": 1
+						}
+					},
+					{
+						"content": "Whole",
+						"polygon": [
+							198,
+							339,
+							245,
+							340,
+							245,
+							354,
+							199,
+							354
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 126,
+							"length": 5
+						}
+					},
+					{
+						"content": "Strawberries",
+						"polygon": [
+							258,
+							340,
+							370,
+							342,
+							370,
+							355,
+							258,
+							354
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 132,
+							"length": 12
+						}
+					},
+					{
+						"content": "2.99",
+						"polygon": [
+							430,
+							341,
+							466,
+							340,
+							467,
+							354,
+							431,
+							355
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 145,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							478,
+							340,
+							485,
+							340,
+							486,
+							353,
+							479,
+							353
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 150,
+							"length": 1
+						}
+					},
+					{
+						"content": "OG",
+						"polygon": [
+							197,
+							361,
+							215,
+							361,
+							214,
+							375,
+							197,
+							375
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 152,
+							"length": 2
+						}
+					},
+					{
+						"content": "LF",
+						"polygon": [
+							226,
+							361,
+							244,
+							361,
+							244,
+							375,
+							226,
+							375
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 155,
+							"length": 2
+						}
+					},
+					{
+						"content": "COTTAGE",
+						"polygon": [
+							256,
+							361,
+							322,
+							362,
+							322,
+							376,
+							256,
+							375
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 158,
+							"length": 7
+						}
+					},
+					{
+						"content": "CHEE",
+						"polygon": [
+							334,
+							362,
+							371,
+							363,
+							371,
+							376,
+							333,
+							376
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 166,
+							"length": 4
+						}
+					},
+					{
+						"content": "3.49",
+						"polygon": [
+							431,
+							363,
+							467,
+							362,
+							468,
+							375,
+							432,
+							376
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 171,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							480,
+							362,
+							487,
+							361,
+							488,
+							375,
+							481,
+							375
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 176,
+							"length": 1
+						}
+					},
+					{
+						"content": "MAHI",
+						"polygon": [
+							204,
+							383,
+							244,
+							382,
+							244,
+							397,
+							204,
+							397
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 178,
+							"length": 4
+						}
+					},
+					{
+						"content": "MAHI",
+						"polygon": [
+							253,
+							383,
+							294,
+							383,
+							294,
+							398,
+							253,
+							397
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 183,
+							"length": 4
+						}
+					},
+					{
+						"content": "FILLETS",
+						"polygon": [
+							303,
+							383,
+							371,
+							385,
+							371,
+							398,
+							303,
+							398
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 188,
+							"length": 7
+						}
+					},
+					{
+						"content": "8.99",
+						"polygon": [
+							432,
+							385,
+							469,
+							384,
+							469,
+							397,
+							432,
+							398
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 196,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							481,
+							384,
+							488,
+							383,
+							488,
+							397,
+							481,
+							397
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 201,
+							"length": 1
+						}
+					},
+					{
+						"content": "*VC",
+						"polygon": [
+							112,
+							405,
+							140,
+							405,
+							140,
+							418,
+							112,
+							418
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 203,
+							"length": 3
+						}
+					},
+					{
+						"content": "$2",
+						"polygon": [
+							193,
+							405,
+							211,
+							405,
+							212,
+							420,
+							193,
+							420
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 207,
+							"length": 2
+						}
+					},
+					{
+						"content": "off",
+						"polygon": [
+							222,
+							405,
+							251,
+							405,
+							251,
+							421,
+							223,
+							421
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 210,
+							"length": 3
+						}
+					},
+					{
+						"content": "(1)",
+						"polygon": [
+							263,
+							405,
+							295,
+							406,
+							295,
+							421,
+							263,
+							421
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 214,
+							"length": 3
+						}
+					},
+					{
+						"content": "WC",
+						"polygon": [
+							303,
+							406,
+							322,
+							406,
+							322,
+							421,
+							303,
+							421
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 218,
+							"length": 2
+						}
+					},
+					{
+						"content": "Fill",
+						"polygon": [
+							333,
+							406,
+							372,
+							406,
+							372,
+							422,
+							333,
+							421
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 221,
+							"length": 4
+						}
+					},
+					{
+						"content": "2.00-",
+						"polygon": [
+							434,
+							407,
+							480,
+							406,
+							481,
+							421,
+							435,
+							421
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 226,
+							"length": 5
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							110,
+							430,
+							115,
+							430,
+							115,
+							440,
+							110,
+							440
+						],
+						"confidence": 0.758,
+						"span": {
+							"offset": 232,
+							"length": 1
+						}
+					},
+					{
+						"content": "California",
+						"polygon": [
+							190,
+							429,
+							291,
+							429,
+							291,
+							445,
+							190,
+							444
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 234,
+							"length": 10
+						}
+					},
+					{
+						"content": "Harvest",
+						"polygon": [
+							302,
+							429,
+							372,
+							430,
+							372,
+							445,
+							302,
+							445
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 245,
+							"length": 7
+						}
+					},
+					{
+						"content": "2.69",
+						"polygon": [
+							435,
+							431,
+							472,
+							430,
+							473,
+							445,
+							436,
+							444
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 253,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							485,
+							430,
+							492,
+							429,
+							493,
+							445,
+							485,
+							445
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 258,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.08",
+						"polygon": [
+							116,
+							452,
+							155,
+							452,
+							155,
+							467,
+							116,
+							466
+						],
+						"confidence": 0.927,
+						"span": {
+							"offset": 260,
+							"length": 4
+						}
+					},
+					{
+						"content": "lb",
+						"polygon": [
+							168,
+							452,
+							185,
+							452,
+							185,
+							467,
+							168,
+							467
+						],
+						"confidence": 0.515,
+						"span": {
+							"offset": 265,
+							"length": 2
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							197,
+							452,
+							206,
+							452,
+							206,
+							467,
+							197,
+							467
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 268,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.99",
+						"polygon": [
+							221,
+							452,
+							258,
+							452,
+							258,
+							467,
+							221,
+							467
+						],
+						"confidence": 0.846,
+						"span": {
+							"offset": 270,
+							"length": 4
+						}
+					},
+					{
+						"content": "/lb",
+						"polygon": [
+							272,
+							452,
+							299,
+							453,
+							299,
+							467,
+							272,
+							467
+						],
+						"confidence": 0.539,
+						"span": {
+							"offset": 275,
+							"length": 3
+						}
+					},
+					{
+						"content": "TARE",
+						"polygon": [
+							376,
+							454,
+							412,
+							454,
+							412,
+							467,
+							376,
+							467
+						],
+						"confidence": 0.9,
+						"span": {
+							"offset": 279,
+							"length": 4
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							426,
+							454,
+							434,
+							454,
+							434,
+							467,
+							426,
+							467
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 284,
+							"length": 1
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							448,
+							454,
+							454,
+							454,
+							454,
+							468,
+							447,
+							467
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 286,
+							"length": 1
+						}
+					},
+					{
+						"content": "01",
+						"polygon": [
+							457,
+							454,
+							473,
+							454,
+							473,
+							468,
+							457,
+							468
+						],
+						"confidence": 0.279,
+						"span": {
+							"offset": 288,
+							"length": 2
+						}
+					},
+					{
+						"content": "*",
+						"polygon": [
+							101,
+							476,
+							108,
+							476,
+							108,
+							490,
+							102,
+							490
+						],
+						"confidence": 0.773,
+						"span": {
+							"offset": 291,
+							"length": 1
+						}
+					},
+					{
+						"content": "WT",
+						"polygon": [
+							111,
+							476,
+							131,
+							476,
+							131,
+							489,
+							111,
+							490
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 293,
+							"length": 2
+						}
+					},
+					{
+						"content": "PLUMS",
+						"polygon": [
+							227,
+							477,
+							279,
+							477,
+							280,
+							493,
+							227,
+							493
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 296,
+							"length": 5
+						}
+					},
+					{
+						"content": "BLACK",
+						"polygon": [
+							291,
+							478,
+							341,
+							477,
+							341,
+							493,
+							291,
+							493
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 302,
+							"length": 5
+						}
+					},
+					{
+						"content": "CV",
+						"polygon": [
+							355,
+							477,
+							373,
+							477,
+							373,
+							494,
+							354,
+							493
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 308,
+							"length": 2
+						}
+					},
+					{
+						"content": "2.15",
+						"polygon": [
+							439,
+							478,
+							476,
+							478,
+							476,
+							493,
+							439,
+							493
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 311,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							490,
+							478,
+							498,
+							478,
+							498,
+							493,
+							490,
+							493
+						],
+						"confidence": 0.849,
+						"span": {
+							"offset": 316,
+							"length": 1
+						}
+					},
+					{
+						"content": "ITEM",
+						"polygon": [
+							387,
+							501,
+							425,
+							502,
+							425,
+							518,
+							387,
+							518
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 318,
+							"length": 4
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							438,
+							502,
+							448,
+							502,
+							448,
+							517,
+							439,
+							517
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 323,
+							"length": 1
+						}
+					},
+					{
+						"content": "4040",
+						"polygon": [
+							460,
+							502,
+							499,
+							501,
+							500,
+							517,
+							461,
+							517
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 325,
+							"length": 4
+						}
+					},
+					{
+						"content": "NHP",
+						"polygon": [
+							178,
+							552,
+							208,
+							552,
+							209,
+							568,
+							179,
+							569
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 330,
+							"length": 3
+						}
+					},
+					{
+						"content": "SLICED",
+						"polygon": [
+							222,
+							552,
+							285,
+							552,
+							286,
+							568,
+							223,
+							568
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 334,
+							"length": 6
+						}
+					},
+					{
+						"content": "OVEN",
+						"polygon": [
+							298,
+							552,
+							340,
+							552,
+							340,
+							569,
+							299,
+							568
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 341,
+							"length": 4
+						}
+					},
+					{
+						"content": "RO",
+						"polygon": [
+							353,
+							552,
+							373,
+							552,
+							373,
+							569,
+							353,
+							569
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 346,
+							"length": 2
+						}
+					},
+					{
+						"content": "3.99",
+						"polygon": [
+							442,
+							552,
+							482,
+							552,
+							483,
+							568,
+							443,
+							567
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 349,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							495,
+							552,
+							504,
+							551,
+							504,
+							569,
+							495,
+							569
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 354,
+							"length": 1
+						}
+					},
+					{
+						"content": "NHP",
+						"polygon": [
+							176,
+							580,
+							206,
+							580,
+							207,
+							597,
+							177,
+							597
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 356,
+							"length": 3
+						}
+					},
+					{
+						"content": "SLICED",
+						"polygon": [
+							221,
+							580,
+							286,
+							580,
+							287,
+							597,
+							221,
+							597
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 360,
+							"length": 6
+						}
+					},
+					{
+						"content": "HICKORY",
+						"polygon": [
+							297,
+							580,
+							375,
+							580,
+							376,
+							597,
+							298,
+							597
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 367,
+							"length": 7
+						}
+					},
+					{
+						"content": "3.99",
+						"polygon": [
+							443,
+							579,
+							484,
+							579,
+							485,
+							596,
+							444,
+							595
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 375,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							497,
+							578,
+							506,
+							578,
+							506,
+							596,
+							497,
+							596
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 380,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.64",
+						"polygon": [
+							98,
+							607,
+							141,
+							608,
+							141,
+							625,
+							98,
+							625
+						],
+						"confidence": 0.943,
+						"span": {
+							"offset": 382,
+							"length": 4
+						}
+					},
+					{
+						"content": "lb",
+						"polygon": [
+							154,
+							608,
+							172,
+							608,
+							172,
+							625,
+							154,
+							625
+						],
+						"confidence": 0.51,
+						"span": {
+							"offset": 387,
+							"length": 2
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							185,
+							608,
+							195,
+							608,
+							195,
+							625,
+							185,
+							625
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 390,
+							"length": 1
+						}
+					},
+					{
+						"content": "1.99",
+						"polygon": [
+							210,
+							608,
+							252,
+							608,
+							252,
+							625,
+							210,
+							625
+						],
+						"confidence": 0.808,
+						"span": {
+							"offset": 392,
+							"length": 4
+						}
+					},
+					{
+						"content": "/lb",
+						"polygon": [
+							267,
+							608,
+							297,
+							608,
+							297,
+							625,
+							267,
+							625
+						],
+						"confidence": 0.534,
+						"span": {
+							"offset": 397,
+							"length": 3
+						}
+					},
+					{
+						"content": "TARE",
+						"polygon": [
+							378,
+							608,
+							418,
+							608,
+							418,
+							623,
+							379,
+							625
+						],
+						"confidence": 0.9,
+						"span": {
+							"offset": 401,
+							"length": 4
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							433,
+							608,
+							441,
+							608,
+							441,
+							623,
+							433,
+							623
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 406,
+							"length": 1
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							456,
+							608,
+							462,
+							608,
+							462,
+							623,
+							456,
+							623
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 408,
+							"length": 1
+						}
+					},
+					{
+						"content": "01",
+						"polygon": [
+							465,
+							608,
+							483,
+							607,
+							483,
+							624,
+							465,
+							623
+						],
+						"confidence": 0.279,
+						"span": {
+							"offset": 410,
+							"length": 2
+						}
+					},
+					{
+						"content": "WT",
+						"polygon": [
+							84,
+							636,
+							102,
+							636,
+							102,
+							652,
+							84,
+							651
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 413,
+							"length": 2
+						}
+					},
+					{
+						"content": "GALA",
+						"polygon": [
+							219,
+							636,
+							261,
+							637,
+							261,
+							654,
+							219,
+							654
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 416,
+							"length": 4
+						}
+					},
+					{
+						"content": "APPLES",
+						"polygon": [
+							274,
+							637,
+							341,
+							637,
+							341,
+							654,
+							274,
+							654
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 421,
+							"length": 6
+						}
+					},
+					{
+						"content": "OG",
+						"polygon": [
+							354,
+							636,
+							375,
+							636,
+							375,
+							654,
+							354,
+							654
+						],
+						"confidence": 0.934,
+						"span": {
+							"offset": 428,
+							"length": 2
+						}
+					},
+					{
+						"content": "3.26",
+						"polygon": [
+							446,
+							635,
+							488,
+							634,
+							489,
+							652,
+							447,
+							651
+						],
+						"confidence": 0.939,
+						"span": {
+							"offset": 431,
+							"length": 4
+						}
+					},
+					{
+						"content": "B",
+						"polygon": [
+							502,
+							634,
+							511,
+							634,
+							512,
+							652,
+							503,
+							652
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 436,
+							"length": 1
+						}
+					},
+					{
+						"content": "ITEM",
+						"polygon": [
+							379,
+							663,
+							421,
+							663,
+							422,
+							682,
+							379,
+							683
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 438,
+							"length": 4
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							434,
+							663,
+							446,
+							663,
+							446,
+							682,
+							435,
+							682
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 443,
+							"length": 1
+						}
+					},
+					{
+						"content": "94135",
+						"polygon": [
+							460,
+							662,
+							515,
+							662,
+							516,
+							682,
+							460,
+							682
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 445,
+							"length": 5
+						}
+					},
+					{
+						"content": "****",
+						"polygon": [
+							108,
+							725,
+							154,
+							725,
+							154,
+							743,
+							108,
+							743
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 451,
+							"length": 4
+						}
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							169,
+							725,
+							202,
+							725,
+							202,
+							744,
+							169,
+							743
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 456,
+							"length": 3
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							243,
+							723,
+							247,
+							723,
+							247,
+							746,
+							243,
+							746
+						],
+						"confidence": 0.95,
+						"span": {
+							"offset": 460,
+							"length": 1
+						}
+					},
+					{
+						"content": "93",
+						"polygon": [
+							252,
+							723,
+							274,
+							723,
+							274,
+							746,
+							252,
+							746
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 462,
+							"length": 2
+						}
+					},
+					{
+						"content": "BAL",
+						"polygon": [
+							311,
+							723,
+							346,
+							723,
+							347,
+							745,
+							311,
+							746
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 465,
+							"length": 3
+						}
+					},
+					{
+						"content": "45.44",
+						"polygon": [
+							446,
+							723,
+							506,
+							722,
+							507,
+							743,
+							447,
+							743
+						],
+						"confidence": 0.853,
+						"span": {
+							"offset": 469,
+							"length": 5
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "WHOLE",
+						"polygon": [
+							236,
+							91,
+							387,
+							89,
+							388,
+							130,
+							236,
+							132
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "FOODS",
+						"polygon": [
+							238,
+							130,
+							387,
+							128,
+							387,
+							161,
+							238,
+							163
+						],
+						"spans": [
+							{
+								"offset": 6,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "MARKET",
+						"polygon": [
+							231,
+							164,
+							390,
+							164,
+							390,
+							178,
+							231,
+							178
+						],
+						"spans": [
+							{
+								"offset": 12,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "SHARON RD.",
+						"polygon": [
+							232,
+							198,
+							379,
+							199,
+							379,
+							222,
+							232,
+							221
+						],
+						"spans": [
+							{
+								"offset": 19,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "PL TORTILLA'S",
+						"polygon": [
+							252,
+							259,
+							370,
+							260,
+							370,
+							274,
+							251,
+							274
+						],
+						"spans": [
+							{
+								"offset": 30,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "6.99 B",
+						"polygon": [
+							424,
+							261,
+							479,
+							258,
+							480,
+							271,
+							424,
+							273
+						],
+						"spans": [
+							{
+								"offset": 44,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "*",
+						"polygon": [
+							141,
+							264,
+							141,
+							275,
+							133,
+							275,
+							134,
+							264
+						],
+						"spans": [
+							{
+								"offset": 51,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "CAGE FREE ALL WHIT",
+						"polygon": [
+							205,
+							279,
+							370,
+							280,
+							370,
+							293,
+							205,
+							292
+						],
+						"spans": [
+							{
+								"offset": 53,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "*",
+						"polygon": [
+							140,
+							281,
+							139,
+							295,
+							131,
+							294,
+							132,
+							280
+						],
+						"spans": [
+							{
+								"offset": 72,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "3.69 B",
+						"polygon": [
+							425,
+							280,
+							481,
+							278,
+							481,
+							291,
+							426,
+							293
+						],
+						"spans": [
+							{
+								"offset": 74,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "BLACK BEANS",
+						"polygon": [
+							268,
+							299,
+							372,
+							300,
+							372,
+							313,
+							268,
+							313
+						],
+						"spans": [
+							{
+								"offset": 81,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "1.29 B",
+						"polygon": [
+							428,
+							300,
+							482,
+							298,
+							483,
+							311,
+							429,
+							313
+						],
+						"spans": [
+							{
+								"offset": 93,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Frozen Mangoes 160",
+						"polygon": [
+							200,
+							318,
+							372,
+							320,
+							372,
+							334,
+							200,
+							332
+						],
+						"spans": [
+							{
+								"offset": 100,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "2.99 B",
+						"polygon": [
+							428,
+							320,
+							483,
+							318,
+							484,
+							331,
+							429,
+							333
+						],
+						"spans": [
+							{
+								"offset": 119,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Whole Strawberries",
+						"polygon": [
+							198,
+							339,
+							373,
+							341,
+							372,
+							355,
+							198,
+							353
+						],
+						"spans": [
+							{
+								"offset": 126,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "2.99 B",
+						"polygon": [
+							428,
+							341,
+							486,
+							339,
+							486,
+							353,
+							429,
+							354
+						],
+						"spans": [
+							{
+								"offset": 145,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "OG LF COTTAGE CHEE",
+						"polygon": [
+							195,
+							360,
+							371,
+							361,
+							371,
+							376,
+							195,
+							375
+						],
+						"spans": [
+							{
+								"offset": 152,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "3.49 B",
+						"polygon": [
+							430,
+							362,
+							488,
+							361,
+							488,
+							374,
+							430,
+							375
+						],
+						"spans": [
+							{
+								"offset": 171,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "MAHI MAHI FILLETS",
+						"polygon": [
+							203,
+							382,
+							372,
+							383,
+							372,
+							398,
+							203,
+							396
+						],
+						"spans": [
+							{
+								"offset": 178,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "8.99 B",
+						"polygon": [
+							431,
+							384,
+							489,
+							383,
+							490,
+							397,
+							431,
+							398
+						],
+						"spans": [
+							{
+								"offset": 196,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "*VC",
+						"polygon": [
+							112,
+							406,
+							141,
+							405,
+							141,
+							418,
+							113,
+							417
+						],
+						"spans": [
+							{
+								"offset": 203,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "$2 off (1) WC Fill",
+						"polygon": [
+							192,
+							405,
+							372,
+							405,
+							372,
+							421,
+							192,
+							420
+						],
+						"spans": [
+							{
+								"offset": 207,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "2.00-",
+						"polygon": [
+							432,
+							406,
+							481,
+							406,
+							481,
+							420,
+							432,
+							421
+						],
+						"spans": [
+							{
+								"offset": 226,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "*",
+						"polygon": [
+							108,
+							430,
+							117,
+							430,
+							117,
+							440,
+							108,
+							440
+						],
+						"spans": [
+							{
+								"offset": 232,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "California Harvest",
+						"polygon": [
+							189,
+							429,
+							372,
+							429,
+							372,
+							445,
+							189,
+							444
+						],
+						"spans": [
+							{
+								"offset": 234,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "2.69 B",
+						"polygon": [
+							433,
+							429,
+							494,
+							429,
+							494,
+							444,
+							433,
+							444
+						],
+						"spans": [
+							{
+								"offset": 253,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "1.08 lb @ 1.99 /lb",
+						"polygon": [
+							116,
+							451,
+							301,
+							452,
+							301,
+							467,
+							116,
+							466
+						],
+						"spans": [
+							{
+								"offset": 260,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "TARE = . 01",
+						"polygon": [
+							376,
+							453,
+							473,
+							453,
+							473,
+							467,
+							376,
+							467
+						],
+						"spans": [
+							{
+								"offset": 279,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "* WT",
+						"polygon": [
+							101,
+							477,
+							131,
+							476,
+							131,
+							490,
+							101,
+							490
+						],
+						"spans": [
+							{
+								"offset": 291,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "PLUMS BLACK CV",
+						"polygon": [
+							227,
+							476,
+							375,
+							476,
+							374,
+							493,
+							227,
+							492
+						],
+						"spans": [
+							{
+								"offset": 296,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "2.15 B",
+						"polygon": [
+							437,
+							477,
+							498,
+							477,
+							498,
+							493,
+							437,
+							492
+						],
+						"spans": [
+							{
+								"offset": 311,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "ITEM = 4040",
+						"polygon": [
+							386,
+							501,
+							501,
+							501,
+							501,
+							517,
+							386,
+							517
+						],
+						"spans": [
+							{
+								"offset": 318,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "NHP SLICED OVEN RO",
+						"polygon": [
+							178,
+							551,
+							375,
+							551,
+							375,
+							568,
+							178,
+							568
+						],
+						"spans": [
+							{
+								"offset": 330,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "3.99 B",
+						"polygon": [
+							442,
+							551,
+							505,
+							551,
+							505,
+							568,
+							442,
+							567
+						],
+						"spans": [
+							{
+								"offset": 349,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "NHP SLICED HICKORY",
+						"polygon": [
+							176,
+							579,
+							375,
+							579,
+							375,
+							596,
+							176,
+							596
+						],
+						"spans": [
+							{
+								"offset": 356,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "3.99 B",
+						"polygon": [
+							443,
+							578,
+							507,
+							578,
+							507,
+							595,
+							443,
+							595
+						],
+						"spans": [
+							{
+								"offset": 375,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "1.64 lb @ 1.99 /lb",
+						"polygon": [
+							97,
+							607,
+							298,
+							607,
+							298,
+							625,
+							97,
+							624
+						],
+						"spans": [
+							{
+								"offset": 382,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "TARE = . 01",
+						"polygon": [
+							377,
+							607,
+							483,
+							606,
+							483,
+							623,
+							377,
+							624
+						],
+						"spans": [
+							{
+								"offset": 401,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "WT",
+						"polygon": [
+							84,
+							636,
+							103,
+							636,
+							103,
+							652,
+							84,
+							651
+						],
+						"spans": [
+							{
+								"offset": 413,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "GALA APPLES OG",
+						"polygon": [
+							219,
+							635,
+							375,
+							635,
+							375,
+							653,
+							219,
+							653
+						],
+						"spans": [
+							{
+								"offset": 416,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "3.26 B",
+						"polygon": [
+							446,
+							634,
+							513,
+							634,
+							513,
+							651,
+							446,
+							651
+						],
+						"spans": [
+							{
+								"offset": 431,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "ITEM = 94135",
+						"polygon": [
+							377,
+							663,
+							517,
+							662,
+							518,
+							681,
+							377,
+							682
+						],
+						"spans": [
+							{
+								"offset": 438,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "****",
+						"polygon": [
+							108,
+							725,
+							161,
+							725,
+							161,
+							743,
+							108,
+							743
+						],
+						"spans": [
+							{
+								"offset": 451,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							167,
+							725,
+							203,
+							725,
+							203,
+							744,
+							167,
+							742
+						],
+						"spans": [
+							{
+								"offset": 456,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": ". 93",
+						"polygon": [
+							243,
+							723,
+							274,
+							723,
+							274,
+							746,
+							243,
+							746
+						],
+						"spans": [
+							{
+								"offset": 460,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "BAL",
+						"polygon": [
+							310,
+							724,
+							346,
+							723,
+							347,
+							746,
+							310,
+							746
+						],
+						"spans": [
+							{
+								"offset": 465,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "45.44",
+						"polygon": [
+							446,
+							722,
+							507,
+							722,
+							507,
+							743,
+							446,
+							743
+						],
+						"spans": [
+							{
+								"offset": 469,
+								"length": 5
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 474
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.3,
+				"spans": [
+					{
+						"offset": 203,
+						"length": 3
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"languages": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 5
+					},
+					{
+						"offset": 53,
+						"length": 18
+					},
+					{
+						"offset": 126,
+						"length": 18
+					},
+					{
+						"offset": 234,
+						"length": 18
+					},
+					{
+						"offset": 296,
+						"length": 14
+					},
+					{
+						"offset": 318,
+						"length": 30
+					},
+					{
+						"offset": 356,
+						"length": 18
+					},
+					{
+						"offset": 438,
+						"length": 12
+					}
+				],
+				"locale": "en",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 6,
+						"length": 5
+					},
+					{
+						"offset": 81,
+						"length": 11
+					},
+					{
+						"offset": 207,
+						"length": 18
+					},
+					{
+						"offset": 456,
+						"length": 3
+					}
+				],
+				"locale": "en",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 12,
+						"length": 6
+					}
+				],
+				"locale": "en",
+				"confidence": 0.99
+			},
+			{
+				"spans": [
+					{
+						"offset": 19,
+						"length": 10
+					}
+				],
+				"locale": "en",
+				"confidence": 0.5
+			},
+			{
+				"spans": [
+					{
+						"offset": 30,
+						"length": 13
+					}
+				],
+				"locale": "es",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 44,
+						"length": 6
+					},
+					{
+						"offset": 74,
+						"length": 6
+					},
+					{
+						"offset": 93,
+						"length": 6
+					},
+					{
+						"offset": 119,
+						"length": 6
+					},
+					{
+						"offset": 145,
+						"length": 6
+					},
+					{
+						"offset": 171,
+						"length": 6
+					},
+					{
+						"offset": 196,
+						"length": 6
+					},
+					{
+						"offset": 253,
+						"length": 6
+					},
+					{
+						"offset": 291,
+						"length": 4
+					},
+					{
+						"offset": 311,
+						"length": 6
+					},
+					{
+						"offset": 349,
+						"length": 6
+					},
+					{
+						"offset": 375,
+						"length": 6
+					},
+					{
+						"offset": 413,
+						"length": 2
+					},
+					{
+						"offset": 431,
+						"length": 6
+					}
+				],
+				"locale": "en",
+				"confidence": 0.3
+			},
+			{
+				"spans": [
+					{
+						"offset": 100,
+						"length": 18
+					}
+				],
+				"locale": "en",
+				"confidence": 0.8
+			},
+			{
+				"spans": [
+					{
+						"offset": 152,
+						"length": 18
+					},
+					{
+						"offset": 416,
+						"length": 14
+					}
+				],
+				"locale": "is",
+				"confidence": 0.7
+			},
+			{
+				"spans": [
+					{
+						"offset": 178,
+						"length": 17
+					}
+				],
+				"locale": "mi",
+				"confidence": 1
+			},
+			{
+				"spans": [
+					{
+						"offset": 203,
+						"length": 3
+					}
+				],
+				"locale": "en",
+				"confidence": 0.2
+			},
+			{
+				"spans": [
+					{
+						"offset": 260,
+						"length": 18
+					},
+					{
+						"offset": 382,
+						"length": 18
+					}
+				],
+				"locale": "bs",
+				"confidence": 0.95
+			},
+			{
+				"spans": [
+					{
+						"offset": 279,
+						"length": 11
+					},
+					{
+						"offset": 401,
+						"length": 11
+					}
+				],
+				"locale": "ha",
+				"confidence": 0.5
+			},
+			{
+				"spans": [
+					{
+						"offset": 465,
+						"length": 3
+					}
+				],
+				"locale": "fr",
+				"confidence": 0.2
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							622,
+							0,
+							622,
+							768,
+							0,
+							768
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "PL TORTILLA'S",
+										"content": "PL TORTILLA'S",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													252,
+													260,
+													370,
+													261,
+													370,
+													275,
+													252,
+													274
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 30,
+												"length": 13
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "6.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													425,
+													261,
+													459,
+													260,
+													460,
+													272,
+													426,
+													274
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 44,
+												"length": 4
+											}
+										],
+										"valueNumber": 6.99
+									}
+								},
+								"content": "PL TORTILLA'S\n6.99 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											252,
+											259,
+											478,
+											259,
+											478,
+											274,
+											252,
+											274
+										]
+									}
+								],
+								"confidence": 0.968,
+								"spans": [
+									{
+										"offset": 30,
+										"length": 20
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "CAGE FREE ALL WHIT",
+										"content": "CAGE FREE ALL WHIT",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													205,
+													279,
+													370,
+													281,
+													370,
+													295,
+													205,
+													293
+												]
+											}
+										],
+										"confidence": 0.94,
+										"spans": [
+											{
+												"offset": 53,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.69",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													426,
+													280,
+													461,
+													279,
+													461,
+													292,
+													427,
+													294
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 74,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.69
+									}
+								},
+								"content": "*\nCAGE FREE ALL WHIT\n3.69 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											133,
+											265,
+											480,
+											265,
+											480,
+											294,
+											133,
+											294
+										]
+									}
+								],
+								"confidence": 0.86,
+								"spans": [
+									{
+										"offset": 51,
+										"length": 20
+									},
+									{
+										"offset": 74,
+										"length": 6
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "BLACK BEANS",
+										"content": "BLACK BEANS",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													269,
+													299,
+													370,
+													300,
+													370,
+													315,
+													269,
+													313
+												]
+											}
+										],
+										"confidence": 0.847,
+										"spans": [
+											{
+												"offset": 81,
+												"length": 11
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1.29",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													429,
+													300,
+													463,
+													299,
+													463,
+													312,
+													429,
+													313
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 93,
+												"length": 4
+											}
+										],
+										"valueNumber": 1.29
+									}
+								},
+								"content": "*\nBLACK BEANS\n1.29 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											132,
+											285,
+											482,
+											285,
+											482,
+											314,
+											132,
+											314
+										]
+									}
+								],
+								"confidence": 0.628,
+								"spans": [
+									{
+										"offset": 72,
+										"length": 1
+									},
+									{
+										"offset": 81,
+										"length": 18
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Frozen Mangoes 160",
+										"content": "Frozen Mangoes 160",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													200,
+													318,
+													370,
+													321,
+													370,
+													336,
+													200,
+													333
+												]
+											}
+										],
+										"confidence": 0.977,
+										"spans": [
+											{
+												"offset": 100,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													429,
+													321,
+													463,
+													319,
+													464,
+													332,
+													430,
+													334
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 119,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.99
+									}
+								},
+								"content": "Frozen Mangoes 160\n2.99 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											200,
+											315,
+											483,
+											318,
+											483,
+											336,
+											200,
+											333
+										]
+									}
+								],
+								"confidence": 0.969,
+								"spans": [
+									{
+										"offset": 100,
+										"length": 25
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Whole Strawberries",
+										"content": "Whole Strawberries",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													198,
+													339,
+													370,
+													341,
+													370,
+													356,
+													198,
+													354
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 126,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													430,
+													341,
+													466,
+													340,
+													467,
+													354,
+													431,
+													355
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 145,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.99
+									}
+								},
+								"content": "Whole Strawberries\n2.99 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											198,
+											337,
+											486,
+											340,
+											486,
+											357,
+											198,
+											354
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 126,
+										"length": 25
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "OG LF COTTAGE CHEE",
+										"content": "OG LF COTTAGE CHEE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													197,
+													360,
+													371,
+													362,
+													371,
+													377,
+													197,
+													375
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 152,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.49",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													431,
+													363,
+													467,
+													362,
+													468,
+													375,
+													432,
+													376
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 171,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.49
+									}
+								},
+								"content": "OG LF COTTAGE CHEE\n3.49 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											197,
+											361,
+											488,
+											361,
+											488,
+											376,
+											197,
+											376
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 152,
+										"length": 25
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "MAHI MAHI FILLETS",
+										"content": "MAHI MAHI FILLETS",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													204,
+													382,
+													371,
+													384,
+													371,
+													399,
+													204,
+													397
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 178,
+												"length": 17
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "8.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													432,
+													385,
+													469,
+													384,
+													469,
+													397,
+													432,
+													398
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 196,
+												"length": 4
+											}
+										],
+										"valueNumber": 8.99
+									}
+								},
+								"content": "MAHI MAHI FILLETS\n8.99 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											204,
+											383,
+											488,
+											379,
+											488,
+											397,
+											204,
+											401
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 178,
+										"length": 24
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "$2 off (1) WC Fill",
+										"content": "$2 off (1) WC Fill",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													193,
+													405,
+													372,
+													405,
+													372,
+													422,
+													193,
+													422
+												]
+											}
+										],
+										"confidence": 0.977,
+										"spans": [
+											{
+												"offset": 207,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.00-",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													434,
+													407,
+													480,
+													406,
+													481,
+													421,
+													435,
+													421
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 226,
+												"length": 5
+											}
+										],
+										"valueNumber": -2
+									}
+								},
+								"content": "*VC\n$2 off (1) WC Fill\n2.00-",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											112,
+											405,
+											481,
+											405,
+											481,
+											422,
+											112,
+											422
+										]
+									}
+								],
+								"confidence": 0.971,
+								"spans": [
+									{
+										"offset": 203,
+										"length": 28
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "California Harvest",
+										"content": "California Harvest",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													190,
+													428,
+													372,
+													430,
+													372,
+													446,
+													190,
+													444
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 234,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.69",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													435,
+													431,
+													472,
+													430,
+													473,
+													445,
+													436,
+													444
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 253,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.69
+									}
+								},
+								"content": "*\nCalifornia Harvest\n2.69 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											110,
+											429,
+											493,
+											429,
+											493,
+											445,
+											110,
+											445
+										]
+									}
+								],
+								"confidence": 0.965,
+								"spans": [
+									{
+										"offset": 232,
+										"length": 27
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "PLUMS BLACK CV",
+										"content": "PLUMS BLACK CV",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													227,
+													477,
+													373,
+													477,
+													373,
+													494,
+													227,
+													494
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 296,
+												"length": 14
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "1.99 /lb",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													221,
+													451,
+													299,
+													453,
+													299,
+													468,
+													221,
+													467
+												]
+											}
+										],
+										"confidence": 0.982,
+										"spans": [
+											{
+												"offset": 270,
+												"length": 8
+											}
+										],
+										"valueNumber": 1.99
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1.08,
+										"content": "1.08",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													116,
+													452,
+													155,
+													452,
+													155,
+													467,
+													116,
+													466
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 260,
+												"length": 4
+											}
+										]
+									},
+									"QuantityUnit": {
+										"type": "string",
+										"valueString": "lb",
+										"content": "lb",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													168,
+													452,
+													185,
+													452,
+													185,
+													467,
+													168,
+													467
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 265,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "2.15",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													439,
+													478,
+													476,
+													478,
+													476,
+													493,
+													439,
+													493
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 311,
+												"length": 4
+											}
+										],
+										"valueNumber": 2.15
+									}
+								},
+								"content": "1.08 lb @ 1.99 /lb\nTARE = . 01\n* WT\nPLUMS BLACK CV\n2.15 B\nITEM = 4040",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											101,
+											452,
+											500,
+											452,
+											500,
+											518,
+											101,
+											518
+										]
+									}
+								],
+								"confidence": 0.904,
+								"spans": [
+									{
+										"offset": 260,
+										"length": 69
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "NHP SLICED OVEN RO",
+										"content": "NHP SLICED OVEN RO",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													178,
+													552,
+													373,
+													552,
+													373,
+													569,
+													178,
+													569
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 330,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													442,
+													552,
+													482,
+													552,
+													483,
+													568,
+													443,
+													567
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 349,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.99
+									}
+								},
+								"content": "NHP SLICED OVEN RO\n3.99 B",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											178,
+											551,
+											504,
+											551,
+											504,
+											569,
+											178,
+											569
+										]
+									}
+								],
+								"confidence": 0.974,
+								"spans": [
+									{
+										"offset": 330,
+										"length": 25
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "NHP SLICED HICKORY",
+										"content": "NHP SLICED HICKORY",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													176,
+													580,
+													376,
+													580,
+													376,
+													597,
+													176,
+													597
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 356,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.99",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													443,
+													579,
+													484,
+													579,
+													485,
+													596,
+													444,
+													595
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 375,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.99
+									}
+								},
+								"content": "NHP SLICED HICKORY\n3.99 B\n01",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											176,
+											578,
+											506,
+											578,
+											506,
+											624,
+											176,
+											624
+										]
+									}
+								],
+								"confidence": 0.971,
+								"spans": [
+									{
+										"offset": 356,
+										"length": 25
+									},
+									{
+										"offset": 410,
+										"length": 2
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "GALA APPLES OG",
+										"content": "GALA APPLES OG",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													219,
+													636,
+													375,
+													636,
+													375,
+													654,
+													219,
+													654
+												]
+											}
+										],
+										"confidence": 0.978,
+										"spans": [
+											{
+												"offset": 416,
+												"length": 14
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "1.99 /lb",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													210,
+													608,
+													297,
+													608,
+													297,
+													625,
+													210,
+													625
+												]
+											}
+										],
+										"confidence": 0.982,
+										"spans": [
+											{
+												"offset": 392,
+												"length": 8
+											}
+										],
+										"valueNumber": 1.99
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1.64,
+										"content": "1.64",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													98,
+													607,
+													141,
+													608,
+													141,
+													625,
+													98,
+													625
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 382,
+												"length": 4
+											}
+										]
+									},
+									"QuantityUnit": {
+										"type": "string",
+										"valueString": "lb",
+										"content": "lb",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													154,
+													608,
+													172,
+													608,
+													172,
+													625,
+													154,
+													625
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 387,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "3.26",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													446,
+													635,
+													488,
+													634,
+													489,
+													652,
+													447,
+													651
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 431,
+												"length": 4
+											}
+										],
+										"valueNumber": 3.26
+									}
+								},
+								"content": "1.64 lb @ 1.99 /lb\nTARE\n.\nWT\nGALA APPLES OG\n3.26 B\nITEM = 94135",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											84,
+											607,
+											516,
+											607,
+											516,
+											683,
+											84,
+											683
+										]
+									}
+								],
+								"confidence": 0.917,
+								"spans": [
+									{
+										"offset": 382,
+										"length": 23
+									},
+									{
+										"offset": 408,
+										"length": 1
+									},
+									{
+										"offset": 413,
+										"length": 37
+									}
+								]
+							}
+						]
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "WHOLE\nFOODS",
+						"content": "WHOLE\nFOODS",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									236,
+									91,
+									381,
+									89,
+									382,
+									162,
+									236,
+									164
+								]
+							}
+						],
+						"confidence": 0.959,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 11
+							}
+						]
+					},
+					"TotalTax": {
+						"type": "number",
+						"content": "93",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									252,
+									723,
+									274,
+									723,
+									274,
+									746,
+									252,
+									746
+								]
+							}
+						],
+						"confidence": 0.986,
+						"spans": [
+							{
+								"offset": 462,
+								"length": 2
+							}
+						],
+						"valueNumber": 93
+					}
+				},
+				"confidence": 0.994,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 474
+					}
+				]
+			}
+		]
+	}
+}
