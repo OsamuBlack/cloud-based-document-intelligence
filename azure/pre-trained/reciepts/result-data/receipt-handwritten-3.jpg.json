@@ -1,0 +1,3074 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-18T06:21:43Z",
+	"lastUpdatedDateTime": "2024-04-18T06:21:57Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Ed Clerk\nORDER NO.\nDATE\nSOLD TO\nFertigs\n4/15/1980\nADDRESS\nLivingston\nSHIP TO\nNJ\nADDRESS\nSALESMAN\nSHIP VIA\nWHEN\nTERMS\nF. O. B.\nMULTI COLORED\nShaker carner (WOOD)\n110 00-\nblue + white wool shaker\nblanket 80 x 66\n195 00.\n-\nPea for hangers\n45,00\nbutton hole cutter\n8500\nShaker dressed doll\nin case from N.H.\nShaker collection\n350,00\n785 00\nShaker rua\n8500\n870,00\n# 054246645\nNU\nPURCHASED BY\nWJ\nGRAYLINE FORMS S9458 DUPLICATE - S9558 TISSUE TRIPLICATE\nU.S. A.",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0.16034209728240967,
+				"width": 1139,
+				"height": 1600,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Ed",
+						"polygon": [
+							113,
+							34,
+							211,
+							32,
+							211,
+							105,
+							113,
+							103
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 0,
+							"length": 2
+						}
+					},
+					{
+						"content": "Clerk",
+						"polygon": [
+							256,
+							32,
+							410,
+							31,
+							412,
+							105,
+							257,
+							105
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 3,
+							"length": 5
+						}
+					},
+					{
+						"content": "ORDER",
+						"polygon": [
+							662,
+							173,
+							740,
+							174,
+							740,
+							199,
+							662,
+							199
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 9,
+							"length": 5
+						}
+					},
+					{
+						"content": "NO.",
+						"polygon": [
+							748,
+							174,
+							801,
+							173,
+							801,
+							199,
+							748,
+							199
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 15,
+							"length": 3
+						}
+					},
+					{
+						"content": "DATE",
+						"polygon": [
+							790,
+							212,
+							834,
+							212,
+							834,
+							231,
+							790,
+							230
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 19,
+							"length": 4
+						}
+					},
+					{
+						"content": "SOLD",
+						"polygon": [
+							44,
+							237,
+							102,
+							237,
+							102,
+							262,
+							44,
+							262
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 24,
+							"length": 4
+						}
+					},
+					{
+						"content": "TO",
+						"polygon": [
+							119,
+							237,
+							145,
+							237,
+							145,
+							262,
+							119,
+							262
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 29,
+							"length": 2
+						}
+					},
+					{
+						"content": "Fertigs",
+						"polygon": [
+							311,
+							261,
+							532,
+							262,
+							532,
+							327,
+							309,
+							321
+						],
+						"confidence": 0.699,
+						"span": {
+							"offset": 32,
+							"length": 7
+						}
+					},
+					{
+						"content": "4/15/1980",
+						"polygon": [
+							836,
+							210,
+							1069,
+							207,
+							1071,
+							267,
+							836,
+							263
+						],
+						"confidence": 0.558,
+						"span": {
+							"offset": 40,
+							"length": 9
+						}
+					},
+					{
+						"content": "ADDRESS",
+						"polygon": [
+							49,
+							297,
+							154,
+							297,
+							154,
+							322,
+							49,
+							321
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 50,
+							"length": 7
+						}
+					},
+					{
+						"content": "Livingston",
+						"polygon": [
+							357,
+							329,
+							709,
+							329,
+							709,
+							381,
+							358,
+							384
+						],
+						"confidence": 0.516,
+						"span": {
+							"offset": 58,
+							"length": 10
+						}
+					},
+					{
+						"content": "SHIP",
+						"polygon": [
+							53,
+							355,
+							105,
+							355,
+							105,
+							379,
+							54,
+							378
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 69,
+							"length": 4
+						}
+					},
+					{
+						"content": "TO",
+						"polygon": [
+							117,
+							355,
+							142,
+							355,
+							142,
+							379,
+							118,
+							379
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 74,
+							"length": 2
+						}
+					},
+					{
+						"content": "NJ",
+						"polygon": [
+							572,
+							386,
+							701,
+							380,
+							703,
+							443,
+							572,
+							443
+						],
+						"confidence": 0.597,
+						"span": {
+							"offset": 77,
+							"length": 2
+						}
+					},
+					{
+						"content": "ADDRESS",
+						"polygon": [
+							44,
+							415,
+							150,
+							415,
+							149,
+							439,
+							45,
+							439
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 80,
+							"length": 7
+						}
+					},
+					{
+						"content": "SALESMAN",
+						"polygon": [
+							69,
+							458,
+							149,
+							458,
+							149,
+							475,
+							70,
+							474
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 88,
+							"length": 8
+						}
+					},
+					{
+						"content": "SHIP",
+						"polygon": [
+							389,
+							460,
+							425,
+							460,
+							425,
+							477,
+							389,
+							477
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 97,
+							"length": 4
+						}
+					},
+					{
+						"content": "VIA",
+						"polygon": [
+							432,
+							460,
+							458,
+							460,
+							458,
+							477,
+							432,
+							477
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 102,
+							"length": 3
+						}
+					},
+					{
+						"content": "WHEN",
+						"polygon": [
+							581,
+							460,
+							629,
+							460,
+							629,
+							477,
+							581,
+							477
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 106,
+							"length": 4
+						}
+					},
+					{
+						"content": "TERMS",
+						"polygon": [
+							734,
+							460,
+							783,
+							460,
+							783,
+							476,
+							734,
+							475
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 111,
+							"length": 5
+						}
+					},
+					{
+						"content": "F.",
+						"polygon": [
+							918,
+							460,
+							933,
+							460,
+							933,
+							476,
+							918,
+							476
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 117,
+							"length": 2
+						}
+					},
+					{
+						"content": "O.",
+						"polygon": [
+							936,
+							460,
+							957,
+							459,
+							957,
+							477,
+							936,
+							476
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 120,
+							"length": 2
+						}
+					},
+					{
+						"content": "B.",
+						"polygon": [
+							961,
+							459,
+							975,
+							459,
+							975,
+							478,
+							961,
+							477
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 123,
+							"length": 2
+						}
+					},
+					{
+						"content": "MULTI",
+						"polygon": [
+							539,
+							547,
+							632,
+							545,
+							632,
+							587,
+							538,
+							586
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 126,
+							"length": 5
+						}
+					},
+					{
+						"content": "COLORED",
+						"polygon": [
+							663,
+							545,
+							779,
+							545,
+							779,
+							585,
+							663,
+							587
+						],
+						"confidence": 0.716,
+						"span": {
+							"offset": 132,
+							"length": 7
+						}
+					},
+					{
+						"content": "Shaker",
+						"polygon": [
+							246,
+							587,
+							419,
+							590,
+							418,
+							642,
+							244,
+							638
+						],
+						"confidence": 0.755,
+						"span": {
+							"offset": 140,
+							"length": 6
+						}
+					},
+					{
+						"content": "carner",
+						"polygon": [
+							477,
+							590,
+							682,
+							587,
+							683,
+							637,
+							476,
+							642
+						],
+						"confidence": 0.619,
+						"span": {
+							"offset": 147,
+							"length": 6
+						}
+					},
+					{
+						"content": "(WOOD)",
+						"polygon": [
+							700,
+							586,
+							843,
+							580,
+							846,
+							626,
+							702,
+							636
+						],
+						"confidence": 0.42,
+						"span": {
+							"offset": 154,
+							"length": 6
+						}
+					},
+					{
+						"content": "110",
+						"polygon": [
+							949,
+							596,
+							1010,
+							600,
+							1009,
+							642,
+							947,
+							638
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 161,
+							"length": 3
+						}
+					},
+					{
+						"content": "00-",
+						"polygon": [
+							1038,
+							600,
+							1137,
+							599,
+							1135,
+							649,
+							1037,
+							643
+						],
+						"confidence": 0.231,
+						"span": {
+							"offset": 165,
+							"length": 3
+						}
+					},
+					{
+						"content": "blue",
+						"polygon": [
+							244,
+							648,
+							354,
+							648,
+							353,
+							696,
+							244,
+							696
+						],
+						"confidence": 0.622,
+						"span": {
+							"offset": 169,
+							"length": 4
+						}
+					},
+					{
+						"content": "+",
+						"polygon": [
+							365,
+							648,
+							400,
+							648,
+							399,
+							696,
+							365,
+							696
+						],
+						"confidence": 0.852,
+						"span": {
+							"offset": 174,
+							"length": 1
+						}
+					},
+					{
+						"content": "white",
+						"polygon": [
+							418,
+							648,
+							559,
+							647,
+							557,
+							696,
+							417,
+							696
+						],
+						"confidence": 0.959,
+						"span": {
+							"offset": 176,
+							"length": 5
+						}
+					},
+					{
+						"content": "wool",
+						"polygon": [
+							597,
+							646,
+							717,
+							644,
+							715,
+							694,
+							595,
+							696
+						],
+						"confidence": 0.959,
+						"span": {
+							"offset": 182,
+							"length": 4
+						}
+					},
+					{
+						"content": "shaker",
+						"polygon": [
+							749,
+							643,
+							915,
+							637,
+							913,
+							692,
+							746,
+							694
+						],
+						"confidence": 0.685,
+						"span": {
+							"offset": 187,
+							"length": 6
+						}
+					},
+					{
+						"content": "blanket",
+						"polygon": [
+							346,
+							696,
+							569,
+							699,
+							569,
+							745,
+							345,
+							746
+						],
+						"confidence": 0.886,
+						"span": {
+							"offset": 194,
+							"length": 7
+						}
+					},
+					{
+						"content": "80",
+						"polygon": [
+							615,
+							700,
+							665,
+							701,
+							665,
+							743,
+							616,
+							744
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 202,
+							"length": 2
+						}
+					},
+					{
+						"content": "x",
+						"polygon": [
+							675,
+							701,
+							701,
+							701,
+							701,
+							742,
+							676,
+							743
+						],
+						"confidence": 0.702,
+						"span": {
+							"offset": 205,
+							"length": 1
+						}
+					},
+					{
+						"content": "66",
+						"polygon": [
+							717,
+							702,
+							776,
+							702,
+							776,
+							740,
+							718,
+							742
+						],
+						"confidence": 0.953,
+						"span": {
+							"offset": 207,
+							"length": 2
+						}
+					},
+					{
+						"content": "195",
+						"polygon": [
+							945,
+							697,
+							1007,
+							697,
+							1007,
+							746,
+							945,
+							747
+						],
+						"confidence": 0.943,
+						"span": {
+							"offset": 210,
+							"length": 3
+						}
+					},
+					{
+						"content": "00.",
+						"polygon": [
+							1037,
+							697,
+							1120,
+							695,
+							1122,
+							744,
+							1039,
+							746
+						],
+						"confidence": 0.845,
+						"span": {
+							"offset": 214,
+							"length": 3
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							0,
+							752,
+							2,
+							750,
+							7,
+							771,
+							2,
+							772
+						],
+						"confidence": 0.848,
+						"span": {
+							"offset": 218,
+							"length": 1
+						}
+					},
+					{
+						"content": "Pea",
+						"polygon": [
+							233,
+							746,
+							317,
+							748,
+							315,
+							800,
+							230,
+							799
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 220,
+							"length": 3
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							354,
+							749,
+							438,
+							750,
+							437,
+							800,
+							352,
+							800
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 224,
+							"length": 3
+						}
+					},
+					{
+						"content": "hangers",
+						"polygon": [
+							513,
+							751,
+							738,
+							753,
+							738,
+							797,
+							512,
+							799
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 228,
+							"length": 7
+						}
+					},
+					{
+						"content": "45,00",
+						"polygon": [
+							965,
+							752,
+							1093,
+							754,
+							1093,
+							795,
+							964,
+							795
+						],
+						"confidence": 0.533,
+						"span": {
+							"offset": 236,
+							"length": 5
+						}
+					},
+					{
+						"content": "button",
+						"polygon": [
+							237,
+							802,
+							396,
+							803,
+							397,
+							854,
+							238,
+							854
+						],
+						"confidence": 0.747,
+						"span": {
+							"offset": 242,
+							"length": 6
+						}
+					},
+					{
+						"content": "hole",
+						"polygon": [
+							448,
+							803,
+							555,
+							803,
+							554,
+							853,
+							448,
+							854
+						],
+						"confidence": 0.959,
+						"span": {
+							"offset": 249,
+							"length": 4
+						}
+					},
+					{
+						"content": "cutter",
+						"polygon": [
+							619,
+							803,
+							762,
+							803,
+							761,
+							851,
+							618,
+							852
+						],
+						"confidence": 0.705,
+						"span": {
+							"offset": 254,
+							"length": 6
+						}
+					},
+					{
+						"content": "8500",
+						"polygon": [
+							952,
+							805,
+							1096,
+							808,
+							1096,
+							850,
+							952,
+							852
+						],
+						"confidence": 0.825,
+						"span": {
+							"offset": 261,
+							"length": 4
+						}
+					},
+					{
+						"content": "Shaker",
+						"polygon": [
+							243,
+							898,
+							402,
+							900,
+							402,
+							952,
+							243,
+							948
+						],
+						"confidence": 0.706,
+						"span": {
+							"offset": 266,
+							"length": 6
+						}
+					},
+					{
+						"content": "dressed",
+						"polygon": [
+							441,
+							901,
+							613,
+							903,
+							614,
+							955,
+							442,
+							953
+						],
+						"confidence": 0.775,
+						"span": {
+							"offset": 273,
+							"length": 7
+						}
+					},
+					{
+						"content": "doll",
+						"polygon": [
+							680,
+							903,
+							811,
+							904,
+							812,
+							957,
+							681,
+							956
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 281,
+							"length": 4
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							227,
+							965,
+							270,
+							963,
+							271,
+							1005,
+							228,
+							1005
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 286,
+							"length": 2
+						}
+					},
+					{
+						"content": "case",
+						"polygon": [
+							329,
+							962,
+							438,
+							960,
+							438,
+							1006,
+							329,
+							1006
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 289,
+							"length": 4
+						}
+					},
+					{
+						"content": "from",
+						"polygon": [
+							502,
+							959,
+							617,
+							958,
+							617,
+							1006,
+							502,
+							1006
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 294,
+							"length": 4
+						}
+					},
+					{
+						"content": "N.H.",
+						"polygon": [
+							693,
+							958,
+							805,
+							960,
+							805,
+							1005,
+							693,
+							1006
+						],
+						"confidence": 0.954,
+						"span": {
+							"offset": 299,
+							"length": 4
+						}
+					},
+					{
+						"content": "Shaker",
+						"polygon": [
+							237,
+							1010,
+							411,
+							1010,
+							412,
+							1059,
+							239,
+							1061
+						],
+						"confidence": 0.739,
+						"span": {
+							"offset": 304,
+							"length": 6
+						}
+					},
+					{
+						"content": "collection",
+						"polygon": [
+							470,
+							1010,
+							750,
+							1011,
+							749,
+							1066,
+							470,
+							1059
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 311,
+							"length": 10
+						}
+					},
+					{
+						"content": "350,00",
+						"polygon": [
+							930,
+							1006,
+							1101,
+							1012,
+							1101,
+							1056,
+							929,
+							1055
+						],
+						"confidence": 0.474,
+						"span": {
+							"offset": 322,
+							"length": 6
+						}
+					},
+					{
+						"content": "785",
+						"polygon": [
+							945,
+							1112,
+							1015,
+							1113,
+							1015,
+							1155,
+							945,
+							1156
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 329,
+							"length": 3
+						}
+					},
+					{
+						"content": "00",
+						"polygon": [
+							1036,
+							1112,
+							1089,
+							1112,
+							1089,
+							1155,
+							1036,
+							1155
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 333,
+							"length": 2
+						}
+					},
+					{
+						"content": "Shaker",
+						"polygon": [
+							242,
+							1157,
+							415,
+							1156,
+							416,
+							1209,
+							243,
+							1208
+						],
+						"confidence": 0.919,
+						"span": {
+							"offset": 336,
+							"length": 6
+						}
+					},
+					{
+						"content": "rua",
+						"polygon": [
+							440,
+							1157,
+							537,
+							1161,
+							540,
+							1210,
+							442,
+							1210
+						],
+						"confidence": 0.944,
+						"span": {
+							"offset": 343,
+							"length": 3
+						}
+					},
+					{
+						"content": "8500",
+						"polygon": [
+							953,
+							1160,
+							1083,
+							1161,
+							1082,
+							1207,
+							952,
+							1205
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 347,
+							"length": 4
+						}
+					},
+					{
+						"content": "870,00",
+						"polygon": [
+							929,
+							1232,
+							1081,
+							1231,
+							1083,
+							1276,
+							928,
+							1282
+						],
+						"confidence": 0.488,
+						"span": {
+							"offset": 352,
+							"length": 6
+						}
+					},
+					{
+						"content": "#",
+						"polygon": [
+							234,
+							1282,
+							285,
+							1282,
+							285,
+							1357,
+							234,
+							1357
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 359,
+							"length": 1
+						}
+					},
+					{
+						"content": "054246645",
+						"polygon": [
+							331,
+							1282,
+							801,
+							1287,
+							803,
+							1357,
+							332,
+							1357
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 361,
+							"length": 9
+						}
+					},
+					{
+						"content": "NU",
+						"polygon": [
+							410,
+							1373,
+							522,
+							1373,
+							521,
+							1448,
+							409,
+							1447
+						],
+						"confidence": 0.667,
+						"span": {
+							"offset": 371,
+							"length": 2
+						}
+					},
+					{
+						"content": "PURCHASED",
+						"polygon": [
+							51,
+							1433,
+							166,
+							1432,
+							166,
+							1453,
+							51,
+							1454
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 374,
+							"length": 9
+						}
+					},
+					{
+						"content": "BY",
+						"polygon": [
+							181,
+							1432,
+							206,
+							1432,
+							206,
+							1454,
+							181,
+							1453
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 384,
+							"length": 2
+						}
+					},
+					{
+						"content": "WJ",
+						"polygon": [
+							42,
+							1535,
+							65,
+							1535,
+							65,
+							1555,
+							42,
+							1555
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 387,
+							"length": 2
+						}
+					},
+					{
+						"content": "GRAYLINE",
+						"polygon": [
+							79,
+							1539,
+							167,
+							1538,
+							167,
+							1555,
+							79,
+							1555
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 390,
+							"length": 8
+						}
+					},
+					{
+						"content": "FORMS",
+						"polygon": [
+							179,
+							1538,
+							239,
+							1538,
+							239,
+							1556,
+							179,
+							1555
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 399,
+							"length": 5
+						}
+					},
+					{
+						"content": "S9458",
+						"polygon": [
+							249,
+							1538,
+							307,
+							1538,
+							307,
+							1556,
+							249,
+							1556
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 405,
+							"length": 5
+						}
+					},
+					{
+						"content": "DUPLICATE",
+						"polygon": [
+							315,
+							1538,
+							414,
+							1538,
+							415,
+							1556,
+							315,
+							1556
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 411,
+							"length": 9
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							425,
+							1538,
+							435,
+							1538,
+							435,
+							1556,
+							425,
+							1556
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 421,
+							"length": 1
+						}
+					},
+					{
+						"content": "S9558",
+						"polygon": [
+							450,
+							1538,
+							507,
+							1538,
+							508,
+							1556,
+							450,
+							1556
+						],
+						"confidence": 0.935,
+						"span": {
+							"offset": 423,
+							"length": 5
+						}
+					},
+					{
+						"content": "TISSUE",
+						"polygon": [
+							518,
+							1538,
+							581,
+							1538,
+							581,
+							1556,
+							518,
+							1556
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 429,
+							"length": 6
+						}
+					},
+					{
+						"content": "TRIPLICATE",
+						"polygon": [
+							592,
+							1539,
+							698,
+							1539,
+							698,
+							1555,
+							593,
+							1556
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 436,
+							"length": 10
+						}
+					},
+					{
+						"content": "U.S.",
+						"polygon": [
+							1021,
+							1542,
+							1060,
+							1543,
+							1060,
+							1556,
+							1021,
+							1556
+						],
+						"confidence": 0.881,
+						"span": {
+							"offset": 447,
+							"length": 4
+						}
+					},
+					{
+						"content": "A.",
+						"polygon": [
+							1063,
+							1543,
+							1077,
+							1542,
+							1077,
+							1556,
+							1063,
+							1556
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 452,
+							"length": 2
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Ed Clerk",
+						"polygon": [
+							110,
+							31,
+							431,
+							31,
+							432,
+							104,
+							110,
+							105
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "ORDER NO.",
+						"polygon": [
+							661,
+							172,
+							801,
+							173,
+							801,
+							199,
+							661,
+							198
+						],
+						"spans": [
+							{
+								"offset": 9,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "DATE",
+						"polygon": [
+							790,
+							213,
+							837,
+							212,
+							837,
+							231,
+							790,
+							229
+						],
+						"spans": [
+							{
+								"offset": 19,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "SOLD TO",
+						"polygon": [
+							43,
+							236,
+							154,
+							236,
+							154,
+							261,
+							43,
+							261
+						],
+						"spans": [
+							{
+								"offset": 24,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Fertigs",
+						"polygon": [
+							291,
+							259,
+							538,
+							260,
+							537,
+							326,
+							290,
+							322
+						],
+						"spans": [
+							{
+								"offset": 32,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "4/15/1980",
+						"polygon": [
+							826,
+							206,
+							1078,
+							206,
+							1078,
+							266,
+							826,
+							265
+						],
+						"spans": [
+							{
+								"offset": 40,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "ADDRESS",
+						"polygon": [
+							47,
+							296,
+							155,
+							297,
+							155,
+							321,
+							47,
+							320
+						],
+						"spans": [
+							{
+								"offset": 50,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Livingston",
+						"polygon": [
+							335,
+							328,
+							723,
+							328,
+							723,
+							381,
+							335,
+							383
+						],
+						"spans": [
+							{
+								"offset": 58,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "SHIP TO",
+						"polygon": [
+							52,
+							354,
+							152,
+							355,
+							152,
+							379,
+							52,
+							378
+						],
+						"spans": [
+							{
+								"offset": 69,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "NJ",
+						"polygon": [
+							561,
+							381,
+							732,
+							378,
+							733,
+							442,
+							562,
+							443
+						],
+						"spans": [
+							{
+								"offset": 77,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "ADDRESS",
+						"polygon": [
+							43,
+							414,
+							150,
+							414,
+							150,
+							438,
+							43,
+							438
+						],
+						"spans": [
+							{
+								"offset": 80,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "SALESMAN",
+						"polygon": [
+							69,
+							457,
+							158,
+							457,
+							158,
+							475,
+							69,
+							474
+						],
+						"spans": [
+							{
+								"offset": 88,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "SHIP VIA",
+						"polygon": [
+							388,
+							459,
+							461,
+							459,
+							461,
+							477,
+							388,
+							476
+						],
+						"spans": [
+							{
+								"offset": 97,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "WHEN",
+						"polygon": [
+							580,
+							459,
+							636,
+							459,
+							636,
+							476,
+							580,
+							476
+						],
+						"spans": [
+							{
+								"offset": 106,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "TERMS",
+						"polygon": [
+							732,
+							460,
+							784,
+							460,
+							783,
+							476,
+							732,
+							475
+						],
+						"spans": [
+							{
+								"offset": 111,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "F. O. B.",
+						"polygon": [
+							918,
+							459,
+							975,
+							459,
+							975,
+							477,
+							918,
+							476
+						],
+						"spans": [
+							{
+								"offset": 117,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "MULTI COLORED",
+						"polygon": [
+							538,
+							545,
+							778,
+							544,
+							778,
+							585,
+							538,
+							586
+						],
+						"spans": [
+							{
+								"offset": 126,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "Shaker carner (WOOD)",
+						"polygon": [
+							229,
+							587,
+							845,
+							580,
+							846,
+							636,
+							229,
+							642
+						],
+						"spans": [
+							{
+								"offset": 140,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "110 00-",
+						"polygon": [
+							948,
+							595,
+							1136,
+							599,
+							1134,
+							648,
+							946,
+							641
+						],
+						"spans": [
+							{
+								"offset": 161,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "blue + white wool shaker",
+						"polygon": [
+							244,
+							645,
+							921,
+							637,
+							921,
+							691,
+							244,
+							696
+						],
+						"spans": [
+							{
+								"offset": 169,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "blanket 80 x 66",
+						"polygon": [
+							301,
+							694,
+							776,
+							696,
+							776,
+							746,
+							301,
+							745
+						],
+						"spans": [
+							{
+								"offset": 194,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "195 00.",
+						"polygon": [
+							945,
+							696,
+							1123,
+							694,
+							1123,
+							744,
+							945,
+							746
+						],
+						"spans": [
+							{
+								"offset": 210,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "-",
+						"polygon": [
+							0,
+							751,
+							4,
+							750,
+							6,
+							772,
+							2,
+							773
+						],
+						"spans": [
+							{
+								"offset": 218,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Pea for hangers",
+						"polygon": [
+							228,
+							746,
+							764,
+							747,
+							764,
+							800,
+							228,
+							798
+						],
+						"spans": [
+							{
+								"offset": 220,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "45,00",
+						"polygon": [
+							957,
+							751,
+							1103,
+							752,
+							1103,
+							795,
+							957,
+							794
+						],
+						"spans": [
+							{
+								"offset": 236,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "button hole cutter",
+						"polygon": [
+							228,
+							801,
+							767,
+							801,
+							767,
+							852,
+							228,
+							853
+						],
+						"spans": [
+							{
+								"offset": 242,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "8500",
+						"polygon": [
+							944,
+							805,
+							1096,
+							805,
+							1096,
+							851,
+							944,
+							851
+						],
+						"spans": [
+							{
+								"offset": 261,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Shaker dressed doll",
+						"polygon": [
+							227,
+							897,
+							819,
+							904,
+							818,
+							957,
+							227,
+							949
+						],
+						"spans": [
+							{
+								"offset": 266,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "in case from N.H.",
+						"polygon": [
+							225,
+							959,
+							808,
+							958,
+							808,
+							1004,
+							225,
+							1006
+						],
+						"spans": [
+							{
+								"offset": 286,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Shaker collection",
+						"polygon": [
+							221,
+							1009,
+							768,
+							1011,
+							768,
+							1065,
+							221,
+							1062
+						],
+						"spans": [
+							{
+								"offset": 304,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "350,00",
+						"polygon": [
+							928,
+							1006,
+							1105,
+							1009,
+							1104,
+							1056,
+							927,
+							1054
+						],
+						"spans": [
+							{
+								"offset": 322,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "785 00",
+						"polygon": [
+							937,
+							1112,
+							1095,
+							1111,
+							1095,
+							1154,
+							937,
+							1155
+						],
+						"spans": [
+							{
+								"offset": 329,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Shaker rua",
+						"polygon": [
+							227,
+							1154,
+							548,
+							1157,
+							547,
+							1210,
+							227,
+							1207
+						],
+						"spans": [
+							{
+								"offset": 336,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "8500",
+						"polygon": [
+							951,
+							1160,
+							1089,
+							1163,
+							1089,
+							1206,
+							951,
+							1206
+						],
+						"spans": [
+							{
+								"offset": 347,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "870,00",
+						"polygon": [
+							926,
+							1231,
+							1088,
+							1230,
+							1089,
+							1277,
+							926,
+							1281
+						],
+						"spans": [
+							{
+								"offset": 352,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "# 054246645",
+						"polygon": [
+							231,
+							1281,
+							822,
+							1284,
+							821,
+							1357,
+							231,
+							1355
+						],
+						"spans": [
+							{
+								"offset": 359,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "NU",
+						"polygon": [
+							399,
+							1374,
+							532,
+							1373,
+							530,
+							1448,
+							397,
+							1444
+						],
+						"spans": [
+							{
+								"offset": 371,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "PURCHASED BY",
+						"polygon": [
+							51,
+							1432,
+							206,
+							1431,
+							206,
+							1453,
+							51,
+							1454
+						],
+						"spans": [
+							{
+								"offset": 374,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "WJ",
+						"polygon": [
+							41,
+							1535,
+							66,
+							1535,
+							66,
+							1555,
+							42,
+							1555
+						],
+						"spans": [
+							{
+								"offset": 387,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "GRAYLINE FORMS S9458 DUPLICATE - S9558 TISSUE TRIPLICATE",
+						"polygon": [
+							79,
+							1537,
+							700,
+							1538,
+							700,
+							1556,
+							79,
+							1555
+						],
+						"spans": [
+							{
+								"offset": 390,
+								"length": 56
+							}
+						]
+					},
+					{
+						"content": "U.S. A.",
+						"polygon": [
+							1020,
+							1541,
+							1077,
+							1542,
+							1077,
+							1556,
+							1020,
+							1555
+						],
+						"spans": [
+							{
+								"offset": 447,
+								"length": 7
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 454
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 8
+					},
+					{
+						"offset": 32,
+						"length": 17
+					},
+					{
+						"offset": 58,
+						"length": 10
+					},
+					{
+						"offset": 77,
+						"length": 2
+					},
+					{
+						"offset": 126,
+						"length": 91
+					},
+					{
+						"offset": 220,
+						"length": 153
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.3,
+				"spans": [
+					{
+						"offset": 218,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							1139,
+							0,
+							1139,
+							1600,
+							0,
+							1600
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Shaker carner (WOOD)",
+										"content": "Shaker carner (WOOD)",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													243,
+													587,
+													845,
+													575,
+													846,
+													635,
+													244,
+													647
+												]
+											}
+										],
+										"confidence": 0.851,
+										"spans": [
+											{
+												"offset": 140,
+												"length": 20
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "110 00-",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													950,
+													587,
+													1138,
+													599,
+													1135,
+													650,
+													946,
+													638
+												]
+											}
+										],
+										"confidence": 0.987,
+										"spans": [
+											{
+												"offset": 161,
+												"length": 7
+											}
+										],
+										"valueNumber": -110
+									}
+								},
+								"content": "Shaker carner (WOOD)\n110 00-",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											245,
+											568,
+											1137,
+											586,
+											1136,
+											656,
+											244,
+											638
+										]
+									}
+								],
+								"confidence": 0.884,
+								"spans": [
+									{
+										"offset": 140,
+										"length": 28
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "blue + white wool shaker\nblanket",
+										"content": "blue + white wool shaker\nblanket",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													244,
+													637,
+													915,
+													637,
+													915,
+													746,
+													244,
+													746
+												]
+											}
+										],
+										"confidence": 0.939,
+										"spans": [
+											{
+												"offset": 169,
+												"length": 32
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "66",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													717,
+													702,
+													776,
+													702,
+													776,
+													740,
+													718,
+													742
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 207,
+												"length": 2
+											}
+										],
+										"valueNumber": 66
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 80,
+										"content": "80",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													615,
+													700,
+													665,
+													701,
+													665,
+													743,
+													616,
+													744
+												]
+											}
+										],
+										"confidence": 0.945,
+										"spans": [
+											{
+												"offset": 202,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "195 00.",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													945,
+													696,
+													1122,
+													695,
+													1122,
+													746,
+													945,
+													747
+												]
+											}
+										],
+										"confidence": 0.973,
+										"spans": [
+											{
+												"offset": 210,
+												"length": 7
+											}
+										],
+										"valueNumber": 195
+									}
+								},
+								"content": "blue + white wool shaker\nblanket 80 x 66\n195 00.",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											244,
+											642,
+											1121,
+											635,
+											1122,
+											746,
+											244,
+											753
+										]
+									}
+								],
+								"confidence": 0.971,
+								"spans": [
+									{
+										"offset": 169,
+										"length": 48
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Pea for hangers",
+										"content": "Pea for hangers",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													230,
+													746,
+													738,
+													749,
+													738,
+													803,
+													230,
+													799
+												]
+											}
+										],
+										"confidence": 0.94,
+										"spans": [
+											{
+												"offset": 220,
+												"length": 15
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "45,00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													965,
+													752,
+													1093,
+													754,
+													1093,
+													795,
+													964,
+													795
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 236,
+												"length": 5
+											}
+										],
+										"valueNumber": 45
+									}
+								},
+								"content": "Pea for hangers\n45,00",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											230,
+											746,
+											1093,
+											753,
+											1093,
+											806,
+											230,
+											799
+										]
+									}
+								],
+								"confidence": 0.951,
+								"spans": [
+									{
+										"offset": 220,
+										"length": 21
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "button hole cutter",
+										"content": "button hole cutter",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													237,
+													802,
+													762,
+													800,
+													762,
+													853,
+													237,
+													855
+												]
+											}
+										],
+										"confidence": 0.915,
+										"spans": [
+											{
+												"offset": 242,
+												"length": 18
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "8500",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													952,
+													805,
+													1096,
+													808,
+													1096,
+													850,
+													952,
+													852
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 261,
+												"length": 4
+											}
+										],
+										"valueNumber": 8500
+									}
+								},
+								"content": "button hole cutter\n8500",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											237,
+											801,
+											1096,
+											804,
+											1096,
+											857,
+											237,
+											854
+										]
+									}
+								],
+								"confidence": 0.948,
+								"spans": [
+									{
+										"offset": 242,
+										"length": 23
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Shaker dressed doll",
+										"content": "Shaker dressed doll",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													243,
+													897,
+													813,
+													904,
+													812,
+													958,
+													242,
+													951
+												]
+											}
+										],
+										"confidence": 0.927,
+										"spans": [
+											{
+												"offset": 266,
+												"length": 19
+											}
+										]
+									}
+								},
+								"content": "Shaker dressed doll\nin case from N.H.",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											227,
+											898,
+											812,
+											901,
+											812,
+											1008,
+											227,
+											1006
+										]
+									}
+								],
+								"confidence": 0.961,
+								"spans": [
+									{
+										"offset": 266,
+										"length": 37
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"TotalPrice": {
+										"type": "number",
+										"content": "350,00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													930,
+													1006,
+													1101,
+													1012,
+													1101,
+													1056,
+													929,
+													1055
+												]
+											}
+										],
+										"confidence": 0.988,
+										"spans": [
+											{
+												"offset": 322,
+												"length": 6
+											}
+										],
+										"valueNumber": 350
+									}
+								},
+								"content": "350,00",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											930,
+											1006,
+											1101,
+											1012,
+											1101,
+											1056,
+											929,
+											1055
+										]
+									}
+								],
+								"confidence": 0.689,
+								"spans": [
+									{
+										"offset": 322,
+										"length": 6
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Shaker collection",
+										"content": "Shaker collection",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													237,
+													1004,
+													750,
+													1011,
+													749,
+													1068,
+													236,
+													1061
+												]
+											}
+										],
+										"confidence": 0.867,
+										"spans": [
+											{
+												"offset": 304,
+												"length": 17
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "785 00",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													945,
+													1112,
+													1089,
+													1112,
+													1089,
+													1156,
+													945,
+													1156
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 329,
+												"length": 6
+											}
+										],
+										"valueNumber": 785
+									}
+								},
+								"content": "Shaker collection\n785 00",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											237,
+											1010,
+											1089,
+											1010,
+											1089,
+											1156,
+											237,
+											1156
+										]
+									}
+								],
+								"confidence": 0.948,
+								"spans": [
+									{
+										"offset": 304,
+										"length": 17
+									},
+									{
+										"offset": 329,
+										"length": 6
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Shaker rua",
+										"content": "Shaker rua",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													242,
+													1152,
+													541,
+													1159,
+													540,
+													1214,
+													241,
+													1208
+												]
+											}
+										],
+										"confidence": 0.479,
+										"spans": [
+											{
+												"offset": 336,
+												"length": 10
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "8500",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													953,
+													1160,
+													1083,
+													1161,
+													1082,
+													1207,
+													952,
+													1205
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 347,
+												"length": 4
+											}
+										],
+										"valueNumber": 8500
+									}
+								},
+								"content": "Shaker rua\n8500",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											242,
+											1151,
+											1083,
+											1161,
+											1082,
+											1218,
+											241,
+											1208
+										]
+									}
+								],
+								"confidence": 0.805,
+								"spans": [
+									{
+										"offset": 336,
+										"length": 15
+									}
+								]
+							}
+						]
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "Fertigs",
+						"content": "Fertigs",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									311,
+									261,
+									532,
+									262,
+									532,
+									327,
+									309,
+									321
+								]
+							}
+						],
+						"confidence": 0.934,
+						"spans": [
+							{
+								"offset": 32,
+								"length": 7
+							}
+						]
+					},
+					"TransactionDate": {
+						"type": "date",
+						"content": "4/15/1980",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									836,
+									210,
+									1069,
+									207,
+									1071,
+									267,
+									836,
+									263
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 40,
+								"length": 9
+							}
+						]
+					}
+				},
+				"confidence": 0.995,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 454
+					}
+				]
+			}
+		]
+	}
+}

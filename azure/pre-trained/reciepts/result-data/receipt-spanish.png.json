@@ -1,0 +1,1640 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-17T22:24:07Z",
+	"lastUpdatedDateTime": "2024-04-17T22:24:09Z",
+	"analyzeResult": {
+		"apiVersion": "2023-10-31-preview",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Contoso\nC. de Dom Juan, 35\n28002 Madrid\nTele: 914 11 22 33\nFECHA : 31-10-21\nHora : 13:10:48\nMesa 001\nUnid. Descripción\nPrecio\nImporte\n1\nREFRESCOS\n3,50\n3,50\n1\nMENU DIARIO\n15,90\n15,90\nTOTAL\n19.40\nGRACIAS POR SU VISITA",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.8424999713897705,
+				"width": 1500,
+				"height": 2000,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Contoso",
+						"polygon": [
+							599,
+							355,
+							785,
+							359,
+							785,
+							394,
+							599,
+							395
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 0,
+							"length": 7
+						}
+					},
+					{
+						"content": "C.",
+						"polygon": [
+							564,
+							426,
+							591,
+							425,
+							590,
+							461,
+							563,
+							461
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 8,
+							"length": 2
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							598,
+							425,
+							636,
+							425,
+							635,
+							460,
+							597,
+							461
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 11,
+							"length": 2
+						}
+					},
+					{
+						"content": "Dom",
+						"polygon": [
+							643,
+							425,
+							699,
+							424,
+							698,
+							459,
+							642,
+							460
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 14,
+							"length": 3
+						}
+					},
+					{
+						"content": "Juan,",
+						"polygon": [
+							715,
+							424,
+							788,
+							422,
+							787,
+							459,
+							715,
+							459
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 18,
+							"length": 5
+						}
+					},
+					{
+						"content": "35",
+						"polygon": [
+							795,
+							422,
+							831,
+							421,
+							830,
+							459,
+							794,
+							459
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 24,
+							"length": 2
+						}
+					},
+					{
+						"content": "28002",
+						"polygon": [
+							604,
+							476,
+							689,
+							475,
+							689,
+							508,
+							604,
+							510
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 27,
+							"length": 5
+						}
+					},
+					{
+						"content": "Madrid",
+						"polygon": [
+							696,
+							475,
+							797,
+							473,
+							797,
+							507,
+							696,
+							508
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 33,
+							"length": 6
+						}
+					},
+					{
+						"content": "Tele:",
+						"polygon": [
+							541,
+							581,
+							617,
+							581,
+							617,
+							612,
+							541,
+							612
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 40,
+							"length": 5
+						}
+					},
+					{
+						"content": "914",
+						"polygon": [
+							647,
+							581,
+							701,
+							580,
+							701,
+							611,
+							647,
+							611
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 46,
+							"length": 3
+						}
+					},
+					{
+						"content": "11",
+						"polygon": [
+							725,
+							580,
+							759,
+							580,
+							759,
+							611,
+							725,
+							611
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 50,
+							"length": 2
+						}
+					},
+					{
+						"content": "22",
+						"polygon": [
+							779,
+							580,
+							813,
+							580,
+							813,
+							610,
+							779,
+							611
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 53,
+							"length": 2
+						}
+					},
+					{
+						"content": "33",
+						"polygon": [
+							831,
+							580,
+							866,
+							580,
+							865,
+							610,
+							831,
+							610
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 56,
+							"length": 2
+						}
+					},
+					{
+						"content": "FECHA",
+						"polygon": [
+							748,
+							790,
+							835,
+							790,
+							836,
+							821,
+							749,
+							822
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 59,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							843,
+							790,
+							860,
+							790,
+							860,
+							821,
+							844,
+							821
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 65,
+							"length": 1
+						}
+					},
+					{
+						"content": "31-10-21",
+						"polygon": [
+							874,
+							790,
+							993,
+							789,
+							993,
+							821,
+							874,
+							821
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 67,
+							"length": 8
+						}
+					},
+					{
+						"content": "Hora",
+						"polygon": [
+							776,
+							844,
+							841,
+							844,
+							842,
+							873,
+							777,
+							875
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 76,
+							"length": 4
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							847,
+							844,
+							863,
+							843,
+							864,
+							873,
+							848,
+							873
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 81,
+							"length": 1
+						}
+					},
+					{
+						"content": "13:10:48",
+						"polygon": [
+							881,
+							843,
+							997,
+							841,
+							997,
+							873,
+							882,
+							873
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 83,
+							"length": 8
+						}
+					},
+					{
+						"content": "Mesa",
+						"polygon": [
+							610,
+							949,
+							721,
+							947,
+							722,
+							988,
+							610,
+							991
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 92,
+							"length": 4
+						}
+					},
+					{
+						"content": "001",
+						"polygon": [
+							738,
+							947,
+							813,
+							945,
+							814,
+							988,
+							739,
+							988
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 97,
+							"length": 3
+						}
+					},
+					{
+						"content": "Unid.",
+						"polygon": [
+							418,
+							1061,
+							501,
+							1060,
+							502,
+							1094,
+							419,
+							1094
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 101,
+							"length": 5
+						}
+					},
+					{
+						"content": "Descripción",
+						"polygon": [
+							531,
+							1059,
+							693,
+							1057,
+							694,
+							1092,
+							531,
+							1094
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 107,
+							"length": 11
+						}
+					},
+					{
+						"content": "Precio",
+						"polygon": [
+							761,
+							1051,
+							848,
+							1051,
+							848,
+							1084,
+							761,
+							1084
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 119,
+							"length": 6
+						}
+					},
+					{
+						"content": "Importe",
+						"polygon": [
+							879,
+							1052,
+							989,
+							1051,
+							990,
+							1084,
+							879,
+							1086
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 126,
+							"length": 7
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							459,
+							1115,
+							473,
+							1115,
+							474,
+							1142,
+							459,
+							1143
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 134,
+							"length": 1
+						}
+					},
+					{
+						"content": "REFRESCOS",
+						"polygon": [
+							526,
+							1113,
+							689,
+							1107,
+							691,
+							1139,
+							528,
+							1143
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 136,
+							"length": 9
+						}
+					},
+					{
+						"content": "3,50",
+						"polygon": [
+							786,
+							1104,
+							846,
+							1103,
+							846,
+							1134,
+							787,
+							1135
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 146,
+							"length": 4
+						}
+					},
+					{
+						"content": "3,50",
+						"polygon": [
+							897,
+							1102,
+							955,
+							1100,
+							955,
+							1131,
+							898,
+							1133
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 151,
+							"length": 4
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							460,
+							1169,
+							473,
+							1169,
+							473,
+							1196,
+							460,
+							1196
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 156,
+							"length": 1
+						}
+					},
+					{
+						"content": "MENU",
+						"polygon": [
+							527,
+							1166,
+							613,
+							1163,
+							614,
+							1193,
+							529,
+							1197
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 158,
+							"length": 4
+						}
+					},
+					{
+						"content": "DIARIO",
+						"polygon": [
+							629,
+							1162,
+							719,
+							1158,
+							720,
+							1190,
+							630,
+							1193
+						],
+						"confidence": 0.742,
+						"span": {
+							"offset": 163,
+							"length": 6
+						}
+					},
+					{
+						"content": "15,90",
+						"polygon": [
+							778,
+							1156,
+							852,
+							1155,
+							852,
+							1187,
+							778,
+							1188
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 170,
+							"length": 5
+						}
+					},
+					{
+						"content": "15,90",
+						"polygon": [
+							887,
+							1151,
+							958,
+							1150,
+							958,
+							1182,
+							888,
+							1183
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 176,
+							"length": 5
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							477,
+							1317,
+							614,
+							1310,
+							616,
+							1352,
+							477,
+							1359
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 182,
+							"length": 5
+						}
+					},
+					{
+						"content": "19.40",
+						"polygon": [
+							858,
+							1298,
+							953,
+							1292,
+							956,
+							1331,
+							860,
+							1338
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 188,
+							"length": 5
+						}
+					},
+					{
+						"content": "GRACIAS",
+						"polygon": [
+							473,
+							1526,
+							659,
+							1511,
+							660,
+							1560,
+							473,
+							1570
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 194,
+							"length": 7
+						}
+					},
+					{
+						"content": "POR",
+						"polygon": [
+							672,
+							1511,
+							756,
+							1505,
+							758,
+							1554,
+							673,
+							1559
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 202,
+							"length": 3
+						}
+					},
+					{
+						"content": "SU",
+						"polygon": [
+							772,
+							1504,
+							818,
+							1501,
+							820,
+							1550,
+							773,
+							1553
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 206,
+							"length": 2
+						}
+					},
+					{
+						"content": "VISITA",
+						"polygon": [
+							837,
+							1499,
+							959,
+							1492,
+							961,
+							1540,
+							839,
+							1548
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 209,
+							"length": 6
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "Contoso",
+						"polygon": [
+							599,
+							355,
+							791,
+							356,
+							791,
+							395,
+							599,
+							394
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "C. de Dom Juan, 35",
+						"polygon": [
+							562,
+							424,
+							832,
+							421,
+							832,
+							458,
+							562,
+							461
+						],
+						"spans": [
+							{
+								"offset": 8,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "28002 Madrid",
+						"polygon": [
+							601,
+							476,
+							800,
+							473,
+							801,
+							506,
+							601,
+							509
+						],
+						"spans": [
+							{
+								"offset": 27,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Tele: 914 11 22 33",
+						"polygon": [
+							539,
+							581,
+							865,
+							579,
+							865,
+							609,
+							539,
+							611
+						],
+						"spans": [
+							{
+								"offset": 40,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "FECHA : 31-10-21",
+						"polygon": [
+							748,
+							789,
+							994,
+							788,
+							994,
+							820,
+							748,
+							821
+						],
+						"spans": [
+							{
+								"offset": 59,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "Hora : 13:10:48",
+						"polygon": [
+							776,
+							843,
+							997,
+							841,
+							997,
+							872,
+							776,
+							874
+						],
+						"spans": [
+							{
+								"offset": 76,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Mesa 001",
+						"polygon": [
+							609,
+							948,
+							813,
+							945,
+							813,
+							987,
+							609,
+							990
+						],
+						"spans": [
+							{
+								"offset": 92,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Unid. Descripción",
+						"polygon": [
+							418,
+							1060,
+							696,
+							1057,
+							696,
+							1091,
+							418,
+							1094
+						],
+						"spans": [
+							{
+								"offset": 101,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Precio",
+						"polygon": [
+							761,
+							1052,
+							854,
+							1051,
+							854,
+							1084,
+							762,
+							1084
+						],
+						"spans": [
+							{
+								"offset": 119,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Importe",
+						"polygon": [
+							878,
+							1051,
+							989,
+							1051,
+							989,
+							1084,
+							878,
+							1085
+						],
+						"spans": [
+							{
+								"offset": 126,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							459,
+							1116,
+							473,
+							1115,
+							474,
+							1143,
+							459,
+							1143
+						],
+						"spans": [
+							{
+								"offset": 134,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "REFRESCOS",
+						"polygon": [
+							525,
+							1111,
+							690,
+							1107,
+							691,
+							1138,
+							526,
+							1143
+						],
+						"spans": [
+							{
+								"offset": 136,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "3,50",
+						"polygon": [
+							785,
+							1104,
+							849,
+							1103,
+							850,
+							1134,
+							786,
+							1135
+						],
+						"spans": [
+							{
+								"offset": 146,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "3,50",
+						"polygon": [
+							893,
+							1102,
+							957,
+							1100,
+							957,
+							1131,
+							892,
+							1133
+						],
+						"spans": [
+							{
+								"offset": 151,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							459,
+							1169,
+							475,
+							1169,
+							475,
+							1196,
+							460,
+							1196
+						],
+						"spans": [
+							{
+								"offset": 156,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "MENU DIARIO",
+						"polygon": [
+							526,
+							1165,
+							727,
+							1158,
+							728,
+							1188,
+							528,
+							1196
+						],
+						"spans": [
+							{
+								"offset": 158,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "15,90",
+						"polygon": [
+							778,
+							1156,
+							859,
+							1155,
+							859,
+							1187,
+							778,
+							1188
+						],
+						"spans": [
+							{
+								"offset": 170,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "15,90",
+						"polygon": [
+							880,
+							1152,
+							962,
+							1150,
+							963,
+							1182,
+							881,
+							1183
+						],
+						"spans": [
+							{
+								"offset": 176,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							471,
+							1316,
+							621,
+							1309,
+							623,
+							1351,
+							471,
+							1359
+						],
+						"spans": [
+							{
+								"offset": 182,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "19.40",
+						"polygon": [
+							858,
+							1298,
+							954,
+							1292,
+							957,
+							1331,
+							858,
+							1339
+						],
+						"spans": [
+							{
+								"offset": 188,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "GRACIAS POR SU VISITA",
+						"polygon": [
+							472,
+							1523,
+							961,
+							1491,
+							964,
+							1539,
+							473,
+							1570
+						],
+						"spans": [
+							{
+								"offset": 194,
+								"length": 21
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 215
+					}
+				]
+			}
+		],
+		"styles": [],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							1500,
+							0,
+							1500,
+							2000,
+							0,
+							2000
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "REFRESCOS",
+										"content": "REFRESCOS",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													526,
+													1113,
+													689,
+													1107,
+													691,
+													1139,
+													528,
+													1143
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 136,
+												"length": 9
+											}
+										]
+									},
+									"Price": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 3.5,
+											"currencyCode": "EUR"
+										},
+										"content": "3,50",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													786,
+													1104,
+													846,
+													1103,
+													846,
+													1134,
+													787,
+													1135
+												]
+											}
+										],
+										"confidence": 0.991,
+										"spans": [
+											{
+												"offset": 146,
+												"length": 4
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													459,
+													1115,
+													473,
+													1115,
+													474,
+													1142,
+													459,
+													1143
+												]
+											}
+										],
+										"confidence": 0.995,
+										"spans": [
+											{
+												"offset": 134,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 3.5,
+											"currencyCode": "EUR"
+										},
+										"content": "3,50",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													897,
+													1102,
+													955,
+													1100,
+													955,
+													1131,
+													898,
+													1133
+												]
+											}
+										],
+										"confidence": 0.994,
+										"spans": [
+											{
+												"offset": 151,
+												"length": 4
+											}
+										]
+									}
+								},
+								"content": "1\nREFRESCOS\n3,50\n3,50",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											458,
+											1114,
+											955,
+											1099,
+											956,
+											1131,
+											459,
+											1146
+										]
+									}
+								],
+								"confidence": 0.993,
+								"spans": [
+									{
+										"offset": 134,
+										"length": 21
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "MENU DIARIO",
+										"content": "MENU DIARIO",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													527,
+													1165,
+													719,
+													1158,
+													720,
+													1190,
+													528,
+													1197
+												]
+											}
+										],
+										"confidence": 0.989,
+										"spans": [
+											{
+												"offset": 158,
+												"length": 11
+											}
+										]
+									},
+									"Price": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 15.9,
+											"currencyCode": "EUR"
+										},
+										"content": "15,90",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													778,
+													1156,
+													852,
+													1155,
+													852,
+													1187,
+													778,
+													1188
+												]
+											}
+										],
+										"confidence": 0.99,
+										"spans": [
+											{
+												"offset": 170,
+												"length": 5
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													460,
+													1169,
+													473,
+													1169,
+													473,
+													1196,
+													460,
+													1196
+												]
+											}
+										],
+										"confidence": 0.995,
+										"spans": [
+											{
+												"offset": 156,
+												"length": 1
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "currency",
+										"valueCurrency": {
+											"amount": 15.9,
+											"currencyCode": "EUR"
+										},
+										"content": "15,90",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													887,
+													1151,
+													958,
+													1150,
+													958,
+													1182,
+													888,
+													1183
+												]
+											}
+										],
+										"confidence": 0.993,
+										"spans": [
+											{
+												"offset": 176,
+												"length": 5
+											}
+										]
+									}
+								},
+								"content": "1\nMENU DIARIO\n15,90\n15,90",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											459,
+											1157,
+											958,
+											1150,
+											959,
+											1191,
+											460,
+											1198
+										]
+									}
+								],
+								"confidence": 0.991,
+								"spans": [
+									{
+										"offset": 156,
+										"length": 25
+									}
+								]
+							}
+						]
+					},
+					"MerchantAddress": {
+						"type": "address",
+						"content": "C. de Dom Juan, 35\n28002 Madrid",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									562,
+									425,
+									831,
+									421,
+									832,
+									507,
+									564,
+									511
+								]
+							}
+						],
+						"confidence": 0.987,
+						"spans": [
+							{
+								"offset": 8,
+								"length": 31
+							}
+						],
+						"valueAddress": {
+							"houseNumber": "35",
+							"road": "C. de Dom Juan",
+							"postalCode": "28002",
+							"city": "Madrid",
+							"streetAddress": "35 C. de Dom Juan"
+						}
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "Contoso",
+						"content": "Contoso",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									599,
+									355,
+									785,
+									359,
+									785,
+									394,
+									599,
+									395
+								]
+							}
+						],
+						"confidence": 0.976,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 7
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+34914112233",
+						"content": "914 11 22 33",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									647,
+									580,
+									866,
+									580,
+									866,
+									611,
+									647,
+									611
+								]
+							}
+						],
+						"confidence": 0.994,
+						"spans": [
+							{
+								"offset": 46,
+								"length": 12
+							}
+						]
+					},
+					"Total": {
+						"type": "currency",
+						"valueCurrency": {
+							"amount": 19.4,
+							"currencyCode": "EUR"
+						},
+						"content": "19.40",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									858,
+									1298,
+									953,
+									1292,
+									956,
+									1331,
+									860,
+									1338
+								]
+							}
+						],
+						"confidence": 0.981,
+						"spans": [
+							{
+								"offset": 188,
+								"length": 5
+							}
+						]
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2021-10-31",
+						"content": "31-10-21",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									874,
+									790,
+									993,
+									789,
+									993,
+									821,
+									874,
+									821
+								]
+							}
+						],
+						"confidence": 0.991,
+						"spans": [
+							{
+								"offset": 67,
+								"length": 8
+							}
+						]
+					},
+					"TransactionTime": {
+						"type": "time",
+						"valueTime": "13:10:48",
+						"content": "13:10:48",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									881,
+									843,
+									997,
+									841,
+									997,
+									873,
+									882,
+									873
+								]
+							}
+						],
+						"confidence": 0.995,
+						"spans": [
+							{
+								"offset": 83,
+								"length": 8
+							}
+						]
+					}
+				},
+				"confidence": 0.988,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 215
+					}
+				]
+			}
+		],
+		"contentFormat": "text"
+	}
+}

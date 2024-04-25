@@ -1,0 +1,3528 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-04-18T06:08:41Z",
+	"lastUpdatedDateTime": "2024-04-18T06:08:44Z",
+	"analyzeResult": {
+		"apiVersion": "2023-07-31",
+		"modelId": "prebuilt-receipt",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "TAX INVOICE / BELASTINGFAKTUUR\n57\nFrom\nVAALJAPIE\nDate\nVan\nSTASIE RESTAURANT\nDatum 11 /03/05\n044 - 6965878\n2\nE-pcs.vaaljapie@itcss.co.za\nMarlene\nTo\nV.A.T. Regd No.\nAan\nB.T.W. Gereg. Nr\nQuantity\nDescription\nUnit Price\nHoev\nBeskrywing\nEenheidsprys\nAmount\nBedrag\n2x\nOrange Juice\n1600\nSeemanspakkie\n1X\n25\n95\n1X\nBaseslaai\n30\n90\n1X\nHaarkrullers\n7\n50\n1x\nSaalsak\n5490\nROXLEY\nSub Total\nK135 /25\nSubtotaal\nV.A.T. @ ..\nBTW\n% / inclusive\n00\n0\nTERMS\ningesluit\nTERME\nDelete and complete as applicable.\nSkrap en voltool waar van toepassing.\nTOTAL\nTOTAAL",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0.43402570486068726,
+				"width": 736,
+				"height": 1128,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "TAX",
+						"polygon": [
+							35,
+							61,
+							80,
+							61,
+							79,
+							94,
+							34,
+							94
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 3
+						}
+					},
+					{
+						"content": "INVOICE",
+						"polygon": [
+							87,
+							61,
+							196,
+							62,
+							196,
+							96,
+							86,
+							94
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 4,
+							"length": 7
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							203,
+							62,
+							214,
+							62,
+							214,
+							96,
+							203,
+							96
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 12,
+							"length": 1
+						}
+					},
+					{
+						"content": "BELASTINGFAKTUUR",
+						"polygon": [
+							221,
+							62,
+							490,
+							63,
+							490,
+							99,
+							221,
+							96
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 14,
+							"length": 16
+						}
+					},
+					{
+						"content": "57",
+						"polygon": [
+							612,
+							77,
+							654,
+							77,
+							654,
+							110,
+							612,
+							110
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 31,
+							"length": 2
+						}
+					},
+					{
+						"content": "From",
+						"polygon": [
+							37,
+							135,
+							69,
+							135,
+							68,
+							152,
+							37,
+							151
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 34,
+							"length": 4
+						}
+					},
+					{
+						"content": "VAALJAPIE",
+						"polygon": [
+							170,
+							125,
+							302,
+							126,
+							302,
+							148,
+							170,
+							148
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 39,
+							"length": 9
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							494,
+							131,
+							527,
+							131,
+							527,
+							149,
+							494,
+							148
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 49,
+							"length": 4
+						}
+					},
+					{
+						"content": "Van",
+						"polygon": [
+							38,
+							153,
+							63,
+							153,
+							62,
+							168,
+							37,
+							168
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 54,
+							"length": 3
+						}
+					},
+					{
+						"content": "STASIE",
+						"polygon": [
+							125,
+							151,
+							196,
+							151,
+							196,
+							169,
+							125,
+							169
+						],
+						"confidence": 0.886,
+						"span": {
+							"offset": 58,
+							"length": 6
+						}
+					},
+					{
+						"content": "RESTAURANT",
+						"polygon": [
+							207,
+							151,
+							351,
+							151,
+							350,
+							169,
+							207,
+							170
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 65,
+							"length": 10
+						}
+					},
+					{
+						"content": "Datum",
+						"polygon": [
+							494,
+							151,
+							538,
+							146,
+							538,
+							169,
+							494,
+							168
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 76,
+							"length": 5
+						}
+					},
+					{
+						"content": "11",
+						"polygon": [
+							544,
+							146,
+							561,
+							145,
+							561,
+							168,
+							544,
+							169
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 82,
+							"length": 2
+						}
+					},
+					{
+						"content": "/03/05",
+						"polygon": [
+							565,
+							144,
+							658,
+							140,
+							658,
+							166,
+							565,
+							168
+						],
+						"confidence": 0.716,
+						"span": {
+							"offset": 85,
+							"length": 6
+						}
+					},
+					{
+						"content": "044",
+						"polygon": [
+							151,
+							172,
+							191,
+							173,
+							191,
+							193,
+							150,
+							193
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 92,
+							"length": 3
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							202,
+							173,
+							213,
+							173,
+							212,
+							193,
+							202,
+							193
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 96,
+							"length": 1
+						}
+					},
+					{
+						"content": "6965878",
+						"polygon": [
+							221,
+							173,
+							322,
+							173,
+							322,
+							194,
+							221,
+							193
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 98,
+							"length": 7
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							473,
+							173,
+							489,
+							172,
+							492,
+							199,
+							476,
+							201
+						],
+						"confidence": 0.84,
+						"span": {
+							"offset": 106,
+							"length": 1
+						}
+					},
+					{
+						"content": "E-pcs.vaaljapie@itcss.co.za",
+						"polygon": [
+							122,
+							197,
+							354,
+							200,
+							354,
+							216,
+							122,
+							214
+						],
+						"confidence": 0.582,
+						"span": {
+							"offset": 108,
+							"length": 27
+						}
+					},
+					{
+						"content": "Marlene",
+						"polygon": [
+							495,
+							199,
+							668,
+							193,
+							670,
+							249,
+							497,
+							250
+						],
+						"confidence": 0.943,
+						"span": {
+							"offset": 136,
+							"length": 7
+						}
+					},
+					{
+						"content": "To",
+						"polygon": [
+							37,
+							261,
+							52,
+							261,
+							52,
+							277,
+							37,
+							277
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 144,
+							"length": 2
+						}
+					},
+					{
+						"content": "V.A.T.",
+						"polygon": [
+							492,
+							258,
+							531,
+							259,
+							531,
+							279,
+							493,
+							279
+						],
+						"confidence": 0.539,
+						"span": {
+							"offset": 147,
+							"length": 6
+						}
+					},
+					{
+						"content": "Regd",
+						"polygon": [
+							535,
+							259,
+							573,
+							260,
+							573,
+							280,
+							535,
+							279
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 154,
+							"length": 4
+						}
+					},
+					{
+						"content": "No.",
+						"polygon": [
+							580,
+							261,
+							604,
+							261,
+							605,
+							279,
+							580,
+							280
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 159,
+							"length": 3
+						}
+					},
+					{
+						"content": "Aan",
+						"polygon": [
+							36,
+							279,
+							62,
+							279,
+							62,
+							294,
+							36,
+							294
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 163,
+							"length": 3
+						}
+					},
+					{
+						"content": "B.T.W.",
+						"polygon": [
+							492,
+							276,
+							536,
+							277,
+							536,
+							298,
+							492,
+							298
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 167,
+							"length": 6
+						}
+					},
+					{
+						"content": "Gereg.",
+						"polygon": [
+							540,
+							277,
+							586,
+							278,
+							586,
+							297,
+							540,
+							298
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 174,
+							"length": 6
+						}
+					},
+					{
+						"content": "Nr",
+						"polygon": [
+							590,
+							278,
+							609,
+							278,
+							609,
+							297,
+							590,
+							297
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 181,
+							"length": 2
+						}
+					},
+					{
+						"content": "Quantity",
+						"polygon": [
+							38,
+							381,
+							90,
+							382,
+							90,
+							398,
+							38,
+							396
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 184,
+							"length": 8
+						}
+					},
+					{
+						"content": "Description",
+						"polygon": [
+							223,
+							383,
+							294,
+							384,
+							294,
+							398,
+							223,
+							397
+						],
+						"confidence": 0.929,
+						"span": {
+							"offset": 193,
+							"length": 11
+						}
+					},
+					{
+						"content": "Unit",
+						"polygon": [
+							446,
+							386,
+							473,
+							386,
+							473,
+							399,
+							446,
+							399
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 205,
+							"length": 4
+						}
+					},
+					{
+						"content": "Price",
+						"polygon": [
+							476,
+							386,
+							508,
+							386,
+							508,
+							400,
+							476,
+							400
+						],
+						"confidence": 0.766,
+						"span": {
+							"offset": 210,
+							"length": 5
+						}
+					},
+					{
+						"content": "Hoev",
+						"polygon": [
+							46,
+							396,
+							78,
+							397,
+							77,
+							409,
+							46,
+							408
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 216,
+							"length": 4
+						}
+					},
+					{
+						"content": "Beskrywing",
+						"polygon": [
+							223,
+							397,
+							295,
+							399,
+							295,
+							414,
+							223,
+							413
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 221,
+							"length": 10
+						}
+					},
+					{
+						"content": "Eenheidsprys",
+						"polygon": [
+							435,
+							399,
+							520,
+							401,
+							521,
+							416,
+							435,
+							414
+						],
+						"confidence": 0.953,
+						"span": {
+							"offset": 232,
+							"length": 12
+						}
+					},
+					{
+						"content": "Amount",
+						"polygon": [
+							578,
+							387,
+							626,
+							388,
+							626,
+							401,
+							578,
+							400
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 245,
+							"length": 6
+						}
+					},
+					{
+						"content": "Bedrag",
+						"polygon": [
+							579,
+							401,
+							623,
+							402,
+							623,
+							416,
+							579,
+							415
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 252,
+							"length": 6
+						}
+					},
+					{
+						"content": "2x",
+						"polygon": [
+							59,
+							447,
+							91,
+							447,
+							91,
+							473,
+							59,
+							473
+						],
+						"confidence": 0.813,
+						"span": {
+							"offset": 259,
+							"length": 2
+						}
+					},
+					{
+						"content": "Orange",
+						"polygon": [
+							93,
+							426,
+							240,
+							429,
+							240,
+							478,
+							91,
+							474
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 262,
+							"length": 6
+						}
+					},
+					{
+						"content": "Juice",
+						"polygon": [
+							276,
+							430,
+							378,
+							433,
+							380,
+							477,
+							277,
+							478
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 269,
+							"length": 5
+						}
+					},
+					{
+						"content": "1600",
+						"polygon": [
+							579,
+							451,
+							665,
+							452,
+							666,
+							472,
+							579,
+							474
+						],
+						"confidence": 0.806,
+						"span": {
+							"offset": 275,
+							"length": 4
+						}
+					},
+					{
+						"content": "Seemanspakkie",
+						"polygon": [
+							102,
+							487,
+							390,
+							509,
+							390,
+							537,
+							100,
+							531
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 280,
+							"length": 13
+						}
+					},
+					{
+						"content": "1X",
+						"polygon": [
+							51,
+							508,
+							75,
+							508,
+							75,
+							530,
+							51,
+							530
+						],
+						"confidence": 0.725,
+						"span": {
+							"offset": 294,
+							"length": 2
+						}
+					},
+					{
+						"content": "25",
+						"polygon": [
+							573,
+							512,
+							607,
+							512,
+							608,
+							537,
+							573,
+							537
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 297,
+							"length": 2
+						}
+					},
+					{
+						"content": "95",
+						"polygon": [
+							627,
+							512,
+							663,
+							512,
+							663,
+							536,
+							627,
+							536
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 300,
+							"length": 2
+						}
+					},
+					{
+						"content": "1X",
+						"polygon": [
+							51,
+							543,
+							77,
+							543,
+							77,
+							564,
+							51,
+							564
+						],
+						"confidence": 0.817,
+						"span": {
+							"offset": 303,
+							"length": 2
+						}
+					},
+					{
+						"content": "Baseslaai",
+						"polygon": [
+							100,
+							536,
+							294,
+							541,
+							294,
+							565,
+							100,
+							565
+						],
+						"confidence": 0.64,
+						"span": {
+							"offset": 306,
+							"length": 9
+						}
+					},
+					{
+						"content": "30",
+						"polygon": [
+							568,
+							543,
+							605,
+							543,
+							605,
+							566,
+							568,
+							566
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 316,
+							"length": 2
+						}
+					},
+					{
+						"content": "90",
+						"polygon": [
+							626,
+							543,
+							663,
+							542,
+							663,
+							563,
+							626,
+							564
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 319,
+							"length": 2
+						}
+					},
+					{
+						"content": "1X",
+						"polygon": [
+							49,
+							573,
+							79,
+							571,
+							81,
+							591,
+							51,
+							593
+						],
+						"confidence": 0.715,
+						"span": {
+							"offset": 322,
+							"length": 2
+						}
+					},
+					{
+						"content": "Haarkrullers",
+						"polygon": [
+							97,
+							567,
+							311,
+							569,
+							311,
+							592,
+							96,
+							593
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 325,
+							"length": 12
+						}
+					},
+					{
+						"content": "7",
+						"polygon": [
+							596,
+							569,
+							610,
+							569,
+							609,
+							593,
+							596,
+							593
+						],
+						"confidence": 0.602,
+						"span": {
+							"offset": 338,
+							"length": 1
+						}
+					},
+					{
+						"content": "50",
+						"polygon": [
+							632,
+							571,
+							667,
+							571,
+							667,
+							591,
+							631,
+							591
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 340,
+							"length": 2
+						}
+					},
+					{
+						"content": "1x",
+						"polygon": [
+							51,
+							596,
+							80,
+							596,
+							80,
+							621,
+							51,
+							621
+						],
+						"confidence": 0.635,
+						"span": {
+							"offset": 343,
+							"length": 2
+						}
+					},
+					{
+						"content": "Saalsak",
+						"polygon": [
+							99,
+							594,
+							236,
+							595,
+							236,
+							622,
+							97,
+							621
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 346,
+							"length": 7
+						}
+					},
+					{
+						"content": "5490",
+						"polygon": [
+							573,
+							601,
+							666,
+							603,
+							666,
+							625,
+							574,
+							625
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 354,
+							"length": 4
+						}
+					},
+					{
+						"content": "ROXLEY",
+						"polygon": [
+							39,
+							939,
+							158,
+							941,
+							158,
+							969,
+							40,
+							970
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 359,
+							"length": 6
+						}
+					},
+					{
+						"content": "Sub",
+						"polygon": [
+							448,
+							934,
+							475,
+							934,
+							475,
+							950,
+							449,
+							950
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 366,
+							"length": 3
+						}
+					},
+					{
+						"content": "Total",
+						"polygon": [
+							480,
+							934,
+							512,
+							934,
+							512,
+							952,
+							480,
+							950
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 370,
+							"length": 5
+						}
+					},
+					{
+						"content": "K135",
+						"polygon": [
+							524,
+							928,
+							588,
+							928,
+							590,
+							976,
+							525,
+							978
+						],
+						"confidence": 0.758,
+						"span": {
+							"offset": 376,
+							"length": 4
+						}
+					},
+					{
+						"content": "/25",
+						"polygon": [
+							598,
+							928,
+							657,
+							928,
+							658,
+							974,
+							600,
+							976
+						],
+						"confidence": 0.509,
+						"span": {
+							"offset": 381,
+							"length": 3
+						}
+					},
+					{
+						"content": "Subtotaal",
+						"polygon": [
+							449,
+							950,
+							515,
+							949,
+							515,
+							968,
+							449,
+							966
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 385,
+							"length": 9
+						}
+					},
+					{
+						"content": "V.A.T.",
+						"polygon": [
+							240,
+							971,
+							280,
+							973,
+							279,
+							993,
+							239,
+							993
+						],
+						"confidence": 0.91,
+						"span": {
+							"offset": 395,
+							"length": 6
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							284,
+							973,
+							292,
+							974,
+							291,
+							993,
+							283,
+							993
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 402,
+							"length": 1
+						}
+					},
+					{
+						"content": "..",
+						"polygon": [
+							296,
+							974,
+							305,
+							975,
+							305,
+							993,
+							295,
+							993
+						],
+						"confidence": 0.581,
+						"span": {
+							"offset": 404,
+							"length": 2
+						}
+					},
+					{
+						"content": "BTW",
+						"polygon": [
+							236,
+							986,
+							271,
+							987,
+							271,
+							1003,
+							235,
+							1002
+						],
+						"confidence": 0.517,
+						"span": {
+							"offset": 407,
+							"length": 3
+						}
+					},
+					{
+						"content": "%",
+						"polygon": [
+							430,
+							979,
+							438,
+							978,
+							437,
+							996,
+							429,
+							998
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 411,
+							"length": 1
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							441,
+							978,
+							448,
+							977,
+							448,
+							995,
+							441,
+							996
+						],
+						"confidence": 0.936,
+						"span": {
+							"offset": 413,
+							"length": 1
+						}
+					},
+					{
+						"content": "inclusive",
+						"polygon": [
+							452,
+							976,
+							515,
+							975,
+							514,
+							993,
+							451,
+							994
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 415,
+							"length": 9
+						}
+					},
+					{
+						"content": "00",
+						"polygon": [
+							593,
+							967,
+							660,
+							971,
+							658,
+							1006,
+							591,
+							1001
+						],
+						"confidence": 0.429,
+						"span": {
+							"offset": 425,
+							"length": 2
+						}
+					},
+					{
+						"content": "0",
+						"polygon": [
+							680,
+							973,
+							688,
+							973,
+							688,
+							988,
+							680,
+							988
+						],
+						"confidence": 0.891,
+						"span": {
+							"offset": 428,
+							"length": 1
+						}
+					},
+					{
+						"content": "TERMS",
+						"polygon": [
+							25,
+							992,
+							80,
+							993,
+							80,
+							1010,
+							25,
+							1009
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 430,
+							"length": 5
+						}
+					},
+					{
+						"content": "ingesluit",
+						"polygon": [
+							452,
+							990,
+							515,
+							990,
+							515,
+							1009,
+							451,
+							1007
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 436,
+							"length": 9
+						}
+					},
+					{
+						"content": "TERME",
+						"polygon": [
+							25,
+							1011,
+							79,
+							1012,
+							79,
+							1028,
+							25,
+							1028
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 446,
+							"length": 5
+						}
+					},
+					{
+						"content": "Delete",
+						"polygon": [
+							236,
+							1005,
+							269,
+							1006,
+							269,
+							1020,
+							235,
+							1019
+						],
+						"confidence": 0.944,
+						"span": {
+							"offset": 452,
+							"length": 6
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							272,
+							1006,
+							292,
+							1006,
+							291,
+							1020,
+							272,
+							1020
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 459,
+							"length": 3
+						}
+					},
+					{
+						"content": "complete",
+						"polygon": [
+							295,
+							1006,
+							343,
+							1006,
+							342,
+							1021,
+							294,
+							1020
+						],
+						"confidence": 0.811,
+						"span": {
+							"offset": 463,
+							"length": 8
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							345,
+							1007,
+							358,
+							1007,
+							358,
+							1021,
+							345,
+							1021
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 472,
+							"length": 2
+						}
+					},
+					{
+						"content": "applicable.",
+						"polygon": [
+							361,
+							1007,
+							417,
+							1007,
+							417,
+							1021,
+							361,
+							1021
+						],
+						"confidence": 0.86,
+						"span": {
+							"offset": 475,
+							"length": 11
+						}
+					},
+					{
+						"content": "Skrap",
+						"polygon": [
+							236,
+							1017,
+							267,
+							1018,
+							267,
+							1032,
+							236,
+							1032
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 487,
+							"length": 5
+						}
+					},
+					{
+						"content": "en",
+						"polygon": [
+							269,
+							1018,
+							283,
+							1018,
+							283,
+							1032,
+							269,
+							1032
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 493,
+							"length": 2
+						}
+					},
+					{
+						"content": "voltool",
+						"polygon": [
+							285,
+							1018,
+							322,
+							1019,
+							322,
+							1033,
+							285,
+							1032
+						],
+						"confidence": 0.689,
+						"span": {
+							"offset": 496,
+							"length": 7
+						}
+					},
+					{
+						"content": "waar",
+						"polygon": [
+							325,
+							1019,
+							350,
+							1019,
+							350,
+							1033,
+							325,
+							1033
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 504,
+							"length": 4
+						}
+					},
+					{
+						"content": "van",
+						"polygon": [
+							353,
+							1019,
+							372,
+							1020,
+							372,
+							1034,
+							353,
+							1033
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 509,
+							"length": 3
+						}
+					},
+					{
+						"content": "toepassing.",
+						"polygon": [
+							374,
+							1020,
+							436,
+							1020,
+							436,
+							1034,
+							374,
+							1034
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 513,
+							"length": 11
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							461,
+							1012,
+							512,
+							1013,
+							513,
+							1032,
+							461,
+							1031
+						],
+						"confidence": 0.555,
+						"span": {
+							"offset": 525,
+							"length": 5
+						}
+					},
+					{
+						"content": "TOTAAL",
+						"polygon": [
+							450,
+							1027,
+							515,
+							1028,
+							515,
+							1051,
+							449,
+							1049
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 531,
+							"length": 6
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "TAX INVOICE / BELASTINGFAKTUUR",
+						"polygon": [
+							32,
+							60,
+							495,
+							63,
+							495,
+							98,
+							32,
+							94
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "57",
+						"polygon": [
+							613,
+							77,
+							655,
+							77,
+							655,
+							110,
+							612,
+							110
+						],
+						"spans": [
+							{
+								"offset": 31,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "From",
+						"polygon": [
+							36,
+							135,
+							74,
+							135,
+							74,
+							152,
+							36,
+							151
+						],
+						"spans": [
+							{
+								"offset": 34,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "VAALJAPIE",
+						"polygon": [
+							168,
+							125,
+							307,
+							126,
+							307,
+							148,
+							168,
+							147
+						],
+						"spans": [
+							{
+								"offset": 39,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							493,
+							131,
+							528,
+							132,
+							528,
+							149,
+							494,
+							149
+						],
+						"spans": [
+							{
+								"offset": 49,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Van",
+						"polygon": [
+							35,
+							153,
+							64,
+							154,
+							64,
+							168,
+							34,
+							168
+						],
+						"spans": [
+							{
+								"offset": 54,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "STASIE RESTAURANT",
+						"polygon": [
+							124,
+							150,
+							351,
+							150,
+							351,
+							169,
+							124,
+							169
+						],
+						"spans": [
+							{
+								"offset": 58,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Datum 11 /03/05",
+						"polygon": [
+							493,
+							146,
+							670,
+							139,
+							671,
+							165,
+							494,
+							169
+						],
+						"spans": [
+							{
+								"offset": 76,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "044 - 6965878",
+						"polygon": [
+							149,
+							172,
+							323,
+							173,
+							323,
+							193,
+							149,
+							192
+						],
+						"spans": [
+							{
+								"offset": 92,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							463,
+							174,
+							491,
+							172,
+							491,
+							199,
+							464,
+							203
+						],
+						"spans": [
+							{
+								"offset": 106,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "E-pcs.vaaljapie@itcss.co.za",
+						"polygon": [
+							121,
+							197,
+							354,
+							199,
+							354,
+							216,
+							121,
+							214
+						],
+						"spans": [
+							{
+								"offset": 108,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Marlene",
+						"polygon": [
+							493,
+							196,
+							674,
+							192,
+							675,
+							248,
+							494,
+							250
+						],
+						"spans": [
+							{
+								"offset": 136,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "To",
+						"polygon": [
+							32,
+							261,
+							53,
+							261,
+							53,
+							277,
+							32,
+							276
+						],
+						"spans": [
+							{
+								"offset": 144,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "V.A.T. Regd No.",
+						"polygon": [
+							491,
+							258,
+							605,
+							260,
+							605,
+							280,
+							491,
+							278
+						],
+						"spans": [
+							{
+								"offset": 147,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Aan",
+						"polygon": [
+							33,
+							279,
+							62,
+							279,
+							62,
+							294,
+							34,
+							294
+						],
+						"spans": [
+							{
+								"offset": 163,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "B.T.W. Gereg. Nr",
+						"polygon": [
+							492,
+							276,
+							609,
+							277,
+							609,
+							298,
+							492,
+							297
+						],
+						"spans": [
+							{
+								"offset": 167,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "Quantity",
+						"polygon": [
+							37,
+							380,
+							90,
+							382,
+							90,
+							398,
+							37,
+							396
+						],
+						"spans": [
+							{
+								"offset": 184,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Description",
+						"polygon": [
+							222,
+							383,
+							296,
+							384,
+							296,
+							398,
+							222,
+							397
+						],
+						"spans": [
+							{
+								"offset": 193,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Unit Price",
+						"polygon": [
+							445,
+							385,
+							509,
+							386,
+							509,
+							400,
+							445,
+							398
+						],
+						"spans": [
+							{
+								"offset": 205,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Hoev",
+						"polygon": [
+							45,
+							396,
+							80,
+							397,
+							79,
+							409,
+							45,
+							408
+						],
+						"spans": [
+							{
+								"offset": 216,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Beskrywing",
+						"polygon": [
+							222,
+							397,
+							296,
+							398,
+							296,
+							414,
+							222,
+							412
+						],
+						"spans": [
+							{
+								"offset": 221,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Eenheidsprys",
+						"polygon": [
+							434,
+							398,
+							521,
+							401,
+							521,
+							416,
+							434,
+							413
+						],
+						"spans": [
+							{
+								"offset": 232,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Amount",
+						"polygon": [
+							577,
+							386,
+							626,
+							387,
+							626,
+							401,
+							577,
+							400
+						],
+						"spans": [
+							{
+								"offset": 245,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Bedrag",
+						"polygon": [
+							579,
+							400,
+							625,
+							402,
+							624,
+							416,
+							579,
+							414
+						],
+						"spans": [
+							{
+								"offset": 252,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "2x",
+						"polygon": [
+							51,
+							447,
+							93,
+							447,
+							92,
+							473,
+							51,
+							473
+						],
+						"spans": [
+							{
+								"offset": 259,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Orange Juice",
+						"polygon": [
+							84,
+							426,
+							385,
+							431,
+							384,
+							478,
+							83,
+							475
+						],
+						"spans": [
+							{
+								"offset": 262,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "1600",
+						"polygon": [
+							579,
+							450,
+							671,
+							450,
+							671,
+							473,
+							579,
+							473
+						],
+						"spans": [
+							{
+								"offset": 275,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Seemanspakkie",
+						"polygon": [
+							91,
+							486,
+							393,
+							501,
+							392,
+							537,
+							89,
+							529
+						],
+						"spans": [
+							{
+								"offset": 280,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "1X",
+						"polygon": [
+							50,
+							508,
+							78,
+							508,
+							78,
+							530,
+							51,
+							530
+						],
+						"spans": [
+							{
+								"offset": 294,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "25",
+						"polygon": [
+							566,
+							512,
+							615,
+							512,
+							615,
+							536,
+							566,
+							537
+						],
+						"spans": [
+							{
+								"offset": 297,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "95",
+						"polygon": [
+							620,
+							512,
+							668,
+							512,
+							669,
+							535,
+							620,
+							536
+						],
+						"spans": [
+							{
+								"offset": 300,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "1X",
+						"polygon": [
+							50,
+							543,
+							82,
+							543,
+							82,
+							564,
+							50,
+							564
+						],
+						"spans": [
+							{
+								"offset": 303,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Baseslaai",
+						"polygon": [
+							95,
+							536,
+							295,
+							538,
+							295,
+							566,
+							95,
+							565
+						],
+						"spans": [
+							{
+								"offset": 306,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "30",
+						"polygon": [
+							561,
+							543,
+							616,
+							543,
+							616,
+							565,
+							562,
+							566
+						],
+						"spans": [
+							{
+								"offset": 316,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "90",
+						"polygon": [
+							620,
+							543,
+							670,
+							542,
+							671,
+							563,
+							621,
+							564
+						],
+						"spans": [
+							{
+								"offset": 319,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "1X",
+						"polygon": [
+							49,
+							573,
+							84,
+							571,
+							84,
+							591,
+							50,
+							593
+						],
+						"spans": [
+							{
+								"offset": 322,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Haarkrullers",
+						"polygon": [
+							96,
+							566,
+							314,
+							567,
+							314,
+							593,
+							96,
+							592
+						],
+						"spans": [
+							{
+								"offset": 325,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "7",
+						"polygon": [
+							573,
+							569,
+							612,
+							571,
+							612,
+							592,
+							573,
+							593
+						],
+						"spans": [
+							{
+								"offset": 338,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "50",
+						"polygon": [
+							623,
+							571,
+							672,
+							572,
+							672,
+							591,
+							623,
+							591
+						],
+						"spans": [
+							{
+								"offset": 340,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "1x",
+						"polygon": [
+							51,
+							596,
+							80,
+							596,
+							80,
+							621,
+							50,
+							621
+						],
+						"spans": [
+							{
+								"offset": 343,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Saalsak",
+						"polygon": [
+							92,
+							593,
+							243,
+							595,
+							242,
+							622,
+							92,
+							620
+						],
+						"spans": [
+							{
+								"offset": 346,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "5490",
+						"polygon": [
+							569,
+							600,
+							670,
+							602,
+							670,
+							625,
+							569,
+							624
+						],
+						"spans": [
+							{
+								"offset": 354,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "ROXLEY",
+						"polygon": [
+							24,
+							939,
+							161,
+							940,
+							160,
+							969,
+							24,
+							969
+						],
+						"spans": [
+							{
+								"offset": 359,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Sub Total",
+						"polygon": [
+							446,
+							933,
+							512,
+							933,
+							512,
+							951,
+							446,
+							950
+						],
+						"spans": [
+							{
+								"offset": 366,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "K135 /25",
+						"polygon": [
+							524,
+							928,
+							658,
+							933,
+							660,
+							965,
+							525,
+							978
+						],
+						"spans": [
+							{
+								"offset": 376,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Subtotaal",
+						"polygon": [
+							446,
+							948,
+							514,
+							948,
+							514,
+							967,
+							446,
+							967
+						],
+						"spans": [
+							{
+								"offset": 385,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "V.A.T. @ ..",
+						"polygon": [
+							235,
+							971,
+							306,
+							973,
+							305,
+							994,
+							235,
+							993
+						],
+						"spans": [
+							{
+								"offset": 395,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "BTW",
+						"polygon": [
+							234,
+							986,
+							277,
+							987,
+							277,
+							1003,
+							234,
+							1002
+						],
+						"spans": [
+							{
+								"offset": 407,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "% / inclusive",
+						"polygon": [
+							423,
+							977,
+							515,
+							974,
+							516,
+							992,
+							423,
+							998
+						],
+						"spans": [
+							{
+								"offset": 411,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "00",
+						"polygon": [
+							583,
+							966,
+							664,
+							971,
+							664,
+							1006,
+							583,
+							1001
+						],
+						"spans": [
+							{
+								"offset": 425,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "0",
+						"polygon": [
+							677,
+							973,
+							689,
+							973,
+							690,
+							988,
+							677,
+							988
+						],
+						"spans": [
+							{
+								"offset": 428,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "TERMS",
+						"polygon": [
+							24,
+							992,
+							80,
+							992,
+							80,
+							1009,
+							24,
+							1009
+						],
+						"spans": [
+							{
+								"offset": 430,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "ingesluit",
+						"polygon": [
+							447,
+							989,
+							515,
+							989,
+							515,
+							1008,
+							446,
+							1007
+						],
+						"spans": [
+							{
+								"offset": 436,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "TERME",
+						"polygon": [
+							23,
+							1011,
+							81,
+							1011,
+							81,
+							1028,
+							23,
+							1028
+						],
+						"spans": [
+							{
+								"offset": 446,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Delete and complete as applicable.",
+						"polygon": [
+							234,
+							1005,
+							417,
+							1007,
+							417,
+							1021,
+							234,
+							1019
+						],
+						"spans": [
+							{
+								"offset": 452,
+								"length": 34
+							}
+						]
+					},
+					{
+						"content": "Skrap en voltool waar van toepassing.",
+						"polygon": [
+							234,
+							1016,
+							436,
+							1019,
+							436,
+							1034,
+							234,
+							1031
+						],
+						"spans": [
+							{
+								"offset": 487,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							452,
+							1011,
+							514,
+							1012,
+							514,
+							1031,
+							452,
+							1030
+						],
+						"spans": [
+							{
+								"offset": 525,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "TOTAAL",
+						"polygon": [
+							446,
+							1026,
+							516,
+							1027,
+							515,
+							1050,
+							445,
+							1049
+						],
+						"spans": [
+							{
+								"offset": 531,
+								"length": 6
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 537
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"confidence": 0.7,
+				"spans": [
+					{
+						"offset": 76,
+						"length": 15
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 106,
+						"length": 1
+					},
+					{
+						"offset": 136,
+						"length": 7
+					},
+					{
+						"offset": 259,
+						"length": 94
+					},
+					{
+						"offset": 376,
+						"length": 8
+					},
+					{
+						"offset": 425,
+						"length": 2
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.95,
+				"spans": [
+					{
+						"offset": 354,
+						"length": 4
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.3,
+				"spans": [
+					{
+						"offset": 428,
+						"length": 1
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"documents": [
+			{
+				"docType": "receipt.retailMeal",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							736,
+							0,
+							736,
+							1128,
+							0,
+							1128
+						]
+					}
+				],
+				"fields": {
+					"Items": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Orange Juice",
+										"content": "Orange Juice",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													92,
+													426,
+													381,
+													432,
+													380,
+													481,
+													91,
+													474
+												]
+											}
+										],
+										"confidence": 0.975,
+										"spans": [
+											{
+												"offset": 262,
+												"length": 12
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 2,
+										"content": "2x",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													59,
+													447,
+													91,
+													447,
+													91,
+													473,
+													59,
+													473
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 259,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "1600",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													579,
+													451,
+													665,
+													452,
+													666,
+													472,
+													579,
+													474
+												]
+											}
+										],
+										"confidence": 0.983,
+										"spans": [
+											{
+												"offset": 275,
+												"length": 4
+											}
+										],
+										"valueNumber": 1600
+									}
+								},
+								"content": "2x\nOrange Juice\n1600",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											59,
+											426,
+											666,
+											432,
+											666,
+											482,
+											59,
+											476
+										]
+									}
+								],
+								"confidence": 0.969,
+								"spans": [
+									{
+										"offset": 259,
+										"length": 20
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Seemanspakkie",
+										"content": "Seemanspakkie",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													102,
+													487,
+													390,
+													509,
+													390,
+													537,
+													100,
+													531
+												]
+											}
+										],
+										"confidence": 0.95,
+										"spans": [
+											{
+												"offset": 280,
+												"length": 13
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "25",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													573,
+													512,
+													607,
+													512,
+													608,
+													537,
+													573,
+													537
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 297,
+												"length": 2
+											}
+										],
+										"valueNumber": 25
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1X",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													51,
+													508,
+													75,
+													508,
+													75,
+													530,
+													51,
+													530
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 294,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "95",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													627,
+													512,
+													663,
+													512,
+													663,
+													536,
+													627,
+													536
+												]
+											}
+										],
+										"confidence": 0.983,
+										"spans": [
+											{
+												"offset": 300,
+												"length": 2
+											}
+										],
+										"valueNumber": 95
+									}
+								},
+								"content": "Seemanspakkie\n1X\n25\n95",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											51,
+											487,
+											663,
+											487,
+											663,
+											537,
+											51,
+											537
+										]
+									}
+								],
+								"confidence": 0.963,
+								"spans": [
+									{
+										"offset": 280,
+										"length": 22
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Baseslaai",
+										"content": "Baseslaai",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													100,
+													536,
+													294,
+													541,
+													294,
+													565,
+													100,
+													565
+												]
+											}
+										],
+										"confidence": 0.948,
+										"spans": [
+											{
+												"offset": 306,
+												"length": 9
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "30",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													568,
+													543,
+													605,
+													543,
+													605,
+													566,
+													568,
+													566
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 316,
+												"length": 2
+											}
+										],
+										"valueNumber": 30
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1X",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													51,
+													543,
+													77,
+													543,
+													77,
+													564,
+													51,
+													564
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 303,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "90",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													626,
+													543,
+													663,
+													542,
+													663,
+													563,
+													626,
+													564
+												]
+											}
+										],
+										"confidence": 0.983,
+										"spans": [
+											{
+												"offset": 319,
+												"length": 2
+											}
+										],
+										"valueNumber": 90
+									}
+								},
+								"content": "1X\nBaseslaai\n30\n90",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											51,
+											536,
+											663,
+											536,
+											663,
+											566,
+											51,
+											566
+										]
+									}
+								],
+								"confidence": 0.963,
+								"spans": [
+									{
+										"offset": 303,
+										"length": 18
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Haarkrullers",
+										"content": "Haarkrullers",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													97,
+													567,
+													311,
+													569,
+													311,
+													592,
+													96,
+													593
+												]
+											}
+										],
+										"confidence": 0.954,
+										"spans": [
+											{
+												"offset": 325,
+												"length": 12
+											}
+										]
+									},
+									"Price": {
+										"type": "number",
+										"content": "7",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													596,
+													569,
+													610,
+													569,
+													609,
+													593,
+													596,
+													593
+												]
+											}
+										],
+										"confidence": 0.981,
+										"spans": [
+											{
+												"offset": 338,
+												"length": 1
+											}
+										],
+										"valueNumber": 7
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1X",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													49,
+													573,
+													79,
+													571,
+													81,
+													591,
+													51,
+													593
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 322,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "50",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													632,
+													571,
+													667,
+													571,
+													667,
+													591,
+													631,
+													591
+												]
+											}
+										],
+										"confidence": 0.983,
+										"spans": [
+											{
+												"offset": 340,
+												"length": 2
+											}
+										],
+										"valueNumber": 50
+									}
+								},
+								"content": "1X\nHaarkrullers\n7\n50",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											49,
+											567,
+											667,
+											567,
+											667,
+											593,
+											49,
+											593
+										]
+									}
+								],
+								"confidence": 0.96,
+								"spans": [
+									{
+										"offset": 322,
+										"length": 20
+									}
+								]
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Description": {
+										"type": "string",
+										"valueString": "Saalsak",
+										"content": "Saalsak",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													99,
+													594,
+													236,
+													595,
+													236,
+													622,
+													97,
+													621
+												]
+											}
+										],
+										"confidence": 0.952,
+										"spans": [
+											{
+												"offset": 346,
+												"length": 7
+											}
+										]
+									},
+									"Quantity": {
+										"type": "number",
+										"valueNumber": 1,
+										"content": "1x",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													51,
+													596,
+													80,
+													596,
+													80,
+													621,
+													51,
+													621
+												]
+											}
+										],
+										"confidence": 0.985,
+										"spans": [
+											{
+												"offset": 343,
+												"length": 2
+											}
+										]
+									},
+									"TotalPrice": {
+										"type": "number",
+										"content": "5490",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													573,
+													601,
+													666,
+													603,
+													666,
+													625,
+													574,
+													625
+												]
+											}
+										],
+										"confidence": 0.983,
+										"spans": [
+											{
+												"offset": 354,
+												"length": 4
+											}
+										],
+										"valueNumber": 5490
+									}
+								},
+								"content": "1x\nSaalsak\n5490",
+								"boundingRegions": [
+									{
+										"pageNumber": 1,
+										"polygon": [
+											51,
+											594,
+											666,
+											598,
+											666,
+											626,
+											51,
+											621
+										]
+									}
+								],
+								"confidence": 0.958,
+								"spans": [
+									{
+										"offset": 343,
+										"length": 15
+									}
+								]
+							}
+						]
+					},
+					"MerchantName": {
+						"type": "string",
+						"valueString": "VAALJAPIE\nSTASIE RESTAURANT",
+						"content": "VAALJAPIE\nSTASIE RESTAURANT",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									125,
+									125,
+									351,
+									125,
+									351,
+									170,
+									125,
+									170
+								]
+							}
+						],
+						"confidence": 0.584,
+						"spans": [
+							{
+								"offset": 39,
+								"length": 9
+							},
+							{
+								"offset": 58,
+								"length": 17
+							}
+						]
+					},
+					"MerchantPhoneNumber": {
+						"type": "phoneNumber",
+						"valuePhoneNumber": "+31446965878",
+						"content": "044 - 6965878",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									150,
+									172,
+									322,
+									173,
+									322,
+									194,
+									150,
+									193
+								]
+							}
+						],
+						"confidence": 0.973,
+						"spans": [
+							{
+								"offset": 92,
+								"length": 13
+							}
+						]
+					},
+					"Total": {
+						"type": "number",
+						"content": "/25",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									598,
+									928,
+									657,
+									928,
+									658,
+									974,
+									600,
+									976
+								]
+							}
+						],
+						"confidence": 0.666,
+						"spans": [
+							{
+								"offset": 381,
+								"length": 3
+							}
+						],
+						"valueNumber": 25
+					},
+					"TransactionDate": {
+						"type": "date",
+						"valueDate": "2005-03-11",
+						"content": "11 /03/05",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									543,
+									144,
+									658,
+									140,
+									659,
+									166,
+									544,
+									170
+								]
+							}
+						],
+						"confidence": 0.977,
+						"spans": [
+							{
+								"offset": 82,
+								"length": 9
+							}
+						]
+					}
+				},
+				"confidence": 0.988,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 537
+					}
+				]
+			}
+		]
+	}
+}
